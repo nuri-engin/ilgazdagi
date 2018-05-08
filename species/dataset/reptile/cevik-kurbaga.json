@@ -1,0 +1,24 @@
+{
+  "rank": 613,
+  "id": "cevik-kurbaga",
+  "name_tr":"Çevik Kurbağa",
+  "name_la":"Rana dalmatina ",
+  "taxon":"Animalia>Chordata>Amphibia>Anura>Ranidae>Rana",
+  "name_en":"Agile frog",
+  "criteria":"LC (Asgari Kaygı)",
+  "name_lo":"",
+  "snippet": "İki yaşamlılar (amfibia) sınıfına ait kuyruzsuz kurbağalardır.",
+  "description":"İki yaşamlılar (amfibia) sınıfına ait kuyruzsuz kurbağalardır. Sırt bölgesi sarımsı renkten kahverengiye kadar değişir. Benekler çok küçük noktalar halindedir.karın bölgesi sarım beyaz ve lekesizdir. 4-9 cm boyundadırlar.","spread":"Trakya, Marmara, Batı Karadeniz, Orta Karadeniz, Doğu Karadeniz","nutrition":"Besinlerini küçük böcekler oluşturur.",
+  "nesting":"Yaprak döken ağaçlardan oluşan orman ve koruluklarda, yaprakların altında, yüksek bitkili ıslak çayırlarda bulunurlar.",
+  "behavior":"Erkekler, ön bacaklarıyla dişileri koltuk altından sıkıca kavrayarak çiftleşmeyi sağlarlar ve ",
+  "lifetime":"10-15 yıl",
+  "pairing":"Şubat, Mart, Nisan, Mayıs, Haziran, Temmuz, Ağustos, Eylül, Ekim, Kasım",
+  "breeding":"Mart, Nisan, Mayıs, Haziran, Temmuz, Ağustos, Eylül, Ekim",
+  "relevant":"Bir defada 2 m sıçrayabilirler. Bulundukları çevreye renk uyumları çok iyi olduğundan, fark edilmeleri çok zordur.",
+  "imageUrl": "images/reptile/613/thumb.jpg",
+  "images": [
+    "images/reptile/613/thumb.jpg",
+    "images/reptile/613/01.jpg",
+    "images/reptile/613/03.jpg"
+  ]
+}

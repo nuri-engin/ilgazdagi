@@ -1,0 +1,21 @@
+{
+  "rank": 103,
+  "id": "yilan-kartali",
+  "name_tr":"Yılan Kartalı",
+  "name_la":"Circaetus gallicus",
+  "name_en":"Short-toed eagle",
+  "criteria":"LC (Asgari Kaygı)",
+  "snippet": "Büyük, uzun kanatlı, üst tarafı grimsi- kahverengi ve altı açık renkli bir kartaldır.",
+  "description":"Büyük, uzun kanatlı, üst tarafı grimsi- kahverengi ve altı açık renkli bir kartaldır. Altı kirli beyaz üzerine benekli ve enine çizgilidir, koyu renkli başı ve kahverengimsi göğüs üstü tüyleri kontrast oluşturur. Kuyruğu kısa, küt uçludur ve kuyruğa eşit aralıklarla dağılmış üç koyu bant bulunur. Uçarken esnek bir biçimde yavaş yavaş kanat çırpar, dönerken kanatlarını düz veye hafifçe yukarı kalkık tutar, sıkça havada asılı kalır.",
+  "habitat":"Açık araziler, bayırlar, kurak bölgeler, taşlık ve çalılık bölgeler yaşam alanlarıdır ancak yuvalarını ağaçlara yaparlar.",
+  "spread":" Göç eden bir türdür. Geniş bir yayılım alanı vardır: Güney-batı Avrupa'dan, Kuzey-batı Afrika ve Orta Asya'ya kadar dağılım gösterir. Batı populasyonları kışı Afrikada geçirmek için göç ederken Türkiye üzerinden geçerler.",
+  "morphology":"Boyu: 64-73 cm. Kanat açıklığı: 165-180 cm  Ağırlık: 1200-2300 g  ",
+  "nutrition":"Başlıca besini yılanlardır. Kurbağalar, kertenkeleler, omurgasızlar ve küçük kemirgenler ile yiyecek sıkıntısı çekmeleri halinde kuşları da avlarlar. Avlarını parçalamadan yutarlar ve avlarını genellikle havada süzülürken veya asılı kalırken bulup, aşağı doğru keskin dalışlarla yakalarlar.",
+  "gamogeneses":"Nisan-Ekim ayları arasında ürerler. Tek yumurta bırakırlar ve kuluçka dönemi 45-47 gün sürer. Yumurtadan çıktıktan 60-80 günün sonunda yavrular yuvadan ayrılmaya hazır hale gelir.",
+  "ilgaz_population":"",
+  "taxon": "Animalia> Chordata> Aves> Accipitriformes> Accipitridae> Circaetus>",
+  "imageUrl": "images/bird/103-yilan-kartali/thumb.jpg",
+  "images": [
+    "images/bird/103-yilan-kartali/thumb.jpg"
+  ]
+}

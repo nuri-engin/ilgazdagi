@@ -1,0 +1,23 @@
+{
+  "rank": 610, "id": "gece-kurbagasi",
+  "name_tr":"Gece Kurbağası",
+  "name_la":"Bufotes viridis",
+  "taxon":"Animalia>Chordata>Amphibia>Anura>Bufonidae>Bufotes",
+  "name_en":"Green toad",
+  "criteria":"LC (Asgari Kaygı)",
+  "name_lo":"Kurbağa",
+  "snippet": "İki yaşamlılar (amfibia) sınıfına ait kuyruzsuz kurbağalardır.",
+  "description":"İki yaşamlılar (amfibia) sınıfına ait kuyruzsuz kurbağalardır. Sırt bölgesi genel olarak grimsi yeşil beneklerse kenarları siyah olan yeşil renktedir. Karın bölgesi genellikle kirli beyaz ve daha az beneklidir.",
+  "spread":"Hemen hemen tüm Türkiye",
+  "nutrition":"Böcek, sümüklüböcek ve solucanlarla beslenirler.",
+  "nesting":"Bahçelerde, açık taşlık alanlarda, su yakınlarında",
+  "behavior":"Gündüz hem tehlikelilerden korunmak hem de vücutlarındaki nemi korumak için gece aktiflik gösterirler",
+  "lifetime":"10-15 yıl",
+  "pairing":"Nisan, Mayıs, Haziran",
+  "breeding":"Mayıs, Haziran,Temmuz",
+  "relevant":"Türkiye'de kurbağalar içinde kuraklığa en dayanıklı türdür",
+  "imageUrl": "images/reptile/610/thumb.jpg",
+  "images": [
+    "images/reptile/610/thumb.jpg"
+  ]
+}

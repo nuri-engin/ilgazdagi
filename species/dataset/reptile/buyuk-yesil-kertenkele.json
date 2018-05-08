@@ -1,0 +1,18 @@
+{
+  "rank": 603, "id": "buyuk-yesil-kertenkele",
+  "name_tr":"Büyük Yeşil Kertenkele",
+  "name_la":"Lacerta trilineata",
+  "taxon":"Animalia>Chordata>Reptilia>Squamata>Lacertidae>Lacerta","name_en":"Balkan Green Lizard","criteria":"LC (Asgari Kaygı)","name_lo":"İri Yeşil Kertenkele, Yılan Ebesi",
+  "snippet": "Omurgalı hayvanlar aleminin yumurtlayarak çoğalan büyük bir sınıfı olan sürüngenler (Reptilia) sınıfına ait bir türdür.",
+  "description":"Omurgalı hayvanlar aleminin yumurtlayarak çoğalan büyük bir sınıfı olan sürüngenler (Reptilia) sınıfına ait bir türdür.Genellikle sırtta 3-5 adet uzunlamasına çizgi bulunur. Ergin erkeklerin baş altı açık mavidir (turkuaz).","spread":"Trakya, Marmara, Ege, Batı Akdeniz","nutrition":"Böcekler, tırtıllar ve diğer küçük omurgasız hayvanlar",
+  "nesting":"Orman içi, Orman açıklıkları, Su kenarları, Açık yamaçlar, Vadi yamaçları, Taşlık, kayalık alanlar, Çayırlar, Makilikler, Tarlalar",
+  "behavior":"Bulundukları ortamın rengine uygun renk ve deri değiştirme davranışı gösterirler. Tehlike anında kuyruklarını bırakabilirler ve yeniden oluşturabilirler (rejenerasyon) Kış uykusuna yatarlar.",
+  "lifetime":"ortalama 2-3 yıl",
+  "pairing":"Bahar ve yaz ayları boyunca",
+  "breeding":"Bahar ve yaz ayları boyunca",
+  "relevant":"Halk arasında, yanlış bir inanış olarak, yılana zehir verdiği söylenir. Bu nedenle “Yılan Ebesi” olarak adlandırılır.",
+  "imageUrl": "images/reptile/603/thumb.jpg",
+  "images": [
+    "images/reptile/603/thumb.jpg"
+  ]
+}

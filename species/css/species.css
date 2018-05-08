@@ -1,0 +1,296 @@
+/* Loader */
+.spn_hol {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: transparent;
+    z-index: 50000;
+    opacity: 2;
+     -webkit-transition: all 1s;
+    -moz-transition: all 1s;
+    -o-transition: all 1s;
+    transition: all 1s;
+}
+.spinner {
+    position: absolute;
+    top: 50%;
+    margin-top: -12px;
+    left: 50%;
+    margin-left: -35px;
+    height: 24px;
+    width: 70px;
+    text-align: center;
+    display: block;
+}
+.spinner > div {
+    width: 18px;
+    height: 18px;
+    background-color: #333;
+    border-radius: 100%;
+    display: inline-block;
+    -webkit-animation: bouncedelay 1.4s infinite ease-in-out;
+    animation: bouncedelay 1.4s infinite ease-in-out;
+    /* Prevent first frame from flickering when animation starts */
+
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+}
+.spinner .bounce1 {
+    -webkit-animation-delay: -0.32s;
+    animation-delay: -0.32s;
+}
+.spinner .bounce2 {
+    -webkit-animation-delay: -0.16s;
+    animation-delay: -0.16s;
+}
+@-webkit-keyframes bouncedelay {
+    0%, 80%, 100% {
+        -webkit-transform: scale(0.0)
+    }
+    40% {
+        -webkit-transform: scale(1.0)
+    }
+}
+@keyframes bouncedelay {
+    0%, 80%, 100% {
+        transform: scale(0.0);
+        -webkit-transform: scale(0.0);
+    }
+    40% {
+        transform: scale(1.0);
+        -webkit-transform: scale(1.0);
+    }
+}
+/* Loader ends */
+
+td, th {
+  vertical-align: middle !important;
+  }
+
+.navbar a {
+  text-decoration: none;
+  color: #191102;
+  text-shadow: 0.1em 0.1em 2em #fff;
+  font-family: 'Poppins', sans-serif;
+  font-size: 13px;
+}
+
+.navbar a img {
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+}
+
+.navbar a:hover img,.navbar a.active img {
+  -webkit-filter: grayscale(0%);
+  filter: grayscale(0%);
+}
+
+.navbar {
+      float:left;
+      height:100vh;
+      box-shadow: 0.1em 0.1em 0.1em black;
+  }
+
+.navbar {
+      /*background: #337ab7;*/
+      background: rgba(243, 156, 18, 0.87);
+      display: inline-block;
+      white-space: nowrap;
+      width: 84px;
+      transition: width 1s ;
+  }
+
+.navbar:hover {
+      width: 192px;
+  }
+
+.item:hover {
+      background-color:#ccc;
+      }
+
+.item {
+      height:88px;
+      overflow:hidden;
+      color:#fff;
+  }
+
+.title {
+      background-color:#eee;
+      border-style:solid;
+      border-color:#ccc;
+      border-width:1px;
+      box-sizing: border-box;
+  }
+
+  /* Video Settings */
+  video {
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      min-width: 100%;
+      min-height: 100%;
+      width: auto;
+      height: auto;
+      z-index: -100;
+      transform: translateX(-50%) translateY(-50%);
+      transition: 1s opacity;
+  }
+
+  .stopfade {
+     opacity: .9;
+  }
+
+  .navbar button {
+    width: 100%;
+    font-size: 14px;
+    display: block;
+    font-size: 1.1rem;
+    background: rgba(255,255,255,0.23);
+    border-radius: 3px;
+    transition: .3s background;
+  }
+
+  .navbar button:hover {
+    background: rgba(0,0,0,0);
+  }
+  /* Video Setts Ends */
+
+  .content {
+    /*background: rgba(0, 0, 0, 0.43) !important;*/
+    background: rgba(243, 156, 18, 0.87);
+    width: 80%;
+    margin-left: 14em;
+    font-family: 'Poppins', sans-serif;
+    box-shadow: 0.1em 0.1em 0.1em black;
+  }
+
+  .infoText h1 {
+    margin-left: 240px;
+    margin-bottom: 0.9em;
+    font-size: 40px;
+    color: #191102;
+    text-shadow: 0.1em 0.1em 1em #fff;
+  }
+
+  hr {
+    width: 800px;
+    margin-left: 90px;
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid rgba(53, 70, 40, 0.52);
+    padding: 0;
+    text-shadow: 0.2em 0.2em 0.2em black;
+  }
+  .infoText span {
+    margin-left: 230px;
+    font-size: 30px;
+    color: #191102;
+    text-shadow: 0.1em 0.1em 1em #fff;
+  }
+
+  /* List View Style */
+  .thumbnail {
+  display: block;
+  font-size: 15px !important;
+  color: #191102;
+  width: 80%;
+  background: transparent;
+  border: 1px solid rgba(53, 70, 40, 0.1);
+  }
+
+  .thumbnail a {
+    color: #191102;
+  }
+
+  .thumbnail a>img {
+    width: 100px;
+    height: 90px;
+  }
+
+  .thumbnail p {
+    color: #191102;
+  }
+
+  .thumb {
+    float: left;
+    width: 100px;
+    height: 70%;
+    padding: 2px 10px 0 0;
+  }
+  .scroll_top {
+      text-align: right;
+  }
+  .scroll_top a {
+      background: transparent;
+      padding: 25px;
+  }
+  .scroll_top a span {
+      color: #000;
+      font-size: 25px;
+  }
+  /* List View Ends */
+
+  /* Detail View Style */
+  .detailNav {
+  font-size: 10px;
+  margin-bottom: 12px;
+  }
+
+  .detailName_la {
+    color: #000;
+  }
+
+  .birdDetail {
+    width: 10%
+  }
+
+  .species-images {
+    float: left;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .leftPanel {
+    margin-left: -50px;
+    width: 50%;
+  }
+
+  .species {
+    float: left;
+    width: 400px;
+    height: 400px;
+    display: none;
+    border: 1px solid #f39c12;
+  }
+
+  .species:first-child {
+    display: block;
+  }
+
+  .species-thumbs {
+    list-style: none;
+    margin: 0;
+  }
+
+  .species-thumbs img {
+    height: 100px;
+    padding: 10px;
+    width: 100px;
+  }
+
+  .species-thumbs li {
+    border: 1px solid #AD7412;
+    display: inline-block;
+    margin: 1em;
+  }
+
+.bottomPanel {
+  margin-left: 0px;
+  margin-top: -50px;
+  width: 89%;
+}

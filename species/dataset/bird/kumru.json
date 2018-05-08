@@ -1,0 +1,16 @@
+{"rank": 108,"id": "kumru",
+  "name_tr":"Kumru ",
+  "name_la":"Streptopelia decaocto",
+  "name_en":"Collared dove",
+  "criteria":"LC (Asgari Kaygı)",
+  "snippet": "Gövdesi açık kum rengi, gri ve kahve tonlarındadır.",
+  "description":"Gövdesi açık kum rengi, gri ve kahve tonlarındadır. Kanat uçları siyahtır ve gözleri koyu kırmızımsıdır. Gagası ince ve koyudur, bacakları koyu pembedir. Erişkinin ensesinde siyah yarım halka vardır (genç bireylerde yoktur)","habitat":"Şehir yaşamına uyum sağlamış, her türlü yerleşim yerinde yaşayabilen bir türdür.","spread":"İstilacı ve göç etmeyen bir türdür. Dünya genelinde çok yaygındır. Türkiye'deki yayılımı her geçen yıl artmaktadır.","morphology":"Boyu: 31-33 cm. Kanat açıklığı: 47-55 cm  Ağırlık: 150-220 g",
+  "nutrition":"Meyve, tahıl, tohum ve otlarla beslenirler. Böcek ve solucan gibi omurgasızları da yedikleri görülür.",
+  "gamogeneses":"Genellikle ağaçların üzerlerine dal parçalarından pek de sağlam olmayan yuvalar yaparlar. Tek eşlidirler. Dişi yılda 2 yumurta bırakır. Yavrular 12 gün sonra yumurtadan çıkar ve yaklaşık 3 hafta sonra yuvadan ayrılmaya hazır hale gelirler.",
+  "ilgaz_population":"Nadir ve yerleşik tür",
+  "taxon": "Animalia> Chordata> Aves> Columbiformes> Columbidae> Streptopelia>",
+  "imageUrl": "images/bird/108-kumru/thumb.jpg",
+  "images": [
+    "images/bird/108-kumru/thumb.jpg"
+  ]
+}

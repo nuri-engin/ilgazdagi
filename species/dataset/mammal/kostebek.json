@@ -1,0 +1,21 @@
+{
+  "rank": 502, "id": "kostebek", "name_tr":"Köstebek",
+  "name_la":"Talpa levantis",
+  "taxon":"Animalia>Chordata>Mammalia>Soricomorpha>Talpidae>Talpa",
+  "name_en":"Levantine Mole",
+  "criteria":"LC (Asgari Kaygı)",
+  "name_lo":"Köstü ya da Kör Köstü",
+  "snippet": "Yeraltında, kazdıkları tünellerde yaşar.", "description":"Yeraltında, kazdıkları tünellerde yaşar. Tamamen kürkle kaplı silindirik vücut yapıları ve küçük gözleri vardır. Ayrıca genellikle kullakları görünmeyecek şekildedir. ",
+  "spread":"Türkiye: Hemen her yerde",
+  "nutrition":"Böceklerle beslenirler.",
+  "nesting":"Yer altında kazdıkları tüneller",
+  "behavior":"Genellikle toprak altlarında yaşarlar.Yuvalarının kenarında toprak yığınları oluştururlar bu yığınlar kör farenin yaptığı yığınlardan daha azdırlar.Sabahları ve akşamları yuvadan çıkarak avlanırlar. ",
+  "lifetime":"4 yıl kadar ",
+  "pairing":"",
+  "breeding":"",
+  "relevant":"",
+  "imageUrl": "images/mammal/502/thumb.jpg",
+  "images": [
+    "images/mammal/502/thumb.jpg"
+  ]
+}

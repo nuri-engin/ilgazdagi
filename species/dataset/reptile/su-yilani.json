@@ -1,0 +1,22 @@
+{
+  "rank": 607, "id": "su-yilani",
+  "name_tr":"Su Yılanı",
+  "name_la":"Natrix tesellata",
+  "taxon":"Animalia>Chordata>Reptilia>Squamata>Colubridae>Natrix",
+  "name_en":"Dice Snake, Tessellated Water Snake",
+  "criteria":"LC (Asgari Kaygı)",
+  "name_lo":"",
+  "snippet": "Omurgalı hayvanlar aleminin yumurtlayarak çoğalan büyük bir sınıfı olan sürüngenler (Reptilia) sınıfına ait uzun, ayaksız etçil sürüngenlerdir.",
+  "description":"Omurgalı hayvanlar aleminin yumurtlayarak çoğalan büyük bir sınıfı olan sürüngenler (Reptilia) sınıfına ait uzun, ayaksız etçil sürüngenlerdir. 120 cm ergin uzunluğuna sahip bu türün sırt pulları gri-kahverengi, üzerinde siyah, beyaz lekeler vardır. Bazen tamamen siyahtır.","spread":"Hemen hemen tüm bölgeler",
+  "nutrition":"Balık, balık yumurtası, kurabağa ve iribaşlar",
+  "nesting":"Su kenarlarları",
+  "behavior":"Dere ve göl kenarlarında veya kenarlarındaki uygun çukurlarda yaşar ve toplu halde kış uykusuna yatarlar.",
+  "lifetime":"yaklaşık 10 yıl",
+  "pairing":" Nisan, Mayıs, Haziran, Temmuz, Ağustos",
+  "breeding":"Ağustos, Eylül",
+  "relevant":"Yakalandıklarında pis kokulu sıvı ya da gaz çıkarırlar, zehirsizdirler.",
+  "imageUrl": "images/reptile/607/thumb.jpg",
+  "images": [
+    "images/reptile/607/thumb.jpg"
+  ]
+}

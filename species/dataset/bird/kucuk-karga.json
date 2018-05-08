@@ -1,0 +1,20 @@
+{
+  "rank": 130,
+  "id": "kucuk-karga",
+  "name_tr":"Küçük karga",
+  "name_la":"Corvus monedula",
+  "name_en":"Jackdaw",
+  "criteria":"LC (Asgari Kaygı)",
+  "snippet": "Siyah başlıklı, grimsi renkli küçük bir kargadır.",
+  "description":"Siyah başlıklı, grimsi renkli küçük bir kargadır. Erginlerde ense ve boynun yanları koyu gri, gövdenin yanları ve göğüs arduvaz rengi, diğer tarafları siyahtır.",
+  "habitat":"Yerleşim yerlerinde, bahçelerde, kayalıklarda ve tarlalrda görülürler.",
+  "spread":"Kuzey İskandinavya hariç bütün Avrupa'da, Kuzey Sibirya hariç bütün Asya'da ve kuzeybatı Afrika'da bulunur.",
+  "morphology":"Boyu:  30-34 cm              Kanat açıklığı: 70-90 cm  Ağırlık: 200-300 g",
+  "nutrition":"Omnivorlardır. Başlıca besinleri böcekler, diğer kuşların yumurtaları, kuş yavruları, tohumlar, meyveler ve çöplükteki yiyecek atıklarıdır.",
+  "gamogeneses":"Üreme döneminde dişi 4-6 yumurta bırakır.  Kuluçka süresi yaklaşık 17 gün sürer.Yumurtadan çıktıktan yaklaşık 30 gün sonra yavrular yuvadan uçmaya hazır hale gelirler.",
+  "ilgaz_population":"Nadir ve yerleşik tür",
+  "taxon": "Animalia> Chordata> Aves> Passeriformes> Corvidae> Corvus>",
+  "imageUrl": "images/bird/130-kucuk-karga/thumb.jpg",
+  "images": [
+    "images/bird/130-kucuk-karga/thumb.jpg"
+  ]}

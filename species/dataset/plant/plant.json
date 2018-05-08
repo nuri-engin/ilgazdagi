@@ -1,0 +1,27 @@
+[
+  {
+    "rank": 501,
+    "id": "kurt",
+    "name_tr":"Kurt",
+    "name_la":"Canis lupus",
+    "name_en":"Gray Wolf",
+    "name_lo":"Canavar",
+    "taxon":"Animalia>Chordata>Mammalia>Carnivora>Canidae>Canis",
+    "criteria":"LC (Asgari Kaygı)",
+    "snippet": "Etçiller (Carnivora) takımının, köpekgiller familyasından, köpeğe benzeyen yırtıcı bir hayvan.",
+    "description":"Etçiller (Carnivora) takımının, köpekgiller familyasından, köpeğe benzeyen yırtıcı bir hayvan. Genellikle ıssız bölgelerde yaşar. Ağırlığı 35-50 kg’dır. Bazı Kanada kurtlarının ağırlığı 85-90 kiloya ulaşır. İri bir kurt, 120 cm uzunluğunda, omuz hizasında boyu 90 cm’dir. Ayrıca 50 cm uzunluğuna varan kuyruğu vardır. ",
+    "spread":"Türkiye: Hemen her yerde                                           ",
+    "nutrition":"Etobur hayvanlar, büyük ve küçük memelileri yerler. Besin azlığında kuşları da avlarlar. Vitamin ihtiyacı ve sindirim etkinliği için meyve ve yaprak tüketirler",
+    "nesting":"Yer altında kazdıkları tüneller ve kaya inlerinde",
+    "behavior":"n/a",
+    "lifetime":"13 yıl ama korunan alanlarda bu süre daha uzuyor",
+    "pairing":"Mart",
+    "breeding":"Mayıs ",
+    "relevant":"Tüm köpek türleri Kurtların evcilleştirilmesi sonucu oluşmuştur.",
+    "imageUrl": "images/mammal/501/thumb.jpg",
+    "images": [
+      "images/mammal/501/thumb.jpg",
+      "images/mammal/501/02.jpg"
+    ]
+  }
+]

@@ -1,0 +1,31 @@
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-2">
+      <p>
+      Arama: <input ng-model="$ctrl.query" />
+      </p>
+      </p>
+      Sırala: <br><select ng-model="$ctrl.orderProp">
+        <option value="id">İsme Göre</option>
+        <option value="name">Kayıt Sırasına Göre</option>
+      </select>
+      </p>
+    </div>
+
+    <div class="col-md-10">
+      <ul class="speciesList">
+        <li ng-repeat="mammal in $ctrl.species | filter:$ctrl.query | orderBy:$ctrl.orderProp" class="thumbnail species-list-item">
+          <a href="#!/species/mammal/{{mammal.id}}" class="thumb">
+            <img ng-src="{{mammal.imageUrl}}" alt="{{mammal.name_tr}}" />
+          </a>
+          <a href="#!/species/mammal/{{mammal.id}}" class="speciesName"><b>{{mammal.name_tr}}</b></a>
+          <p class="speciesSnippet">{{mammal.snippet}} <br><br><i><small>ID: {{mammal.rank}}</small></i></p>
+        </li>
+      </ul>
+    </div>
+    <div class="col-md-6">
+        <div class="scroll_top">
+            <a href="#HOME"><span class="glyphicon glyphicon-menu-up"></span></a>
+        </div>
+  </div>
+</div>

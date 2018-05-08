@@ -1,0 +1,27 @@
+{
+  "rank": 611, "id": "sigilli-kurbaga",
+  "name_tr":"Siğilli Kurbağa",
+  "name_la":"Bufo bufo",
+  "taxon":"Animalia>Chordata>Amphibia>Anura>Bufonidae>Bufo",
+  "name_en":"Common toad",
+  "criteria":"LC (Asgari Kaygı)",
+  "name_lo":"",
+  "snippet": "İki yaşamlılar (amfibia) sınıfına ait kuyruzsuz kurbağalardır.",
+  "description":"İki yaşamlılar (amfibia) sınıfına ait kuyruzsuz kurbağalardır. Sırt taraf genel olarak kahverengidir, bazen bu renk kırmızımsı, grimsi veya zeytin rengindeki tonlara doğru değişebilir ve üzerinde birkaç tane koyu leke de bulunabilir. Alt tarafının esas rengi kirli beyaz, grimsi veya kahverengidir. Erginleri yaklaşık 15 cm uzunluğundadır.",
+  "spread":"Trakya, Marmara, Ege, Batı Akdeniz, Doğu Akdeniz, İç Anadolu, Batı Karadeniz",
+  "nutrition":"Böcek, sümüklü böcek ve solucanlar",
+  "nesting":"Orman içi, Yol kenarları, Su kenarları, Taşlık, kayalık alanlar, Çayırlar, Tarlalar, Bağ ve bahçeler",
+  "behavior":"Gece avlanırlar. Fazla sıçrayamazlar ve karada hareketleri yavaştır.",
+  "lifetime":"10-15 yıl",
+  "pairing":"Şubat, Mart, Nisan, Mayıs, Haziran, Temmuz, Ağustos, Eylül",
+  "breeding":"Mart, Nisan, Mayıs, Haziran, Temmuz, Ağustos, Eylül",
+  "relevant":"İki eşin çiftleşmesi bir hafta kadar devam edebilir.",
+  "imageUrl": "images/reptile/611/thumb.jpg",
+  "images": [
+    "images/reptile/611/thumb.jpg",
+    "images/reptile/611/01.jpg",
+    "images/reptile/611/02.jpg",
+    "images/reptile/611/03.jpg",
+    "images/reptile/611/04.jpg"
+  ]
+}

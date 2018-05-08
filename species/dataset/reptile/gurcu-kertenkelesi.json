@@ -1,0 +1,20 @@
+{
+  "rank": 605, "id": "gurcu-kertenkelesi",
+  "name_tr":"Gürcü Kertenkelesi",
+  "name_la":"Darevskia parvula",
+  "taxon":"Animalia>Chordata>Reptilia>Squamata>Lacertidae>Darevskia",
+  "name_en":"Georgian Lizard, Red-Belied Lizard",
+  "criteria":"LC (Asgari Kaygı)",
+  "name_lo":"Kırmızı Karınlı Kertenkele",
+  "snippet": "Omurgalı hayvanlar aleminin yumurtlayarak çoğalan büyük bir sınıfı olan sürüngenler (Reptilia) sınıfına ait bir türdür.",
+  "description":"Omurgalı hayvanlar aleminin yumurtlayarak çoğalan büyük bir sınıfı olan sürüngenler (Reptilia) sınıfına ait bir türdür. Vücut uzunluğu yaklaşık 15 cm olup, karın kısmı dişilerin daha belirgin olmak üzere kırmızıdır.","spread":"Doğu Karadeniz, Doğu Anadolu","nutrition":"Böcekler, böcek larvaları ve örümcekler",
+  "nesting":"Orman içi, Orman açıklıkları, Yol kenarları, Vadi yamaçları, Taşlık, kayalık alanlar, Çayırlar",
+  "behavior":"Bulundukları ortamın rengine uygun renk ve deri değiştirme davranışı gösterirler. Tehlike anında kuyruklarını bırakabilirler ve yeniden oluşturabilirler (rejenerasyon) Kış uykusuna yatarlar.","lifetime":"ortalama 2-3 yıl",
+  "pairing":"Bahar ve yaz ayları boyunca",
+  "breeding":"Bahar ve yaz ayları boyunca",
+  "relevant":"Sürüngenler, günümüzde nesli tükenmiş olan Dinazorlara akraba türlerdir.",
+  "imageUrl": "images/reptile/605/thumb.jpg",
+  "images": [
+    "images/reptile/605/thumb.jpg"
+  ]
+}

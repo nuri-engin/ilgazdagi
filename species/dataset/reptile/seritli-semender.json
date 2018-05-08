@@ -1,0 +1,19 @@
+{
+  "rank": 609, "id": "seritli-semender", "name_tr":"Şeritli Semender",
+  "name_la":"Ommatotriton vittatus",
+  "taxon":"Animalia>Chordata>Amphibia>Urodela>Salamandridae>Ommatotriton ",
+  "name_en":"Banded Newt",
+  "criteria":"LC (Asgari Kaygı)",
+  "name_lo":"",
+  "snippet": "Kuyruksuz kurbağalar (semenderler) takımına ait iki yaşamlı canlılardır.Renkleri grimsi, zeytin yeşili, kahverengimsi olabilir.",
+  "description":"Kuyruksuz kurbağalar (semenderler) takımına ait iki yaşamlı canlılardır.Renkleri grimsi, zeytin yeşili, kahverengimsi olabilir. bu renklerin üzerinde daha koyu renkli benekleri bulunur. Dişilerin benekleri daha az ve belirsizdir. Boyları 8-11 cm arasında değişir.","spread":"Hatay, Gaziantep, Adana, Mersin, Anadolu'nun kuzeyi, Adapazarı ve Bursa",
+  "nutrition":"küçük omurgasızlar, böcekler ve larvalar",
+  "nesting":"Üreme zamanında bol bitkili sığ ve durgun ya da ağır akan sularda bulunurlar. Diğer zamanlarda suların yakınlarındaki ormanlık ve açık taşlık alanlarda bulunurlar","behavior":"Erkek bireyler, üreme döneminde oluşan sırt yüzgeçlerini dişilere kur yapmak için kullanır.","lifetime":"10-15 yıl",
+  "pairing":"Mart, Nisan, Mayıs",
+  "breeding":"Şubat, Mart, Nisan, Mayıs, Haziran, Ekim, Kasım",
+  "relevant":"Bu tür Anadolu Endemikleri arasında bulunmaktadır.",
+  "imageUrl": "images/reptile/609/thumb.jpeg",
+  "images": [
+    "images/reptile/609/thumb.jpeg"
+  ]
+}

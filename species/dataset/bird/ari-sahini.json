@@ -1,0 +1,22 @@
+{
+  "rank": 101,
+  "id": "ari-sahini",
+  "name_tr":"Arı Şahini",
+  "name_la":"Pernis apivorus",
+  "name_en":"European honey-buzzard",
+  "criteria":"LC (Asgari Kaygı)",
+  "snippet": "Şahine benzeyen ve çok fazla renk varyasyonları gösteren yırtıcı bir kuş türüdür.",
+  "description":"Şahine benzeyen ve çok fazla renk varyasyonları gösteren yırtıcı bir kuş türüdür. Dar ve gittikçe incelen bir başa, kapalı tuttuğu anlarda konveks biçiminde olan uzun kuyruğa ve dip tarafı kalın olan uzun kanatlara sahiptir. Tipik erişkin bireylerin üst kısımları grimsidir, kanadındaki firar hattı ve kuyruk ucu koyu renklidir. Alt tarafı çok değişkendir ancak genel olarak çok çizgilidir ve koyu tonlarda el bileği lekeleri vardır. Erişkinlerin gözleri sarıdır.  ",
+  "habitat":"Yazın üreme dönemlerinde Avrupa'da bulunan hem geniş yapraklı hem de iğne yapraklı ormanlarda bulunurlar ve açıklığı olan alanları tercih ederler. Kışın ise Afrika'da bulunan alçak yağmur ormanlarnı ve açık alanları kullanırlar.  ",
+  "spread":"Göç eden bir türdür ve Avrupa'da yaz aylarında üredikten sonra Ağustos ortasından Eylül sonuna  kadar Türkiye ve İspanya (Gibraltar) üzerinden büyük gruplar halinde Afrika'ya göç ederler ve geri dönüşleri Mayıstadır. En yoğun görülen göç yolları İstanbul boğazı ve Türkiye'nin kuzey doğusudur. Türkiye'de yaz ziyaretçisidir.",
+  "morphology":"Boyu: 52-60 cm, Kanat açıklığı: 140-150 cm, Ağırlık: 600-1100 g",
+  "nutrition":"Yaban arılarının larva ve pupaları ile beslenirler. Özellikle üreme bölgelerinde, orman kenarlarında ve açık arazilerde bulunan seyrek ağaçlara oturarak veya uçarak etrafta uçuşan yaban arılarını gözlerler. Yuvalarını tespit ettikten sonra, bulduğu yuvayı pençeleri ile dağıtarak topraktan çıkarır ve larvaları kendi yuvasına taşır. Kendidini arı sokmasına karşı sık tüyleri ve göz kapakları sayesinde korur. ",
+  "gamogeneses":"Yaz aylarında ürerler. Yuvalarını yerden 10-30 m yükseklikteki ağaçların üzerine yaparlar. Dişi 1-3 adet yumurta bırakır ve dişi ve erkek sıra ile kuluçkaya yatar. Kuluçka süresi ortalama 30-35 gündür ve yumurtadan çıktıktan 75-100 günün sonunda yavrular yuvadan ayrılmaya hazır hale gelir.",
+  "ilgaz_population":"Nadir ve yaz göçmeni",
+  "taxon": "Animalia> Chordata> Aves> Accipitriformes> Accipitridae> Pernis>",
+  "imageUrl": "images/bird/101-ari_sahini/thumb.jpg",
+  "images": [
+    "images/bird/101-ari_sahini/01.jpg",
+    "images/bird/101-ari_sahini/02.jpg"
+  ]
+}

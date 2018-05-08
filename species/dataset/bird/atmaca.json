@@ -1,0 +1,23 @@
+{
+  "rank": 104,
+  "id": "atmaca",
+  "name_tr":"Atmaca",
+  "name_la":"Accipiter nisus",
+  "name_en":"Eurasian sparrowhawk",
+  "criteria":"LC (Asgari Kaygı)",
+  "snippet": "Küçük bir yırtıcı olan atmaca, nispeten küçük yuvarlak kanatlara, uzun ve dar kuyruğa ve kancalı gagaya sahiptir.",
+  "description":"Küçük bir yırtıcı olan atmaca, nispeten küçük yuvarlak kanatlara, uzun ve dar kuyruğa ve kancalı gagaya sahiptir. Çevik bir kuş avcısıdır. Erkeği küçüktür, üst tarafı mavi-gri, yanakları ve göğsü parlak kızıl-turuncu renktedir. Dişisi grimsi kahverengidir, alt tarafı soluk beyazdır ve çok ince gri çizgileri vardır.",
+  "habitat":"İbreli ve yaprak döken ormanlar, ağaçlı ve çalıların bulunduğu tarım arazileri, parklar-bahçeler gibi her türlü ağaçlı alanlarda dağılım gösterir. Bu alanlar ötücü kuşları yakalamak için elverişli alanlardır.",
+  "spread":" Göç eden bir türdür. Geniş bir yayılım alanı vardır: Avrupa, Afrika ve Asya'nın ormanlık alanlarında yaşarlar. Ağustos-Kasım ayları arasında Türkiye üzerinden  İstanbul boğazını kullanarak ve doğu Karadeniz dağlarını geçerek güneye inerler. Nisan-Haziran aylarında güneyden kuzeye geri dönerler. Ülkemizde doğu ve batı Karadeniz, Marmara kıyıları, Egenin bazı bölgelerinde ve güneydoğu Akdeniz'de bulunmaktadır. ",
+  "morphology":"Boyu: 28-38 cm           Kanat açıklığı: 55-74 cm  Ağırlık: 110-342 g  ",
+  "nutrition":"Serçeler, Baştankaralar, Örümcekkuşları gibi küçük kuşların yanında güvercin gibi orta büyüklükteki kuşları da besin olarak kullanabilirler. Yaklaşık 120 tür kuşu besin olarak kullandıkları tespit edilmiştir.",
+  "gamogeneses":"Nisan-Haziran ayları arasında ürerler. Dişi her gün tek tek olmak üzere 1-7 adet yumurta bırakır.  Kuluçka dönemi 31-37 gün sürer. Yumurtadan çıktıktan 28-32 günün sonunda yavrular yuvadan uçmaya hazır hale gelir.",
+  "ilgaz_population":"Nadir ve yaz göçmeni",
+  "taxon": "Animalia> Chordata> Aves> Accipitriformes> Accipitridae> Accipiter>",
+  "imageUrl": "images/bird/104-atmaca/thumb.jpg",
+  "images": [
+    "images/bird/104-atmaca/thumb.jpg",
+    "images/bird/104-atmaca/01.jpg",
+    "images/bird/104-atmaca/02.jpg"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "rank": 612, "id": "seritli-kurbaga",
+  "name_tr":"Şeritli Kurbağa, Uludağ Kurbağası",
+  "name_la":"Rana macrocnemis ",
+  "taxon":"Animalia>Chordata>Amphibia>Anura>Ranidae>Rana",
+  "name_en":"Banded Frog",
+  "criteria":"LC (Asgari Kaygı)",
+  "name_lo":"",
+  "snippet": "İki yaşamlılar (amfibia) sınıfına ait kuyruzsuz kurbağalardır.",
+  "description":"İki yaşamlılar (amfibia) sınıfına ait kuyruzsuz kurbağalardır. Sırt bölgesinin rengi ince noktalı, tuğla kırmızısı ya da gri kahverengi yeşilimsi olur. Benekleri, koyu renkli kahverenginden yeşilimsi kahverengiye kadar değişir.Karın bölgesi erkeklerde sarımsı ya da beyaz, dişilerdeyse pembemsi olur. Erginler en çok 9 cm kadar büyüktür.",
+  "spread":"İç Anadolu, Doğu Karadeniz, Doğu Anadolu",
+  "nutrition":"Besinlerini küçük böcekler oluşturur",
+  "nesting":"Su kenarları, Çayırlar, Bozkırlar",
+  "behavior":"Erkeklerinde iç ses kesesi bulunur ve bu sayede dişilerin kendilerini bulmasını sağlarlar.",
+  "lifetime":"10-15 yıl",
+  "pairing":"Nisan, Mayıs, Haziran, Temmuz",
+  "breeding":"Nisan, Mayıs, Haziran, Temmuz",
+  "relevant":"İlk kez Kayseri-Erciyes’ten saptanmıştır.",
+  "imageUrl": "images/reptile/612/thumb.jpg",
+  "images": [
+    "images/reptile/612/thumb.jpg",
+    "images/reptile/612/01.jpg",
+    "images/reptile/612/02.jpg"
+  ]
+}

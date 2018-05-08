@@ -1,0 +1,21 @@
+{
+  "rank": 107,
+  "id": "kerkenez",
+  "name_tr":"Kerkenez",
+  "name_la":"Falco tinnunculus",
+  "name_en":"Common kestrel",
+  "criteria":"LC (Asgari Kaygı)",
+  "snippet": "Gövdesi  ince uzundur; havada asılı dururken genellikle açtığı uzun ve dar bir kuyruğu, kısa ve tıknaz bir kafası vardır.",
+  "description":"Gövdesi  ince uzundur; havada asılı dururken genellikle açtığı uzun ve dar bir kuyruğu, kısa ve tıknaz bir kafası vardır. Suratındaki bıyığı belirgindir. Erkek ve dişiler arasındaki en belirgin fark başlarıdır; erkeğin tepe ve ensesi mavimsi gri iken dişinin tepe ve ensesi kızılkahverengidir. Üstten mavimsi görünen kuyruğunun ucunda kalın, siyah bir bant bulunur. El telekleri siyah, omuz ve sırt kısmı kızıldır ve siyah beneklerle kaplıdır. Karın altı ve kanat altı enine çizgili ve açık renklidir.",
+  "habitat":"Hemen hemen her türlü habitat ortamında yaşayabilirler ve bu yüzden çok yaygın bir türdür. Dağlar, vadiler, orman kenarları, bozkırlar, tarım alanları, deniz kıyıları hatta şehirlerde görülebilirler. Sadece kapalı ormanlar ve çorak çöllerde görülmezler.  Avlanmak için açık ve kısa bitkilerle kaplı alanları tercih ederler.",
+  "spread":"Avrupa'da en yaygın bulunan doğan türüdür. Türkiye'nin her yerinde görülür ve Avrupa, Kuzey Afrika, Orta Doğu,  Çin, Japonya ve Hindistan'da bulunmaktadır. Kuzey populasyonlarının bir kısmı göç ederken, bir kısmı yerleşiktir.",
+  "morphology":"Boyu: 33-39 cm              Kanat açıklığı: 70-80 cm  Ağırlık: 120-260g",
+  "nutrition":"Küçük memeliler, bazı küçük kuşlar ve  omurgasızlar ile beslenirler.  Avlanmak için havada asılı kalma hareketini yaptıkları görülür.",
+  "gamogeneses":"Yuvalarını genellikle ağaçların üzerine yaparlar. Nisan-Mayıs aylarında ürerler. Dişi her gün tek tek olmak üzere 3-6 adet yumurta bırakır.  Kuluçka dönemi 27-29 gün sürer. Yumurtadan çıktıktan 27-39 gün sonra yavrular yuvadan ayrılmaya hazır hale gelir.",
+  "ilgaz_population":"Nadir ve yerleşik tür",
+  "taxon": "Animalia> Chordata> Aves> Falconiformes> Falconidae> Falco>",
+  "imageUrl": "images/bird/107-kerkenez/thumb.jpg",
+  "images": [
+    "images/bird/107-kerkenez/thumb.jpg"
+  ]
+}

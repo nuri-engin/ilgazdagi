@@ -1,0 +1,22 @@
+{
+  "rank": 608, "id": "kucuk-semender", "name_tr":"Küçük Semender",
+  "name_la":"Lissotriton vulgaris",
+  "taxon":"Animalia>Chordata>Amphibia>Urodela>Salamandridae>Lissotriton",
+  "name_en":"Smooth Newt",
+  "criteria":"LC (Asgari Kaygı)",
+  "name_lo":" Pürtüklü Semender",
+  "snippet": "Kuyruksuz kurbağalar (semenderler) takımına ait iki yaşamlı canlılardır.",
+  "description":"Kuyruksuz kurbağalar (semenderler) takımına ait iki yaşamlı canlılardır. Vücut üzerinde siğil şeklinde kabarcıklar olduğundan bu isim verilmiştir.Hayvanın sırt tarafı esmerdir ve bu renk yeşilimsi, grimsi, kahverengimsi tonlara doğru değişebilir. Zemin renk üzerinde az ya da çok bariz siyah lekeler mevcuttur.Vücut 12-16 cm kadardır.",
+  "spread":"Batı Karadeniz ve Trakya Bölgesinde ",
+  "nutrition":"Böcek larvaları, küçük yumuşakçalar, solucanlar ve benzeri canlılar",
+  "nesting":" Nemli ve bu sulara yakın orman ve taşlık alanlarda bulunurlar",
+  "behavior":"Soğuk iklimlerde larvaların (küçük yavrular) kışı suda geçirir ve başkalaşımlarını ilkbaharda yaparlar. Geceleri aktiftirler. Ele alındığında cızırtı gibi bir ses çıkarırlar.",
+  "lifetime":"10-15 yıl",
+  "pairing":"Şubat, Mart, Nisan, Mayıs, Haziran, Ekim, Kasım",
+  "breeding":"Şubat, Mart, Nisan, Mayıs, Haziran, Ekim, Kasım",
+  "relevant":"Birçok türünün nesli tükenmiş olup günümüzde 500 tür ile temsil edilir. Çoğu koruma altında olan türlerdir.",
+  "imageUrl": "images/reptile/608/thumb.jpg",
+  "images": [
+    "images/reptile/608/thumb.jpg"
+  ]
+}

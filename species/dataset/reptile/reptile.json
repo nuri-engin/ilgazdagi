@@ -1,0 +1,161 @@
+[
+  {
+    "rank": 601,
+    "id": "duvar-kertenkelesi",
+    "name_tr":"Duvar Kertenkelesi",
+    "name_la":"Podarcis muralis",
+    "taxon":"Animalia>Chordata>Reptilia>Squamata>Lacertidae>Podarcis",
+    "name_en":"Common Wall Lizard",
+    "criteria":"LC (Asgari Kaygı)",
+    "name_lo":"",
+    "snippet": "Omurgalı hayvanlar aleminin yumurtlayarak çoğalan büyük bir sınıfı olan sürüngenler (Reptilia) sınıfına ait bir türdür.",
+    "description":"Omurgalı hayvanlar aleminin yumurtlayarak çoğalan büyük bir sınıfı olan sürüngenler (Reptilia) sınıfına ait bir türdür.Baş ve vücut kısmı benekli, sırt kahverengi-gridir, sırt ve vücut yanlarında koyu lekeler bulunur. Önemli özellikleri; karın tarafın kırmızı olması ve bu zemin üzerinde koyu mermerimsi lekelerin bulunmasıdır. Vücut büyüklüğü en çok 20 cm kadardır. Uzun kuyruğu bulunduğu alanda komufle olabilme yeteneğine sahiptir  ",
+    "spread":"Trakya, Marmara, Batı Karadeniz",
+    "nutrition":"Böcekleri, örümcekleri, solucan gibi küçük omurgasız hayvanları besin olarak alırlar",
+    "nesting":"Açık yamaçlar, Taşlık, kayalık alanlar,",
+    "behavior":"Bulundukları ortamın rengine uygun renk ve deri değiştirme davranışı gösterirler. Tehlike anında kuyruklarını bırakabilirler ve yeniden oluşturabilirler (rejenerasyon) Kış uykusuna yatarlar.",
+    "lifetime":"ortalama 2-3 yıl",
+    "pairing":"Bahar ve yaz ayları boyunca",
+    "breeding":"Bahar ve yaz ayları boyunca",
+    "relevant":"Sürüngenler, günümüzde nesli tükenmiş olan Dinazorlara akraba türlerdir.",
+    "imageUrl": "images/reptile/601/thumb.jpg",
+    "images": [
+      "images/reptile/601/thumb.jpg",
+      "images/reptile/601/01.jpg",
+      "images/reptile/601/02.jpg"
+    ]
+  },
+
+  {
+    "rank": 602, "id": "yesil-kertenkele", "name_tr":"Yeşil Kertenkele",
+    "name_la":"Lacerta viridis",
+    "taxon":"Animalia>Chordata>Reptilia>Squamata>Lacertidae>Lacerta",
+    "name_en":"The European Green Lizard","criteria":"LC (Asgari Kaygı)",
+    "name_lo":"Yeşilsatan, Zümrüt Kertenkele",
+    "snippet": "Omurgalı hayvanlar aleminin yumurtlayarak çoğalan büyük bir sınıfı olan sürüngenler (Reptilia) sınıfına ait bir türdür.",
+    "description":"Omurgalı hayvanlar aleminin yumurtlayarak çoğalan büyük bir sınıfı olan sürüngenler (Reptilia) sınıfına ait bir türdür.Gençlerde sırtta 2-4 boyuna çizgi bulunur. Erginde çizgiler kaybolarak homojen yeşil renklenirler. Erkeklerde başın alt tarafı ve yanları koyu mavi renktedir. Bu renklenme dişilerde bej rengindedir.",
+    "spread":"Trakya, Marmara, Batı Karadeniz, Orta Karadeniz",
+    "nutrition":"Böcekleri, örümcekleri, solucan gibi küçük omurgasız hayvanları besin olarak alırlar",
+    "nesting":"Açık yamaçlar, Taşlık, kayalık alanlar,",
+    "behavior":"Bulundukları ortamın rengine uygun renk ve deri değiştirme davranışı gösterirler. Tehlike anında kuyruklarını bırakabilirler ve yeniden oluşturabilirler (rejenerasyon) Kış uykusuna yatarlar.","lifetime":"ortalama 2-3 yıl","pairing":"Bahar ve yaz ayları boyunca","breeding":"Bahar ve yaz ayları boyunca",
+    "relevant":"Sürüngenler, günümüzde nesli tükenmiş olan Dinazorlara akraba türlerdir.",
+    "imageUrl": "images/reptile/602/thumb.jpg",
+    "images": [
+      "images/reptile/602/thumb.jpg",
+      "images/reptile/602/01.jpg",
+      "images/reptile/602/02.jpg"
+    ]
+  },
+
+  {
+    "rank": 603, "id": "buyuk-yesil-kertenkele",
+    "name_tr":"Büyük Yeşil Kertenkele",
+    "name_la":"Lacerta trilineata",
+    "taxon":"Animalia>Chordata>Reptilia>Squamata>Lacertidae>Lacerta","name_en":"Balkan Green Lizard","criteria":"LC (Asgari Kaygı)","name_lo":"İri Yeşil Kertenkele, Yılan Ebesi",
+    "snippet": "Omurgalı hayvanlar aleminin yumurtlayarak çoğalan büyük bir sınıfı olan sürüngenler (Reptilia) sınıfına ait bir türdür.",
+    "description":"Omurgalı hayvanlar aleminin yumurtlayarak çoğalan büyük bir sınıfı olan sürüngenler (Reptilia) sınıfına ait bir türdür.Genellikle sırtta 3-5 adet uzunlamasına çizgi bulunur. Ergin erkeklerin baş altı açık mavidir (turkuaz).","spread":"Trakya, Marmara, Ege, Batı Akdeniz","nutrition":"Böcekler, tırtıllar ve diğer küçük omurgasız hayvanlar",
+    "nesting":"Orman içi, Orman açıklıkları, Su kenarları, Açık yamaçlar, Vadi yamaçları, Taşlık, kayalık alanlar, Çayırlar, Makilikler, Tarlalar",
+    "behavior":"Bulundukları ortamın rengine uygun renk ve deri değiştirme davranışı gösterirler. Tehlike anında kuyruklarını bırakabilirler ve yeniden oluşturabilirler (rejenerasyon) Kış uykusuna yatarlar.",
+    "lifetime":"ortalama 2-3 yıl",
+    "pairing":"Bahar ve yaz ayları boyunca",
+    "breeding":"Bahar ve yaz ayları boyunca",
+    "relevant":"Halk arasında, yanlış bir inanış olarak, yılana zehir verdiği söylenir. Bu nedenle “Yılan Ebesi” olarak adlandırılır.",
+    "imageUrl": "images/reptile/603/thumb.jpg",
+    "images": [
+      "images/reptile/603/thumb.jpg"
+    ]
+  },
+
+  {
+    "rank": 604, "id": "trabzon-kertenkelesi",
+    "name_tr":"Trabzon Kertenkelesi",
+    "name_la":"Darevskia rudis",
+    "taxon":"Animalia>Chordata>Reptilia>Squamata>Lacertidae>Darevskia",
+    "name_en":"Spiny-Tailed Lizard",
+    "criteria":"LC (Asgari Kaygı)",
+    "name_lo":"",
+    "snippet": "Omurgalı hayvanlar aleminin yumurtlayarak çoğalan büyük bir sınıfı olan sürüngenler (Reptilia) sınıfına ait bir türdür.",
+    "description":"Omurgalı hayvanlar aleminin yumurtlayarak çoğalan büyük bir sınıfı olan sürüngenler (Reptilia) sınıfına ait bir türdür.Gençlerde sırtta 2-4 boyuna çizgi bulunur. Boyu 25cm kadardır, sırt pulları yuvarlak ve hafif karinalıdır. Postnasale tek, collare düz ve tibia üzerinde büyük karinalı pullar bulunur. Dorsali yeşilimsi kahverengi ve üzeri koyu lekelidir. Koyu gövde yanları üzerinde küçük yuvarlak ve beyaz lekeler bulunur. ","spread":"Marmara, Batı Karadeniz, Orta Karadeniz, Doğu Karadeniz",
+    "nutrition":"Küçük böcekler, örümcekler ve diğer küçük yumuşak vücutlu omurgasızlar",
+    "nesting":"Orman içi, Orman açıklıkları, Yol kenarları, Su kenarları, Açık yamaçlar, Vadi yamaçları, Taşlık, kayalık alanlar, Çayırlar, Tarlalar, Bağ, bahçeler, Çalılıklar",
+    "behavior":"Bulundukları ortamın rengine uygun renk ve deri değiştirme davranışı gösterirler. Tehlike anında kuyruklarını bırakabilirler ve yeniden oluşturabilirler (rejenerasyon) Kış uykusuna yatarlar.",
+    "lifetime":"ortalama 2-3 yıl",
+    "pairing":"Bahar ve yaz ayları boyunca",
+    "breeding":"Bahar ve yaz ayları boyunca",
+    "relevant":"Sürüngenler, günümüzde nesli tükenmiş olan Dinazorlara akraba türlerdir.",
+    "imageUrl": "images/reptile/604/thumb.jpg",
+    "images": [
+      "images/reptile/604/thumb.jpg"
+    ]
+  },
+
+  {
+    "rank": 605, "id": "gurcu-kertenkelesi",
+    "name_tr":"Gürcü Kertenkelesi",
+    "name_la":"Darevskia parvula",
+    "taxon":"Animalia>Chordata>Reptilia>Squamata>Lacertidae>Darevskia",
+    "name_en":"Georgian Lizard, Red-Belied Lizard",
+    "criteria":"LC (Asgari Kaygı)",
+    "name_lo":"Kırmızı Karınlı Kertenkele",
+    "snippet": "Omurgalı hayvanlar aleminin yumurtlayarak çoğalan büyük bir sınıfı olan sürüngenler (Reptilia) sınıfına ait bir türdür.",
+    "description":"Omurgalı hayvanlar aleminin yumurtlayarak çoğalan büyük bir sınıfı olan sürüngenler (Reptilia) sınıfına ait bir türdür. Vücut uzunluğu yaklaşık 15 cm olup, karın kısmı dişilerin daha belirgin olmak üzere kırmızıdır.","spread":"Doğu Karadeniz, Doğu Anadolu","nutrition":"Böcekler, böcek larvaları ve örümcekler",
+    "nesting":"Orman içi, Orman açıklıkları, Yol kenarları, Vadi yamaçları, Taşlık, kayalık alanlar, Çayırlar",
+    "behavior":"Bulundukları ortamın rengine uygun renk ve deri değiştirme davranışı gösterirler. Tehlike anında kuyruklarını bırakabilirler ve yeniden oluşturabilirler (rejenerasyon) Kış uykusuna yatarlar.","lifetime":"ortalama 2-3 yıl",
+    "pairing":"Bahar ve yaz ayları boyunca",
+    "breeding":"Bahar ve yaz ayları boyunca",
+    "relevant":"Sürüngenler, günümüzde nesli tükenmiş olan Dinazorlara akraba türlerdir.",
+    "imageUrl": "images/reptile/605/thumb.jpg",
+    "images": [
+      "images/reptile/605/thumb.jpg"
+    ]
+  },
+
+  {
+    "rank": 606, "id": "avusturya-yilani",
+    "name_tr":"Avusturya Yılanı",
+    "name_la":"Coronella austriaca",
+    "taxon":"Animalia>Chordata>Reptilia>Squamata>Colubridae>Coronella",
+    "name_en":"Smooth Snake",
+    "criteria":"LC (Asgari Kaygı)",
+    "name_lo":"Taçlı yılan",
+    "snippet": "Omurgalı hayvanlar aleminin yumurtlayarak çoğalan büyük bir sınıfı olan sürüngenler (Reptilia) sınıfına ait uzun, ayaksız etçil sürüngenlerdir.",
+    "description":"Omurgalı hayvanlar aleminin yumurtlayarak çoğalan büyük bir sınıfı olan sürüngenler (Reptilia) sınıfına ait uzun, ayaksız etçil sürüngenlerdir. Ergin uzunluğu yaklaşık 75 cm olan bu türün sırt kısmı kırmızıya yakın renkte, üzerinde küçük, seyrek ve az belirgin lekeler bulunur.Karın taraf gri ve üzeri koyu nokta lekelidir. Baş ve boyun yaklaşık aynı genişliktedir",
+    "spread":"Trakya, Marmara, İç Anadolu, Batı Karadeniz, Orta Karadeniz, Doğu Karadeniz, Doğu Anadolu",
+    "nutrition":"En çok yedikleri besinler kertenkelelerdir. Boyutlarına göre yakalayabildikleri kemiriciler, kuşlar, küçük yılanları da yerler",
+    "nesting":"Orman içi, Orman açıklıkları, Su kenarları, Çayırlar, Çalılıklar",
+    "behavior":"Az hareketli, sakin ve nadiren ısıran bir yılan türüdür. Ancak Türkiye zehirli yılanlar listesindedir. Zorda kaldığı zamanlarda suya girebilir",
+    "lifetime":"yaklaşık 12 yıl",
+    "pairing":" Nisan, Mayıs, Haziran, Temmuz, Ağustos",
+    "breeding":"Ağustos, Eylül",
+    "relevant":"Bu hayvanlar üreme işlerini doğurarak yaparlar (ovovivipar). Ancak doğurma memelilerdeki gibi olmaz. Yavru anne karnında bir yumurta içinde gelişir (plasenta yok) ve dışarıya öyle bırakılır.",
+    "imageUrl": "images/reptile/606/thumb.jpg",
+    "images": [
+      "images/reptile/606/thumb.jpg",
+      "images/reptile/606/01.jpg",
+      "images/reptile/606/02.jpg"
+    ]
+  },
+
+  {
+    "rank": 607, "id": "su-yilani",
+    "name_tr":"Su Yılanı",
+    "name_la":"Natrix tesellata",
+    "taxon":"Animalia>Chordata>Reptilia>Squamata>Colubridae>Natrix",
+    "name_en":"Dice Snake, Tessellated Water Snake",
+    "criteria":"LC (Asgari Kaygı)",
+    "name_lo":"",
+    "snippet": "Omurgalı hayvanlar aleminin yumurtlayarak çoğalan büyük bir sınıfı olan sürüngenler (Reptilia) sınıfına ait uzun, ayaksız etçil sürüngenlerdir.",
+    "description":"Omurgalı hayvanlar aleminin yumurtlayarak çoğalan büyük bir sınıfı olan sürüngenler (Reptilia) sınıfına ait uzun, ayaksız etçil sürüngenlerdir. 120 cm ergin uzunluğuna sahip bu türün sırt pulları gri-kahverengi, üzerinde siyah, beyaz lekeler vardır. Bazen tamamen siyahtır.","spread":"Hemen hemen tüm bölgeler",
+    "nutrition":"Balık, balık yumurtası, kurabağa ve iribaşlar",
+    "nesting":"Su kenarlarları",
+    "behavior":"Dere ve göl kenarlarında veya kenarlarındaki uygun çukurlarda yaşar ve toplu halde kış uykusuna yatarlar.",
+    "lifetime":"yaklaşık 10 yıl",
+    "pairing":" Nisan, Mayıs, Haziran, Temmuz, Ağustos",
+    "breeding":"Ağustos, Eylül",
+    "relevant":"Yakalandıklarında pis kokulu sıvı ya da gaz çıkarırlar, zehirsizdirler.",
+    "imageUrl": "images/reptile/607/thumb.jpg",
+    "images": [
+      "images/reptile/607/thumb.jpg"
+    ]
+  }
+]

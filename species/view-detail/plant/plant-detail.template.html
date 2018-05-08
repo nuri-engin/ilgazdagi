@@ -1,0 +1,82 @@
+<div class="container">
+  <div class="row">
+    <div class="col-md-5">
+      <div class="species-images">
+        <img ng-src="{{img}}" class="species"
+             ng-class="{selected: img === $ctrl.mainImageUrl}"
+             ng-repeat="img in $ctrl.species.images" />
+      </div>
+    </div>
+    <div class="col-md-7 leftPanel">
+      <i><p class="detailNav">Türler / <a href="plant.html">Bitki Türleri</a></p></i>
+      <p>{{$ctrl.species.taxon}}</p>
+      <h3><strong>{{$ctrl.species.name_tr}}</strong> <small class="detailName_la">({{$ctrl.species.name_la}})</small></h3>
+      <p>{{$ctrl.species.description}}</p>
+      <ul class="species-thumbs">
+        <li ng-repeat="img in $ctrl.species.images">
+          <img ng-src="{{img}}" ng-click="$ctrl.setImage(img)" />
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- Specs -->
+<div class="container bottomPanel">
+  <table class="table table-hover">
+    <tbody>
+      <tr>
+        <th scope="row">Takson:</th>
+        <td>{{$ctrl.species.taxon}}</td>
+      </tr>
+      <tr>
+      <tr>
+        <th scope="row">Latince İsmi:</th>
+        <td>{{$ctrl.species.name_la}}</td>
+      </tr>
+      <tr>
+        <th scope="row">İngilizce İsmi:</th>
+        <td>{{$ctrl.species.name_en}}</td>
+      </tr>
+      <tr>
+        <th scope="row">Bölgesel İsmi:</th>
+        <td>{{$ctrl.species.name_lo}}</td>
+      </tr>
+      <tr>
+        <th scope="row">Koruma Statüsü:</th>
+        <td>{{$ctrl.species.criteria}} <a href="http://www.iucnredlist.org" target="_blank"><small>IUCN RedList</small></a></td>
+      </tr>
+      <tr>
+        <th scope="row">Yayılış:</th>
+        <td>{{$ctrl.species.spread}}</td>
+      </tr>
+      <tr>
+        <th scope="row">Yuvalama:</th>
+        <td>{{$ctrl.species.nesting}}</td>
+      </tr>
+      <tr>
+        <th scope="row">Davranış Özellikleri:</th>
+        <td>{{$ctrl.species.behavior}}</td>
+      </tr>
+      <tr>
+        <th scope="row">Beslenme:</th>
+        <td>{{$ctrl.species.nutrition}}</td>
+      </tr>
+      <tr>
+        <th scope="row">Ortalama Ömür:</th>
+        <td>{{$ctrl.species.lifetime}}</td>
+      </tr>
+      <tr>
+        <th scope="row">Çiftleşme Dönemi:</th>
+        <td>{{$ctrl.species.pairing}}</td>
+      </tr>
+      <tr>
+        <th scope="row">Yavrulama Dönemi:</th>
+        <td>{{$ctrl.species.breeding}}</td>
+      </tr>
+      <tr>
+        <th scope="row">İlginç Bilgiler:</th>
+        <td>{{$ctrl.species.relevant}}</td>
+      </tr>
+    </tbody>
+  </table>

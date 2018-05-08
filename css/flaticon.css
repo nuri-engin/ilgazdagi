@@ -1,0 +1,71 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 12/04/2017 08:27
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/Flaticon.eot");
+  src: url("../fonts/Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Flaticon.woff") format("woff"),
+       url("../fonts/Flaticon.ttf") format("truetype"),
+       url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {
+  font-family: Flaticon;
+        font-size: 95px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon-041-acid-rain:before { content: "\f100"; }
+.flaticon-041-cake:before { content: "\f101"; }
+.flaticon-041-city:before { content: "\f102"; }
+.flaticon-041-cloud:before { content: "\f103"; }
+.flaticon-041-dock:before { content: "\f104"; }
+.flaticon-041-earth:before { content: "\f105"; }
+.flaticon-041-earth-1:before { content: "\f106"; }
+.flaticon-041-earth-2:before { content: "\f107"; }
+.flaticon-041-eco:before { content: "\f108"; }
+.flaticon-041-eco-friendly:before { content: "\f109"; }
+.flaticon-041-eco-home:before { content: "\f10a"; }
+.flaticon-041-ecology:before { content: "\f10b"; }
+.flaticon-041-environment:before { content: "\f10c"; }
+.flaticon-041-flower:before { content: "\f10d"; }
+.flaticon-041-forest:before { content: "\f10e"; }
+.flaticon-041-global-warming:before { content: "\f10f"; }
+.flaticon-041-laurel:before { content: "\f110"; }
+.flaticon-041-leaves:before { content: "\f111"; }
+.flaticon-041-leaves-1:before { content: "\f112"; }
+.flaticon-041-light-bulb:before { content: "\f113"; }
+.flaticon-041-plant:before { content: "\f114"; }
+.flaticon-041-pollution:before { content: "\f115"; }
+.flaticon-041-recycle:before { content: "\f116"; }
+.flaticon-041-recycle-bin:before { content: "\f117"; }
+.flaticon-041-recycling-bags:before { content: "\f118"; }
+.flaticon-041-recycling-container:before { content: "\f119"; }
+.flaticon-041-solar-panel:before { content: "\f11a"; }
+.flaticon-041-sun:before { content: "\f11b"; }
+.flaticon-041-sun-1:before { content: "\f11c"; }
+.flaticon-041-sunrise:before { content: "\f11d"; }
+.flaticon-041-sustainable:before { content: "\f11e"; }
+.flaticon-041-sustainable-1:before { content: "\f11f"; }
+.flaticon-041-time:before { content: "\f120"; }
+.flaticon-041-tree:before { content: "\f121"; }
+.flaticon-041-umbrella:before { content: "\f122"; }
+.flaticon-041-water:before { content: "\f123"; }
+.flaticon-041-water-1:before { content: "\f124"; }
+.flaticon-041-wind-mill:before { content: "\f125"; }
+.flaticon-041-windmill:before { content: "\f126"; }
+.flaticon-041-world:before { content: "\f127"; }

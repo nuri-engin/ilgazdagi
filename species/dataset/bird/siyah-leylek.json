@@ -1,0 +1,22 @@
+{
+  "rank": 105,
+  "id": "siyah-leylek",
+  "name_tr":"Siyah Leylek",
+  "name_la":"Ciconia nigra",
+  "name_en":"Black stork",
+  "criteria":"LC (Asgari Kaygı)",
+  "snippet": "Leyleğin yakın akrabasıdır. Gagası ince, uzun, kırmızı renkli, bacakları da kırmızıdır.",
+  "description":"Leyleğin yakın akrabasıdır. Gagası ince, uzun, kırmızı renkli, bacakları da kırmızıdır. Erişkinin başı, boynu, göğsü ve üst tarafı parlak siyah, karnı beyazdır ve kanat altında kanadın gövdeye birleştiği bölümde küçük, beyaz renkli, üçgen şeklinde bir bölüm vardır. ",
+  "habitat":"Yerleşim yerlerinden uzak durur. Bozulmamış ormanlık alanlar, nehir kollarının orman kıyılarında oluşturdukları sulak, yarı bataklık alanlar ve tatlı su kaynaklarına yakın alanları tercih ederler.",
+  "spread":"Göç eden ve dünyada geniş dağılıma sahip olan bir türdür. Yaz sonunda (Ağustos-Ekim) Afrika'dan Türkiye'ye gelir ve bir kısmı Anadolu'da ürerken, büyük kısmı İstanbul üzerinden Avrupa'ya geçer, sonbaharda Afrika'ya tersine göç başlar. Mart ortasında ülkemizde yaz göçmenidir ve Gediz deltasında düzenli olarak kışlama kaydı vardır.",
+  "morphology":"Boyu: 95-100 cm              Kanat açıklığı: 144-185 cm  Ağırlık: 3000g",
+  "nutrition":"Etoburdur. Temel besin maddelerini balıklar, amfibiler, böcekler, sürüngenler, memeliler, ötücü kuşların yuvalarındaki yumurta yada yavrular oluşturur.",
+  "gamogeneses":"Nisan-Mayıs aylarında ürerler. Dişi 3-4 adet yumurta bırakır.  Kuluçka dönemi 32-28 gün sürer. Yumurtadan çıktıktan 63-71 günün sonunda yavrular yuvadan ayrılmaya hazır hale gelir.",
+  "ilgaz_population":"Nadir ve yaz göçmeni",
+  "taxon": "Animalia> Chordata> Aves> Ciconiiformes> Ciconiidae> Ciconia>",
+  "imageUrl": "images/bird/105-siyah_leylek/thumb.jpg",
+  "images": [
+    "images/bird/105-siyah_leylek/thumb.jpg",
+    "images/bird/105-siyah_leylek/01.jpg"
+  ]
+}

@@ -1,0 +1,563 @@
+[
+  {
+    "rank": 101,
+    "id": "ari-sahini",
+    "name_tr":"Arı Şahini",
+    "name_la":"Pernis apivorus",
+    "name_en":"European honey-buzzard",
+    "criteria":"LC (Asgari Kaygı)",
+    "snippet": "Şahine benzeyen ve çok fazla renk varyasyonları gösteren yırtıcı bir kuş türüdür.",
+    "description":"Şahine benzeyen ve çok fazla renk varyasyonları gösteren yırtıcı bir kuş türüdür. Dar ve gittikçe incelen bir başa, kapalı tuttuğu anlarda konveks biçiminde olan uzun kuyruğa ve dip tarafı kalın olan uzun kanatlara sahiptir. Tipik erişkin bireylerin üst kısımları grimsidir, kanadındaki firar hattı ve kuyruk ucu koyu renklidir. Alt tarafı çok değişkendir ancak genel olarak çok çizgilidir ve koyu tonlarda el bileği lekeleri vardır. Erişkinlerin gözleri sarıdır.  ",
+    "habitat":"Yazın üreme dönemlerinde Avrupa'da bulunan hem geniş yapraklı hem de iğne yapraklı ormanlarda bulunurlar ve açıklığı olan alanları tercih ederler. Kışın ise Afrika'da bulunan alçak yağmur ormanlarnı ve açık alanları kullanırlar.  ",
+    "spread":"Göç eden bir türdür ve Avrupa'da yaz aylarında üredikten sonra Ağustos ortasından Eylül sonuna  kadar Türkiye ve İspanya (Gibraltar) üzerinden büyük gruplar halinde Afrika'ya göç ederler ve geri dönüşleri Mayıstadır. En yoğun görülen göç yolları İstanbul boğazı ve Türkiye'nin kuzey doğusudur. Türkiye'de yaz ziyaretçisidir.",
+    "morphology":"Boyu: 52-60 cm, Kanat açıklığı: 140-150 cm, Ağırlık: 600-1100 g",
+    "nutrition ":"Yaban arılarının larva ve pupaları ile beslenirler. Özellikle üreme bölgelerinde, orman kenarlarında ve açık arazilerde bulunan seyrek ağaçlara oturarak veya uçarak etrafta uçuşan yaban arılarını gözlerler. Yuvalarını tespit ettikten sonra, bulduğu yuvayı pençeleri ile dağıtarak topraktan çıkarır ve larvaları kendi yuvasına taşır. Kendidini arı sokmasına karşı sık tüyleri ve göz kapakları sayesinde korur. ",
+    "gamogeneses":"Yaz aylarında ürerler. Yuvalarını yerden 10-30 m yükseklikteki ağaçların üzerine yaparlar. Dişi 1-3 adet yumurta bırakır ve dişi ve erkek sıra ile kuluçkaya yatar. Kuluçka süresi ortalama 30-35 gündür ve yumurtadan çıktıktan 75-100 günün sonunda yavrular yuvadan ayrılmaya hazır hale gelir.",
+    "ilgaz_population":"Nadir ve yaz göçmeni",
+    "imageUrl": "images/bird/101-ari_sahini/thumb.jpg",
+    "images": [
+      "images/bird/101-ari_sahini/01.jpg",
+      "images/bird/101-ari_sahini/02.jpg"
+    ]
+  },
+
+{
+  "rank": 102,
+  "id": "sahin",
+  "name_tr":"Şahin",
+  "name_la":"Buteo buteo",
+  "name_en":"Common buzzard",
+  "criteria":"LC (Asgari Kaygı)",
+  "snippet": "Atmacagiller(Accipitridae) ailesinin Buteo(şahinler) cinsine ait yırtıcı bir kuş türüdür.",
+  "description":"Atmacagiller(Accipitridae) ailesinin Buteo(şahinler) cinsine ait yırtıcı bir kuş türüdür. Geniş kanatlı, geniş ve kısa kafalı, tıknaz, orta boylu bir yırtıcıdır. Uçuş kuyruğu yelpaze şeklindedir ve yetişkinlerde terminal kuyruk bandı siyahımsıdır. Tüylerinin rengi çok koyudan çok açığa kadar farklı renk varyasyonları gösterebilir. Kanat üstleri düz renktir, kanat altları çok desenlidir. Genellikle kanatlarının firar hattı ve kanat uçları koyu renklidir.",
+  "habitat":"Geniş yaşam alanı vardır. Açık alanlar, tarım alanları, meralar, bataklıklara yakın ormanlık alanlar, karışık yapraklı ormanlar ve dağlık bölgelerde yaşarlar. Yuvalarını ağaçlara yaparlar. ",
+  "spread":" Göç eden bir türdür. İzlanda ve Kuzey İskandinavya dışında tüm Avrupa kıtasında ve Batı Asya'da geniş bir dağılım gösterir. Kuzey Avrupa populasyonun bir kısmı göç esnasında geçiş için, bir kısmı da üremek için Türkiye'yi kullanır. Ülkemizde yaygın bir türdür, kışın tarım alanlarında en çok görülen yırtıcıdır.",
+  "morphology":"Boyu: 46-58 cm. Kanat açıklığı: 110-132 cm  Ağırlık: 550-1200 g",
+  "nutrition ":"Etobur bir canlıdır. Küçük memeliler, kuşlar, sürüngenler, amfibiler, böcekler gibi canlılardan oluşan geniş bir besin tercihi vardır. Açıklık alanların yakınlarında ağaca tünemiş olarak avını gözler.",
+  "gamogeneses":"Mart- Mayıs ayları arası üreme dönemleridir. Dişi 2-4 adet yumurta bırakır ve kuluçkaya yatar. Kuluçka süresi 33-38 gündür. Yumurtadan çıktıktan 50-60 gün sonra genç bireyler yuvadan uçmaya hazır hale gelir.  ",
+  "ilgaz_population":"Nadir ve yerleşik tür",
+  "imageUrl": "images/bird/102-sahin/thumb.jpg",
+  "images": [
+    "images/bird/102-sahin/thumb.jpg"
+  ]
+}
+,
+{
+  "rank": 103,
+  "id": "yilan-kartali",
+  "name_tr":"Yılan Kartalı",
+  "name_la":"Circaetus gallicus",
+  "name_en":"Short-toed eagle",
+  "criteria":"LC (Asgari Kaygı)",
+  "snippet": "Büyük, uzun kanatlı, üst tarafı grimsi- kahverengi ve altı açık renkli bir kartaldır.",
+  "description":"Büyük, uzun kanatlı, üst tarafı grimsi- kahverengi ve altı açık renkli bir kartaldır. Altı kirli beyaz üzerine benekli ve enine çizgilidir, koyu renkli başı ve kahverengimsi göğüs üstü tüyleri kontrast oluşturur. Kuyruğu kısa, küt uçludur ve kuyruğa eşit aralıklarla dağılmış üç koyu bant bulunur. Uçarken esnek bir biçimde yavaş yavaş kanat çırpar, dönerken kanatlarını düz veye hafifçe yukarı kalkık tutar, sıkça havada asılı kalır.",
+  "habitat":"Açık araziler, bayırlar, kurak bölgeler, taşlık ve çalılık bölgeler yaşam alanlarıdır ancak yuvalarını ağaçlara yaparlar.",
+  "spread":" Göç eden bir türdür. Geniş bir yayılım alanı vardır: Güney-batı Avrupa'dan, Kuzey-batı Afrika ve Orta Asya'ya kadar dağılım gösterir. Batı populasyonları kışı Afrikada geçirmek için göç ederken Türkiye üzerinden geçerler.",
+  "morphology":"Boyu: 64-73 cm. Kanat açıklığı: 165-180 cm  Ağırlık: 1200-2300 g  ",
+  "nutrition ":"Başlıca besini yılanlardır. Kurbağalar, kertenkeleler, omurgasızlar ve küçük kemirgenler ile yiyecek sıkıntısı çekmeleri halinde kuşları da avlarlar. Avlarını parçalamadan yutarlar ve avlarını genellikle havada süzülürken veya asılı kalırken bulup, aşağı doğru keskin dalışlarla yakalarlar.",
+  "gamogeneses":"Nisan-Ekim ayları arasında ürerler. Tek yumurta bırakırlar ve kuluçka dönemi 45-47 gün sürer. Yumurtadan çıktıktan 60-80 günün sonunda yavrular yuvadan ayrılmaya hazır hale gelir.",
+  "ilgaz_population":"",
+  "imageUrl": "images/bird/103-yilan-kartali/thumb.jpg",
+  "images": [
+    "images/bird/103-yilan-kartali/thumb.jpg"
+  ]
+},
+
+{
+  "rank": 104,
+  "id": "atmaca",
+  "name_tr":"Atmaca",
+  "name_la":"Accipiter nisus",
+  "name_en":"Eurasian sparrowhawk",
+  "criteria":"LC (Asgari Kaygı)",
+  "snippet": "Küçük bir yırtıcı olan atmaca, nispeten küçük yuvarlak kanatlara, uzun ve dar kuyruğa ve kancalı gagaya sahiptir.",
+  "description":"Küçük bir yırtıcı olan atmaca, nispeten küçük yuvarlak kanatlara, uzun ve dar kuyruğa ve kancalı gagaya sahiptir. Çevik bir kuş avcısıdır. Erkeği küçüktür, üst tarafı mavi-gri, yanakları ve göğsü parlak kızıl-turuncu renktedir. Dişisi grimsi kahverengidir, alt tarafı soluk beyazdır ve çok ince gri çizgileri vardır.",
+  "habitat":"İbreli ve yaprak döken ormanlar, ağaçlı ve çalıların bulunduğu tarım arazileri, parklar-bahçeler gibi her türlü ağaçlı alanlarda dağılım gösterir. Bu alanlar ötücü kuşları yakalamak için elverişli alanlardır.",
+  "spread":" Göç eden bir türdür. Geniş bir yayılım alanı vardır: Avrupa, Afrika ve Asya'nın ormanlık alanlarında yaşarlar. Ağustos-Kasım ayları arasında Türkiye üzerinden  İstanbul boğazını kullanarak ve doğu Karadeniz dağlarını geçerek güneye inerler. Nisan-Haziran aylarında güneyden kuzeye geri dönerler. Ülkemizde doğu ve batı Karadeniz, Marmara kıyıları, Egenin bazı bölgelerinde ve güneydoğu Akdeniz'de bulunmaktadır. ",
+  "morphology":"Boyu: 28-38 cm           Kanat açıklığı: 55-74 cm  Ağırlık: 110-342 g  ",
+  "nutrition ":"Serçeler, Baştankaralar, Örümcekkuşları gibi küçük kuşların yanında güvercin gibi orta büyüklükteki kuşları da besin olarak kullanabilirler. Yaklaşık 120 tür kuşu besin olarak kullandıkları tespit edilmiştir.",
+  "gamogeneses":"Nisan-Haziran ayları arasında ürerler. Dişi her gün tek tek olmak üzere 1-7 adet yumurta bırakır.  Kuluçka dönemi 31-37 gün sürer. Yumurtadan çıktıktan 28-32 günün sonunda yavrular yuvadan uçmaya hazır hale gelir.",
+  "ilgaz_population":"Nadir ve yaz göçmeni",
+  "imageUrl": "images/bird/104-atmaca/thumb.jpg",
+  "images": [
+    "images/bird/104-atmaca/thumb.jpg",
+    "images/bird/104-atmaca/01.jpg",
+    "images/bird/104-atmaca/02.jpg"
+  ]
+},
+
+{
+  "rank": 105,
+  "id": "siyah-leylek",
+  "name_tr":"Siyah Leylek",
+  "name_la":"Ciconia nigra",
+  "name_en":"Black stork",
+  "criteria":"LC (Asgari Kaygı)",
+  "snippet": "Leyleğin yakın akrabasıdır. Gagası ince, uzun, kırmızı renkli, bacakları da kırmızıdır.",
+  "description":"Leyleğin yakın akrabasıdır. Gagası ince, uzun, kırmızı renkli, bacakları da kırmızıdır. Erişkinin başı, boynu, göğsü ve üst tarafı parlak siyah, karnı beyazdır ve kanat altında kanadın gövdeye birleştiği bölümde küçük, beyaz renkli, üçgen şeklinde bir bölüm vardır. ",
+  "habitat":"Yerleşim yerlerinden uzak durur. Bozulmamış ormanlık alanlar, nehir kollarının orman kıyılarında oluşturdukları sulak, yarı bataklık alanlar ve tatlı su kaynaklarına yakın alanları tercih ederler.",
+  "spread":"Göç eden ve dünyada geniş dağılıma sahip olan bir türdür. Yaz sonunda (Ağustos-Ekim) Afrika'dan Türkiye'ye gelir ve bir kısmı Anadolu'da ürerken, büyük kısmı İstanbul üzerinden Avrupa'ya geçer, sonbaharda Afrika'ya tersine göç başlar. Mart ortasında ülkemizde yaz göçmenidir ve Gediz deltasında düzenli olarak kışlama kaydı vardır.",
+  "morphology":"Boyu: 95-100 cm              Kanat açıklığı: 144-185 cm  Ağırlık: 3000g",
+  "nutrition ":"Etoburdur. Temel besin maddelerini balıklar, amfibiler, böcekler, sürüngenler, memeliler, ötücü kuşların yuvalarındaki yumurta yada yavrular oluşturur.",
+  "gamogeneses":"Nisan-Mayıs aylarında ürerler. Dişi 3-4 adet yumurta bırakır.  Kuluçka dönemi 32-28 gün sürer. Yumurtadan çıktıktan 63-71 günün sonunda yavrular yuvadan ayrılmaya hazır hale gelir.",
+  "ilgaz_population":"Nadir ve yaz göçmeni",
+  "imageUrl": "images/bird/105-siyah_leylek/thumb.jpg",
+  "images": [
+    "images/bird/105-siyah_leylek/thumb.jpg",
+    "images/bird/105-siyah_leylek/01.jpg"
+  ]
+},
+
+{
+  "rank": 106,
+  "id": "kucuk-orman-kartali",
+  "name_tr":"Küçük Orman Kartalı",
+  "name_la":"Aquila pomarina",
+  "name_en":"Lesser spotted eagle",
+  "criteria":"LC (Asgari Kaygı)",
+  "snippet": "İnce kanatlı, uzun kuyruklu, orantılı orta boy bir kartaldır.",
+  "description":"İnce kanatlı, uzun kuyruklu, orantılı orta boy bir kartaldır. Kanadının alt ve üst tarafından kanat örtü tüyleri kanat teleklerinden daha açık renkli görünür. Kanat telekleri ile alt örtü tüyleri arasında iki sıra virgül şeklinde beyaz çizgi görülür. Ayrıca küçük orman kartalının 7. kanat teleği çok kısa olduğu için uçarken 6 parmaklı görülür.",
+  "habitat":"Göç esnasında farklı tip alanları kullanırlar ancak üremek için ormanlık arazileri kullanırlar. Kış aylarını geçirdikleri Afrika'da daha çok savanları tercih ederler.",
+  "spread":"Göç eden bir türdür ve üreme döneminde Avrupa, Türkiye, Kafkas dağları ve İran bölgelerini kullanırlar. Kışı geçirmek için de İsrail üzerinden güney ve doğu Afrika'ya giderler.  ",
+  "morphology":"Boyu: 55-65 cm              Kanat açıklığı: 134-168 cm  Ağırlık: 1600g",
+  "nutrition ":"Etoburdur. Temel besin maddelerini memeliler, amfibiler, böcekler, sürüngenler, kuşlar oluşturur.",
+  "gamogeneses":"Nisan-mayıs aylarında ürerler. Dişi 1-3 adet yumurta bırakır.  Kuluçka dönemi 36-41 gün sürer. Yumurtadan çıktıktan 8 hafta sonra yavrular yuvadan ayrılmaya hazır hale gelir.",
+  "ilgaz_population":"Nadir ve yaz göçmeni",
+  "imageUrl": "images/bird/106-kucuk_orman_kartali/thumb.jpg",
+  "images": [
+    "images/bird/106-kucuk_orman_kartali/thumb.jpg"
+  ]
+},
+
+{
+  "rank": 107,
+  "id": "kerkenez",
+  "name_tr":"Kerkenez",
+  "name_la":"Falco tinnunculus",
+  "name_en":"Common kestrel",
+  "criteria":"LC (Asgari Kaygı)",
+  "snippet": "Gövdesi  ince uzundur; havada asılı dururken genellikle açtığı uzun ve dar bir kuyruğu, kısa ve tıknaz bir kafası vardır.",
+  "description":"Gövdesi  ince uzundur; havada asılı dururken genellikle açtığı uzun ve dar bir kuyruğu, kısa ve tıknaz bir kafası vardır. Suratındaki bıyığı belirgindir. Erkek ve dişiler arasındaki en belirgin fark başlarıdır; erkeğin tepe ve ensesi mavimsi gri iken dişinin tepe ve ensesi kızılkahverengidir. Üstten mavimsi görünen kuyruğunun ucunda kalın, siyah bir bant bulunur. El telekleri siyah, omuz ve sırt kısmı kızıldır ve siyah beneklerle kaplıdır. Karın altı ve kanat altı enine çizgili ve açık renklidir.",
+  "habitat":"Hemen hemen her türlü habitat ortamında yaşayabilirler ve bu yüzden çok yaygın bir türdür. Dağlar, vadiler, orman kenarları, bozkırlar, tarım alanları, deniz kıyıları hatta şehirlerde görülebilirler. Sadece kapalı ormanlar ve çorak çöllerde görülmezler.  Avlanmak için açık ve kısa bitkilerle kaplı alanları tercih ederler.",
+  "spread":"Avrupa'da en yaygın bulunan doğan türüdür. Türkiye'nin her yerinde görülür ve Avrupa, Kuzey Afrika, Orta Doğu,  Çin, Japonya ve Hindistan'da bulunmaktadır. Kuzey populasyonlarının bir kısmı göç ederken, bir kısmı yerleşiktir.",
+  "morphology":"Boyu: 33-39 cm              Kanat açıklığı: 70-80 cm  Ağırlık: 120-260g",
+  "nutrition ":"Küçük memeliler, bazı küçük kuşlar ve  omurgasızlar ile beslenirler.  Avlanmak için havada asılı kalma hareketini yaptıkları görülür.",
+  "gamogeneses":"Yuvalarını genellikle ağaçların üzerine yaparlar. Nisan-Mayıs aylarında ürerler. Dişi her gün tek tek olmak üzere 3-6 adet yumurta bırakır.  Kuluçka dönemi 27-29 gün sürer. Yumurtadan çıktıktan 27-39 gün sonra yavrular yuvadan ayrılmaya hazır hale gelir.",
+  "ilgaz_population":"Nadir ve yerleşik tür",
+  "imageUrl": "images/bird/107-kerkenez/thumb.jpg",
+  "images": [
+    "images/bird/107-kerkenez/thumb.jpg"
+  ]
+},
+{"rank": 108,"id": "kumru",
+  "name_tr":"Kumru ",
+  "name_la":"Streptopelia decaocto",
+  "name_en":"Collared dove",
+  "criteria":"LC (Asgari Kaygı)",
+  "snippet": "Gövdesi açık kum rengi, gri ve kahve tonlarındadır.",
+  "description":"Gövdesi açık kum rengi, gri ve kahve tonlarındadır. Kanat uçları siyahtır ve gözleri koyu kırmızımsıdır. Gagası ince ve koyudur, bacakları koyu pembedir. Erişkinin ensesinde siyah yarım halka vardır (genç bireylerde yoktur)","habitat":"Şehir yaşamına uyum sağlamış, her türlü yerleşim yerinde yaşayabilen bir türdür.","spread":"İstilacı ve göç etmeyen bir türdür. Dünya genelinde çok yaygındır. Türkiye'deki yayılımı her geçen yıl artmaktadır.","morphology":"Boyu: 31-33 cm. Kanat açıklığı: 47-55 cm  Ağırlık: 150-220 g",
+  "nutrition ":"Meyve, tahıl, tohum ve otlarla beslenirler. Böcek ve solucan gibi omurgasızları da yedikleri görülür.",
+  "gamogeneses":"Genellikle ağaçların üzerlerine dal parçalarından pek de sağlam olmayan yuvalar yaparlar. Tek eşlidirler. Dişi yılda 2 yumurta bırakır. Yavrular 12 gün sonra yumurtadan çıkar ve yaklaşık 3 hafta sonra yuvadan ayrılmaya hazır hale gelirler.",
+  "ilgaz_population":"Nadir ve yerleşik tür",
+  "imageUrl": "images/bird/108-kumru/thumb.jpg",
+  "images": [
+    "images/bird/108-kumru/thumb.jpg"
+  ]
+},
+{"rank": 109,"id": "uveyik",
+  "name_tr":"Üveyik",
+  "name_la":"Streptopelia turtur",
+  "name_en":"Turtle dove",
+  "criteria":"LC (Asgari Kaygı)",
+  "snippet": "Küçük bir kumrudur ve açık renklidir.",
+  "description":"Küçük bir kumrudur ve açık renklidir. Başı gri, alt tarafları ise açık pembe ve kirli sarıdır. Kızıl-kahverengi sırtında kahverengi-siyah renkli bir deseni vardır ve kuyruk deseni de gösterişlidir. Kuyruk üstten koyu renktir, sivri kuyruk ucunda kama şeklinde beyazlık vardır. Erişkinlerde mavimsi ve siyah renkli boyun lekesi bulunur.",
+  "habitat":"Seyrek ormanlar, fundalıklar, çalılıklar, ağaçlı açık araziler ve bozkır alanlarında görülür. Türkiye'de yaz mevsiminde kırlarda bol bulunur.",
+  "spread":"Göç eden bir türdür. Orta Asya, Avrupa ve Akdeniz'de yazın ürer, eylülde Orta Afrika'ya göçerek orada kışlar. Türkiye'den yaz sonu ilk göç eden kuş türlerindendir. ","morphology":"Boyu: 26-28 cm              Kanat açıklığı: 47-53 cm  Ağırlık: 130-180 g",
+  "nutrition ":"Tahıl ve tohumla beslenirler. Nadiren böcek yedikleri görülür.",
+  "gamogeneses":"Genellikle çalılıklara yuva yaparlar. Üreme dönemi Mayıs-Ağustos arasıdır. Dişi 2 yumurta bırakır ve kuluçka süresi yaklaşık 15 gündür. Yavrular yuvayı ortalama 14 günde terk ederler.",
+  "ilgaz_population":"Nadir ve yaz göçmeni",
+  "imageUrl": "images/bird/109-uveyik/thumb.jpg",
+  "images": [
+    "images/bird/109-uveyik/thumb.jpg"
+    ]
+},
+{"rank": 110,"id": "guguk","name_tr":"Guguk","name_la":"Cuculus canorus","name_en":"Cuckoo","criteria":"LC (Asgari Kaygı)",
+  "snippet": "Kuyruğu uzun ve basamaklı kanatları incedir.Dar ve sivri bir kafası ve kısa ve aşağı kıvrık gagası vardır.",
+  "description":"Kuyruğu uzun ve basamaklı kanatları incedir. Dar ve sivri bir kafası ve kısa ve aşağı kıvrık gagası vardır. Erkeklerin üst kısımları ve göğüsleri mavimsi gridir. Alt taraflarında koyu renkli bantlar görülür. Dişilerin iki formu vardır: bir tanesi morfolojik olarak erkeğe yakındır, diğer formu ise üst tarafı daha kahverengimsidir ve tüm vücudu kahverengi bantlarla kaplıdır.","habitat":"Kırlar, bozkırlar, parklar ve bahçeler, turbalıklar, fundalıklar, bataklıklar, kumullar yaşama alanlarıdır. İdeal üreme alanları saz yatakları ve ağaçların olduğu yerlerdir.","spread":"Göç eden bir türdür. Nisanın ikinci yarısında Afrika'dan kuzey Avrupa'ya ulaşır ve Eylülde geri döner. Tüm Avrupa, kuzey Afrika ve Asya'nın batısında yayılım gösterir.","morphology":"Boyu: 32-36 cm              Kanat açıklığı: 54-60 cm  Ağırlık: 105-130 g",
+"nutrition ":"Genellikle böcek ve tahıllarla beslenir. Zaman zaman kertenkele, yılan ve kuşlarla beslendiği de görülmüştür.",
+"gamogeneses":"Küçük ötücülerin kuluçka parazitidir. Yumurtasını dağ bülbülü, çayır incir kuşu ve saz kamışçını kuşlarının yuvasına bırakır. Ev sahibi kuş çoğu zaman kendi yumurtası zanneder. Yavru yaklaşık 12 gün sonra çıkar ve 3 hafta sonra üvey annesinde daha iri olur. 6 hafta sonra da yuvadan ayrılır.",
+"ilgaz_population":"Nadir ve yaz göçmeni",
+"imageUrl": "images/bird/110-guguk/thumb.jpg",
+"images": [
+  "images/bird/110-guguk/thumb.jpg",
+  "images/bird/110-guguk/01.jpg"
+]
+},
+{"rank": 111,"id": "kukumav","name_tr":"Kukumav","name_la":"Athene noctua","name_en":"Little owl","criteria":"LC (Asgari Kaygı)",
+  "snippet": "Küçük, tıknaz ve sert bakışlı bir kuştur. Düze yakın, uzun ve beyaz kaşlarının üstünde yer alan alnı beneklidir",
+  "description":"Küçük, tıknaz ve sert bakışlı bir kuştur. Düze yakın, uzun ve beyaz kaşlarının üstünde yer alan alnı beneklidir; sarı gözlerinin kenarları siyahtır. Toprak kahverengisi gövdesinin alt tarafı daha beyazdır, sırtında beyaz benekler, alt tarafında ise çizgiler vardır.","habitat":"Kırsal bölgelerde bahçelerin ve tarlaların yakınlarında yaşar. Eski binalardaki çatlaklara, boşluklara ve kum tepelerindeki deliklere de yuva yapar. Genelde ılıman bölgeleri sever.","spread":"Kukumav yerleşik bir türdür. Tüm dünyada oldukça yaygın olan bir türdür. Orta ve güney Avrupa'nın tamamında görülür. Ülkemizde de uygun habitatn olduğu her yerde görülür.","morphology":"Boyu: 23-27,5 cm              Kanat açıklığı: 54-58 cm  Ağırlık: 140-200 g",
+"nutrition ":"Genellikle böcek, tırtıl, solucan ve çıyanla beslenir. Küçük memelileri ve kuşları da avlar. Genellikle tünediği noktadan avını izler ve düşermiş gibi avının üzerine atlar.",
+"gamogeneses":" Dişi 3-5 adet yumurta bırakır.  Kuluçka dönemi 28-33 gün sürer. Yumurtadan çıktıktan 26 gün sonra yavrular tamamen tüylenir ve 30-35 gün sonra yuvadan ayrılmaya hazır hale gelirler.","ilgaz_population":"Nadir ve yerleşik tür","imageUrl": "images/bird/101-ari_sahini/thumb.jpg",
+"imageUrl": "images/bird/111-kukumav/thumb.jpg",
+"images": [
+  "images/bird/111-kukumav/thumb.jpg"
+]},
+{"rank": 112,"id": "ak-karinli-ebabil","name_tr":"Ak karınlı Ebabil","name_la":"Apus melba","name_en":"Alpine swift","criteria":"LC (Asgari Kaygı)",
+  "snippet": "Uzun, tırpan şeklinde geniş kanatları vardır. Kafası kısa ve küt, kuyruğu çatallıdır.",
+  "description":"Uzun, tırpan şeklinde geniş kanatları vardır. Kafası kısa ve küt, kuyruğu çatallıdır. Üst tarafı donuk kahverengi, boğaz ve karnındaki beyaz ve göğsündeki  kahverengi kuşak ile tanınır.","habitat":"Deniz kıyıları ve dağlardaki yarlarda bulunur.","spread":"Göç eden bir türdür ve yaz aylarını Akdeniz havzası, Orta Doğu'nun kuzey kısımları ve Batı Asya'da geçirir. Kış aylarını ise Güney ve Doğu Afrika'da geçirir. Türkiye'de yaz konuğudur.","morphology":"Boyu: 20-22 cm              Kanat açıklığı: 54-60 cm  Ağırlık: 80-120 g","nutrition ":"Uçuşu sırasında böcek ve sineklerle beslenirler.","gamogeneses":" Dişi 1-6 adet yumurta bırakır.  Kuluçka dönemi 19-20 gün sürer. Yumurtadan çıktıktan yaklaşık 60 gün sonra yavrular tamamen tüylenirler.",
+  "ilgaz_population":"Bol ve yaz göçmeni",
+  "imageUrl": "images/bird/112-ak-karinli-ebabil/thumb.jpg",
+  "images": [
+    "images/bird/112-ak-karinli-ebabil/thumb.jpg",
+    "images/bird/112-ak-karinli-ebabil/01.jpg"
+]},
+{"rank": 113,"id": "ebabil","name_tr":"Ebabil","name_la":"Apus apus","name_en":"Common swift","criteria":"LC (Asgari Kaygı)",
+  "snippet": "Rengi siyahımsı, kafası küt, gövdesi dar, kuyruğu çatallı uzundur.",
+  "description":"Rengi siyahımsı, kafası küt, gövdesi dar, kuyruğu çatallı uzundur.Tırpan şeklinde, geriye çekik ve gergin kanatları, kırlangıçtaki esneklikten yoksundur. Boğazındaki beyazlık dikkat çekici değildir. Kanat üzerinde kontrast yoktur ancak alt tarafında, içteki kanat teleklerinin gövdesinden daha açık olduğu seçilir.","habitat":"Sulak alanlar, açık araziler ve yerleşimlerin üzerinden uçarak görülürler. Kayalık yarlara ve buldukları oyuklara yuva yaparlar.","spread":"Avrupa, Asya ve Afrikada geniş bir yayılımı vardır. Göç eden bir türdür ve kuzey bölgelerde üreme dönemini geçirirken kış öncesinde Sahra altı Afrika'ya göç ederler. Yazın üreme döneminde Türkiye'nin her yerinde bulunurlar. ","morphology":"Boyu: 16-18 cm              Kanat açıklığı: 30-40 cm  Ağırlık: 35-56 g","nutrition ":"Uçuşu sırasında böcek ve sineklerle beslenirler. ",
+  "gamogeneses":"Tek eşlidirler.  Dişi 2-4 adet yumurta bırakır.  Kuluçka dönemi 19-20 gün sürer. Yumurtadan çıktıktan yaklaşık 35-56 gün sonra yavrular yuvadan uçmaya hazır hale gelir.",
+"ilgaz_population":"Bol ve yaz göçmeni",
+"imageUrl": "images/bird/113-ebabil/thumb.jpg",
+"images": [
+  "images/bird/113-ebabil/thumb.jpg"
+]},
+{"rank": 114,"id": "ibibik","name_tr":"İbibik","name_la":"Upupa epops","name_en":"Hoopoe","criteria":"LC (Asgari Kaygı)",
+  "snippet": "Uzun ve düz gövdeli, kısa bacaklı, uzun ve kıvrık gagalı, uzun üçgen kuyruklu bir kuştur.",
+  "description":"Uzun ve düz gövdeli, kısa bacaklı, uzun ve kıvrık gagalı, uzun üçgen kuyruklu bir kuştur. Rengi pembeden açık kirli sarıya kadar değişir, ibiği( geriye dönük tüyler) daha turuncu ve uçları siyahtır. Sırtı ve kanatları siyah-beyaz koyu çizgilidir.","habitat":"Açık kısa bitkili alanlarda ve açıklıklı ormanlarda görülür. Yuvasını ağaç kovuklarında, taşların arasında oluşturduğu gibi yoğun yapılaşma olmayan bölgelerde çalılarda/duvarlarda bulduğu uygun yerlerde de yapar.","spread":"Dünyada yaygın bir türdür ve Türkiye'nin her yöresinde görülebilir.","morphology":"Boyu: 25-29 cm              Kanat açıklığı: 42-46 cm  Ağırlık: 55-80 g","nutrition ":"Böcekçil bir kuştur. Uzun gagasıyla toprak altından omurgasızları çıkarmakta ustadır.",
+  "gamogeneses":"Nisan-Temmuz ayları arasında ürerler. Dişi 4-8 adet yumurta bırakır.  Kuluçka dönemi 15-17 gün sürer. Yumurtadan çıktıktan yaklaşık 20-28 gün sonra yavrular yuvadan uçmaya hazır hale gelirler.",
+  "ilgaz_population":"Nadir ve yaz göçmeni",
+  "imageUrl": "images/bird/114-ibibik/thumb.jpg",
+  "images": [
+    "images/bird/114-ibibik/thumb.jpg"
+  ]
+},
+{"rank": 115,"id": "tepeli-toygar","name_tr":"Tepeli toygar","name_la":"Galerida cristata","name_en":"Crested lark","criteria":"LC (Asgari Kaygı)",
+"snippet": "İri, tıknaz ve büyük kanatlı bir toygardır. Kalkık, sivri ve belirgin bir ibiği vardır.",
+"description":"İri, tıknaz ve büyük kanatlı bir toygardır. Kalkık, sivri ve belirgin bir ibiği vardır. Göğsü ince ve koyu çizgilidir. Kanat üstü sade, kanat altı ise pas rengidir. Kuyruk sokumu ve kuyruk ortası açık grimsi, kuyruğunun dış tarafı siyahımsı ve iki yanı da açık renklidir.","habitat":"Açık, ağaçsız kuru bölgelerde ve tarlalarda görülmektedir.Tarlalarda ve açık arazilerde ürer ve yuvasını zemine yapar.","spread":"Dünyada yaygın bir türdür ve tüm Türkiye'de yıl boyu görülebilen bir ötücüdür.","morphology":"Boyu: 17-19 cm. Kanat açıklığı: 28-39 cm  Ağırlık: 37-55 g","nutrition ":"Böcekler ve tohumlarla beslenir.","gamogeneses":"Dişi 3-6 adet yumurta bırakır.  Kuluçka dönemi 12-13 gün sürer. Yumurtadan çıktıktan yaklaşık 15-16 gün sonra yavrular yuvadan uçmaya hazır hale gelirler.",
+  "ilgaz_population":"Seyrek ve yerleşik tür",
+  "imageUrl": "images/bird/115-tepeli_toygar/thumb.jpg",
+  "images": [
+    "images/bird/115-tepeli_toygar/thumb.jpg"
+  ]},
+{"rank": 116,"id": "kir-kirlangici","name_tr":"Kır kırlangıcı","name_la":"Hirundo rustica","name_en":"Barn swallow","criteria":"LC (Asgari Kaygı)",
+  "snippet": "Kırlangıçlar küçük, ince yapılı ve zamanlarının çoğunu havada geçiren huşlardır.",
+  "description":"Kırlangıçlar küçük, ince yapılı ve zamanlarının çoğunu havada geçiren huşlardır. Üst tarafı çok koyu parlak mavi, alnı ve koyu mavi göğüs kuşağının çevrelediği boğazı kırmızımsı-kestane rengidir. Alt tarafı açık turuncu ve kirli sarıdır. Kuyruğu derin çatallı, dış telekleri telimsi ve çok uzundur. Kuyruk ortasında bir sıra oluşturan geniş beyaz lekeler vardır. Gagaları kısa ve geniştir.","habitat":"Açık alanlarda bulunur. Kırsal alanlarda, ekili alanların civarında, bina duvarlarına ya da kaya oyuklarına açık çanak şeklinde yuvalar yaparlar. Üreme dönemleri dışında sazlık alanlarda konaklarlar.","spread":"Geniş yayılımı olan göçmen bir türdür. Yazın Kuzey Amerika, Avrupa ve Asya'da üreme dönemlerini geçirirler ve kışlamak için Orta ve Güney Amerika, Afrika, Güneydoğu Asya ve Avurstalya'ya göç ederler. Yaz aylarında tüm Türkiye'de görülür.",
+  "morphology":"Boyu: 17-19 cm              Kanat açıklığı: 32-34 cm  Ağırlık: 16-25 g",
+  "nutrition ":"Uçuşu sırasında geniş gagasıyla yakaladığı sinek ve böceklerle beslenir.",
+  "gamogeneses":"Nisan-Mayıs ayları arasında ürerler. Dişi 3-8 adet yumurta bırakır.  Kuluçka dönemi 14-16 gün sürer. Yumurtadan çıktıktan yaklaşık 17-24 gün sonra yavrular yuvadan uçmaya hazır hale gelirler.",
+  "ilgaz_population":"Bol ve yaz göçmeni",
+  "imageUrl": "images/bird/116-kir_kirlangici/thumb.jpg",
+  "images": [
+    "images/bird/116-kir_kirlangici/thumb.jpg",
+    "images/bird/116-kir_kirlangici/01.jpg"
+  ]},
+{"rank": 117,"id": "ev-kirlangici","name_tr":"Ev kırlangıcı","name_la":"Delichon urbica","name_en":"House Martin","criteria":"LC (Asgari Kaygı)",
+  "snippet": "Kuyruk sokumunda oldukça belirgin parlak beyaz bir bant vardır. Üst tarafı koyu mavi, kanatları kahverengi-siyah, alt tarafı tamamen beyazdır.",
+  "description":"Kuyruk sokumunda oldukça belirgin parlak beyaz bir bant vardır. Üst tarafı koyu mavi, kanatları kahverengi-siyah, alt tarafı tamamen beyazdır. Kuyruğu kısa ve çatallıdır, kuyruk telleri yoktur.","habitat":"Yerleşim alanları, bozkırlar, sarp kayalık araziler ve sulak alanlarda yayılım gösterir. Bina duvarlarına ya da kaya duvarlarına açık çanak şeklinde çamurdan yuvalar yaparlar.  ","spread":"Göç eden bir türdür. Yaz aylarında Avrupa genelinde görülür ve kışı Afrika'nın tropik bölgelerinde geçirir. Türkiye'de yaz aylarında sahil şeridi boyunca üreme faaliyeti gösterir.","morphology":"Boyu: 12-15 cm              Kanat açıklığı: 25-29 cm  Ağırlık: 15-20 g","nutrition ":"Uçuşu sırasında yakaladığı sinek ve böceklerle beslenir.",
+  "gamogeneses":"Nisan-Mayıs ayları arasında ürerler.  Dişi 2-6 adet yumurta bırakır ve yılda 2-3 kez yumurtlayabilir. Kuluçka dönemi 13-19 gün sürer. Yumurtadan çıktıktan  15-25 gün sonra yavrular yuvadan uçmaya hazır hale gelirler.",
+  "ilgaz_population":"Bol ve yaz göçmeni",
+  "imageUrl": "images/bird/117-ev_kirlangici/thumb.jpg",
+  "images": [
+    "images/bird/117-ev_kirlangici/01.jpg",
+    "images/bird/117-ev_kirlangici/02.jpg",
+    "images/bird/117-ev_kirlangici/thumb.jpg"
+  ]},
+{"rank": 118,"id": "ak-kuyruksallayan","name_tr":"Ak kuyruksallayan","name_la":"Motacilla alba","name_en":"White wagtail","criteria":"LC (Asgari Kaygı)",
+  "snippet": "Siyah-beyaz başı, siyah göğsü, gri sırtı ve karakteristik uzun kuyruğu ile tanınır.",
+  "description":"Siyah-beyaz başı, siyah göğsü, gri sırtı ve karakteristik uzun kuyruğu ile tanınır. Kuyruğu siyah, kuyruk dış telekleri beyazdır.","habitat":"Genelde su yakınlarında yaşamayı tercih eder; göl, akarsu ve deniz civarında yaşar. Çöl dışındaki pek çok habitatta görülebilir. Açık alanlarda görülür. Şehir hayatına adapte olmuştur ve yuvasını binalardaki çatlaklara, taş duvarlara yapmayı tercih eder.","spread":"Populasyonunun bir kısmı kışın daha ılıman bölgelere göç eder. Avrupa ve Asya'nın bir bölümü ile kuzey Afrika'da dağılım gösteren oldukça yaygın bir türdür. Ülkemizdeki populasyonu yaz-kış mevcuttur.","morphology":"Boyu:  18 cm              Kanat açıklığı: 25-30 cm  Ağırlık: 19-27 g","nutrition ":"Böcekçildir; avlanmak için suya yakın yerleri tercih eder.",
+  "gamogeneses":"Yaz aylarında ürerler.  Dişi 5-6 adet yumurta bırakır.  Kuluçka dönemi  11-16 gün sürer. Yumurtadan çıktıktan yaklaşık 16 gün sonra yavrular yuvadan uçmaya hazır hale gelirler.",
+  "ilgaz_population":"Seyrek ve yerleşik tür",
+  "imageUrl": "images/bird/118-ak-kuyruksallayan/thumb.jpg",
+  "images": [
+    "images/bird/118-ak-kuyruksallayan/thumb.jpg"
+  ]},
+{"rank": 119,"id": "derekusu","name_tr":"Derekuşu","name_la":"Cinclus cinclus","name_en":"Dipper","criteria":"LC (Asgari Kaygı)",
+  "snippet": "Su karatavuğu da denen Derekuşu kahverengi gövdesi, beyaz boğazı ve göğsü ile kolayca tanınır.",
+  "description":"Su karatavuğu da denen Derekuşu kahverengi gövdesi, beyaz boğazı ve göğsü ile kolayca tanınır. Gencinin üstü grimsi-kahverengi, alt tarafı beyaz üzerine koyu kırçıllıdır. Dalma ve yüzme yeteneğine sahiplerdir.","habitat":"Genelde yükseklerde(2500m'ye kadar) hızlı akan, taşlık dağ derelerinde yaşar. Kışın daha alçak rakımlara iner.","spread":"Afrika'nın kuzeyinden güneyine ve Avrupa'dan Rusya'nın doğusuna kadar uzanan alanlar boyunca yayılış gösterir. Türkiye'nin de pek çok bölgesinde görmek mümkündür.","morphology":"Boyu:  17-20 cm              Kanat açıklığı: 25-30 cm  Ağırlık: 50-76 g","nutrition ":"Başta sucul böcekler ve larvalar olmak üzere, sucul omurgasızlar ile beslenir. Küçük balıkları da yediği gözlenmiştir.",
+  "gamogeneses":"Yılın erken dönemlerinde üremeye başlar. Şubat ayında dişi 4-5 yumurta bırakır ve yaklaşık 16 gün kuluçkaya yatar. Yavruları 20-24 günlük olunca tüylenir.",
+  "ilgaz_population":"Nadir ve yerleşik tür",
+  "imageUrl": "images/bird/119-derekusu/thumb.jpg",
+  "images": [
+    "images/bird/119-derekusu/01.jpg",
+    "images/bird/119-derekusu/thumb.jpg"
+  ]},
+{"rank": 120,"id": "citkusu","name_tr":"Çıt kuşu","name_la":"Troglodytes troglodytes","name_en":"Wren","criteria":"LC (Asgari Kaygı)",
+  "snippet": "En belirgin özelliği kısa ve kalkık kuyruğu olan küçük ve tıknaz bir kuştur.",
+  "description":"En belirgin özelliği kısa ve kalkık kuyruğu olan küçük ve tıknaz bir kuştur. Üst kısmı enine koyu renk çizgileri olan koyu kestane rengindedir; alt kısmı ise daha açık renkte  ve gri çizgilidir. Gözünün üzerinde belirgin uzun ve açık renk bir çizgi bulunur. Bacakları uzun  ve güçlü, gagası sivri uçludur. ","habitat":"Ormanlar, sık çalılıklar, bahçeler gibi pek çok alanda bulunurlar. Böğürtlenler bu kuşlar için ideal barınak, yuva ve yemlenme mekanı sağlar. ","spread":"Geniş bir yayılım alanı olan tür Kuzey Amerika, Avrupa, Afrika'nın kuzey kısımları ve Asya'da görülür. Türkiye'de ise Karadeniz, Trakya, Ege, Akdeniz'in büyük kısmı ve Güneydoğu  Anadolu'da görülür.","morphology":"Boyu:  8-12 cm              Kanat açıklığı: 12-17 cm  Ağırlık: 6-13 g",
+  "nutrition ":" Genel olarak yerde ve ağaçlarda buldukları çeşitli böcek, örümcek ve larvalarla beslenirler. Aynı zamanda tohum ve küçük omurgalılarla beslendiği görülür.",
+  "gamogeneses":"Dişi Mart-Temmuz ayları arasında iki  kez kuluçkaya yatar. Dişi 1-9 adet yumurta bırakır.  Kuluçka dönemi yaklaşık 16 gün sürer. Yumurtadan çıktıktan yaklaşık 14-19 gün sonra yavrular yuvadan uçmaya hazır hale gelirler. Ancak tam  olarak bağımsız olmaları için 9-18 gün daha aileleri tarafından beslenirler.",
+  "ilgaz_population":"Nadir ve yerleşik tür",
+  "imageUrl": "images/bird/120-citkusu/thumb.jpg",
+  "images": [
+    "images/bird/120-citkusu/01.jpg",
+    "images/bird/120-citkusu/thumb.jpg"
+  ]},
+{"rank": 121,"id": "kizilgerdan","name_tr":"Kızılgerdan","name_la":"Erithacus rubecula","name_en":"Robin","criteria":"LC (Asgari Kaygı)",
+  "snippet": "Üst tarafı zeytin yeşili-kahverengi, alt tarafı kirli sarı, yüzü ve kolyesi kırmızımsı turuncudur.",
+  "description":"Üst tarafı zeytin yeşili-kahverengi, alt tarafı kirli sarı, yüzü ve kolyesi kırmızımsı turuncudur; gittikçe açılır. Gerdanın yanları değişken şekilde mavi-gridir. Gözleri belirgin şekilde koyu renklidir.","habitat":"Ormanlarda, ağaçlıklarda ve bahçelerde yaşarlar.","spread":"Avrupa'nın kuzeyinde ürer ve kışı Kuzey Afrika ve Orta Doğu'da geçirir. Türkiye'nin orta, kuzey ve güney bölümlerinde uygun yaşama ortamı olan bölgelerde görülür.","morphology":"Boyu:  12-14 cm              Kanat açıklığı: 20-22 cm  Ağırlık: 14-21 g","nutrition ":"Böceklerle, solucanlarla ve diğer omurgasızlarla beslenirler.","gamogeneses":"Yılda 2 kere kuluçkaya yatarlar. Mart sonunda dişi 4-6 yumurta bırakır. Kuluçka süresi yaklaşık 15 gün sürer.",
+  "ilgaz_population":"Seyrek ve yerleşik tür",
+  "imageUrl": "images/bird/121-kizilgerdan/thumb.jpg",
+  "images": [
+    "images/bird/121-kizilgerdan/thumb.jpg"
+  ]},
+{"rank": 122,"id": "bulbul","name_tr":"Bülbül","name_la":"Luscinia megarhynchos","name_en":"Common nightingale","criteria":"LC (Asgari Kaygı)",
+  "snippet": "Sıklıkla dalların arasına saklanır. Sırtı kahverengimsi, karnı boz renkli ve kuyruğu oldukça kızıldır.",
+  "description":"Sıklıkla dalların arasına saklanır. Sırtı kahverengimsi, karnı boz renkli ve kuyruğu oldukça kızıldır. Siyah renkli gözünü çevreleyen açık renk göz halkası vardır. Boynunda grilik bulunur ve üst kısmı düz kahverengidir.","habitat":"Yaprak döken açık ormanlar, dere boyları, fundalık gibi alanlarda yaşar. Akdeniz ormanlarında sık rastlanır.","spread":"Göçmen bir kuştur. Üreme döneminde Kuzeydoğu Afrika, Avrupa, Orta Doğu ve Orta Asya'da bulunurken kış gelmeden önce Afrika'nın tropikal bölgelerine göç eder. Tüm Türkiye'de de uygun habitatlarda üreme göçmeni olarak bulunur. ","morphology":"Boyu:  16-17 cm              Kanat açıklığı: 23-26 cm  Ağırlık: 18-27 g","nutrition ":"Böcek, tırtıl ve yumuşak taneli meyvelerle beslenir. Avlarını genellikle yerde ararlar.",
+  "gamogeneses":"Toprağa yakın, çalılık yerlerde iyi gizlenmiş yuvaları vardır.  Nisan-Temmuz ayları arasında ürerler. Dişi 4-5 adet yumurta bırakır.  Kuluçka dönemi 14-15 gün sürer. Yumurtadan çıktıktan yaklaşık 12-14 gün sonra yavrular yuvadan uçmaya hazır hale gelirler.",
+  "ilgaz_population":"Nadir ve yaz göçmeni",
+  "imageUrl": "images/bird/122-bulbul/thumb.jpg",
+  "images": [
+    "images/bird/122-bulbul/thumb.jpg"
+  ]},
+{"rank": 123,"id": "kuyrukkakan","name_tr":"Kuyrukkakan","name_la":"Oenanthe oenanthe","name_en":"Northern wheatear","criteria":"LC (Asgari Kaygı)",
+  "snippet": "Kuyruk sokumu beyaz ve büyüktür, ucunda siyah ve geniş bir bant olankuyruğunda siyah T şekli göze çarpar.",
+  "description":"Kuyruk sokumu beyaz ve büyüktür, ucunda siyah ve geniş bir bant olankuyruğunda siyah T şekli göze çarpar. İlkbahar erkeğinin üst tarafı gri, kanatları kahverengi siyah, alt tarafı ise açık kahverengi sarıdır. Gözü boyunca uzanan siyah lekenin üzerinde beyaz bir çizgi vardır. Dişinin üst tarafı kum rengi kahverengi, alt tarafı kirli sarı, göz lekesi ve kanatları kahverengidir.","habitat":"Açık araziler, kırlar, kumlu fundalıklar ve kum tepeciklerinde yaygın olarak bulunur. Yuvalarını duvarlardaki oyuklara, kaya öbeklerinin aralarına, taş yarıklarına yaparlar.","spread":"Göçmendir. Kuzey Avrupa, Kuzey Afrika, Asya, Alaska, Kuzeydoğu Kanada ve Grönland' da ürerler. Üreme sezonundan sonra Sahra altı Afrika'ya göç ederler.","morphology":"Boyu:  14-16 cm              Kanat açıklığı: 25-30 cm  Ağırlık: 18-33 g",
+  "nutrition ":"Böcekçildir ve küçük taneli dutsu meyvelerle de beslenir.",
+  "gamogeneses":"Dişi ortalama 4-8 yumurta bırakır. Kuluçka süresi yaklaşık 12-13 gün sürer. Yumurtadan çıktıktan yaklaşık 27-33 gün sonra yavrular yuvadan uçmaya hazır hale gelirler.",
+  "ilgaz_population":"Nadir ve yaz göçmeni",
+  "imageUrl": "images/bird/123-kuyrukkakan/thumb.jpg",
+  "images": [
+    "images/bird/123-kuyrukkakan/01.jpg",
+    "images/bird/123-kuyrukkakan/02.jpg",
+    "images/bird/123-kuyrukkakan/thumb.jpg"
+  ]},
+{"rank": 124,"id": "karatavuk","name_tr":"Karatavuk","name_la":"Turdus merula","name_en":"Blackbird","criteria":"LC (Asgari Kaygı)",
+  "snippet": "Erkeği dikkat çekici derecede siyahtır( özellikle yemyeşil ormanlık alanda), gagası ve göz halkası parlak turuncu-sarıdır.",
+  "description":"Erkeği dikkat çekici derecede siyahtır( özellikle yemyeşil ormanlık alanda), gagası ve göz halkası parlak turuncu-sarıdır. Dış kanadı ve kanat altı uçuşta açık renklidir. Dişisi koyu kahverengi, gagası koyu yada sarıdır; boğazı açık renk ve çizgili, alt tarafı hafif beneklidir.","habitat":"Çok farklı habitat ortamlarında yaşamaktadırlar. Parklar, bahçeler, korular da dahil olmak üzere şehir merkezlerinden dağlık bölgelere kadar her bölgede bulunurlar.","spread":"Türün yayılımı Avrupa, Rusya, Türkiye, İran ve Himalayalardan Çin'e kadardır. Türkiye'de yerleşik olarak her mevsimde bulunmaktadır.","morphology":"Boyu:  23-29 cm              Kanat açıklığı: 36 cm  Ağırlık: 80-125 g","nutrition ":"Meyveler, solucanlar ve çeşitli böceklerle beslenir.",
+  "gamogeneses":"Mart ayında dişi ortalama 3-5 yumurta bırakır. Kuluçka süresi yaklaşık 12-15 gün sürer. Yumurtadan çıktıktan yaklaşık 10-19 gün sonra yavrular yuvadan uçmaya hazır hale gelirler.",
+  "ilgaz_population":"Bol ve yerleşik tür",
+  "imageUrl": "images/bird/124-karatavuk/thumb.jpg",
+  "images": [
+    "images/bird/124-karatavuk/01.jpg",
+    "images/bird/124-karatavuk/thumb.jpg"
+  ]},
+{"rank": 125,"id": "kizilkuyruk","name_tr":"Kızılkuyruk","name_la":"Phoenicurus phoenicurus","name_en":"Redstart","criteria":"LC (Asgari Kaygı)",
+  "snippet": "Parıltılı ve parlak açık kızıl kuyruğu ve kızıl kuyruk sokumu vardır. Erkeğin üst tarafı gri, alnı beyaz, yüzü ise siyahtır.",
+  "description":"Parıltılı ve parlak açık kızıl kuyruğu ve kızıl kuyruk sokumu vardır. Erkeğin üst tarafı gri, alnı beyaz, yüzü ise siyahtır. Dişisi daha sade, bejimsi kahverengidir. Gencinin kanat teleklerinin kenarları açık renk, göğsü açık soluk turuncu-kirli sarı, gö halkası ise açık renktir. ","habitat":"Ormanlarda, ağaçlıklarda ve bahçelerde yaşayan bu tür ağaç kovuklarına da yuva yapar.","spread":"Göç eden bir türdür. Avrupa'da, Sibirya'nın güneyinde, Kafkaslar'da, Türkiye'de ve Kuzeybatı Afrika'da ürer ve kışı Afrika'da geçirir. Türkiye'nin her bölgesinde uygun ağaçlık bölgelerde  ürerler.","morphology":"Boyu:  13-15 cm              Kanat açıklığı: 21-24 cm  Ağırlık: 12-20 g","nutrition ":"Yazın böcekler, larvalar ve örümceklerle, kışı ise bitki tohumları ile beslenirler.",
+  "gamogeneses":"Nisan-Haziran ayları arasında ürerler. Dişi 5-7 adet yumurta bırakır.  Kuluçka dönemi 12-14 gün sürer. Yumurtadan çıktıktan 22-29 günün sonunda yavrular yuvadan ayrılırlar.",
+  "ilgaz_population":"Seyrek ;yerleşik tür ve yz göçmeni",
+  "imageUrl": "images/bird/125-kizilkuyruk/thumb.jpg",
+  "images": [
+    "images/bird/125-kizilkuyruk/thumb.jpg"
+  ]},
+{"rank": 126,"id": "maskeli-otlegen","name_tr":"Maskeli ötleğen","name_la":"Sylvia melanocephala","name_en":"Sardinian Warbler","criteria":"LC (Asgari Kaygı)",
+  "snippet": "Kuyruğu ince ve uzun, başı koyu renk, boğazı beyazdır. Kuyruğu siyahımsı, yanları geniş ve beyazdır.",
+  "description":"Kuyruğu ince ve uzun, başı koyu renk, boğazı beyazdır. Kuyruğu siyahımsı, yanları geniş ve beyazdır. Erkeğin başı siyah, boğazı parlak beyaz, göz halkası kırmızı, gövdesi gridir. Dişisi daha kahverengidir, başı grimsi, boğazı mat beyaz, alt tarafı kirli sarı, böğrü daha kahverengi ve gözleri kırmızımsı kahverengidir. ","habitat":"Alçak çalılıklar, bahçeler, fundalıklar ve bodur fidanlıklarda görülür.","spread":"Akdeniz'e özgü bir kuştur. Kuzey Afrika ülkeleri dahil Akdenniz ülkelerine yayılmıştır. Türkiye'nin Ege, Marmara, Akdeniz kıyılarında görülür.","morphology":"Boyu:  13-14 cm              Kanat açıklığı: 15-18 cm  Ağırlık: 14-23 g","nutrition ":"Meyve taneleri, böcekler ve larvalar ile beslenir.","gamogeneses":"Üreme döneminde dişi 3-6 yumurta bırakır.",
+  "ilgaz_population":"Nadir ve kış göçmeni",
+  "imageUrl": "images/bird/126-maskeli-otlegen/thumb.jpg",
+  "images": [
+    "images/bird/126-maskeli-otlegen/thumb.jpg"
+  ]},
+{"rank": 127,"id": "ak-mukallit","name_tr":"Ak mukallit ","name_la":"Hippolais pallida","name_en":"Olivaceous warbler","criteria":"LC (Asgari Kaygı)",
+  "snippet": "Düz açık kahverengi renkli bir ötleğendir. Alt tarafı daha açık renk, başı düz gagası uzun ve kama biçimlidir.",
+  "description":"Düz açık kahverengi renkli bir ötleğendir. Alt tarafı daha açık renk, başı düz gagası uzun ve kama biçimlidir. Uzunca kuyruğu kare şeklinde, kanatları kısadır. Kuyruğunu sık sık aşağıya doğru sallar.","habitat":"Kapalı ormanların dışında her türlü çalılık ve ağaçlık arazide bulunur.","spread":"Göç eden bir türdür. Batı ve orta Anadolu'da oldukça yaygın bir türdür. Kışın Afrika'nın alt sahara bölgelerine göçer ve Mayıs başlarındaTürkiye'ye geri döner.","morphology":"Boyu:  12-13,5 cm              Kanat açıklığı: 18-21 cm  Ağırlık: 8-13 g","nutrition ":"Böcekçildir. Ayrıca yazın sonlarına doğru meyvelerle de beslenir.",
+  "gamogeneses":"Üreme döneminde dişi 2-5 yumurta bırakır.  Kuluçka süresi yaklaşık    11-13 gün sürer.Yumurtadan çıktıktan yaklaşık 11-15 gün sonra yavrular yuvadan uçmaya hazır hale gelirler. Guguk kuşu yuvasına parazit olabilir.",
+  "ilgaz_population":"Nadir ve yaz göçmeni",
+  "imageUrl": "images/bird/127-ak-mukallit/thumb.jpg",
+  "images": [
+    "images/bird/127-ak-mukallit/thumb.jpg"
+  ]},
+{"rank": 128,"id": "kucuk-sinekkapan","name_tr":"Küçük sinekkapan","name_la":"Ficedula parva","name_en":"Red-breasted flycatcher","criteria":"LC (Asgari Kaygı)",
+  "snippet": "Erkeğin boğazı ve göğsü kırmızı, baş ve boyun yanları gridir. Dişi de baş ve gövdenin üst kısımları gri kahverengidir.",
+  "description":"Erkeğin boğazı ve göğsü kırmızı, baş ve boyun yanları gridir. Dişi de baş ve gövdenin üst kısımları gri kahverengidir. İlk bakışta iri gözleri ve beyaz göz halkası  görülebilir. Kuyruğunu sıkça yukarı kaldırır ve kuyruğunu açtığında beyazları görülür.","habitat":"Her türlü ağaçlık ve ormanlık alanlar, parklar ve bahçelerde görülür. Nemli yaprak döken ormanlarda ürer. Göç döneminde açık araziler ve tarlalarda da görülür.","spread":"Göç eden bir türdür. Orta ve doğu Avrupa'da, Kuzeybatı Sibirya,Türkiye, Kafkaslar ve İran'da ürerler. Kışı ise Pakistan, Hindistan, Arap yarımadasında geçirirler. Küçük bir kısmı Kuzeybatı Afrika'da kışı geçirir. ","morphology":"Boyu:  11-12 cm              Kanat açıklığı: 18-21 cm  Ağırlık: 10 g","nutrition ":"Böcekçildir. Ağaçlarda bekleyerek avını ani hamleler ile yakalar.",
+  "gamogeneses":"Üreme döneminde dişi 5-7 yumurta bırakır.  Kuluçka süresi yaklaşık    13-14 gün sürer.Yumurtadan çıktıktan yaklaşık 11-15 gün sonra yavrular yuvadan uçmaya hazır hale gelirler.","ilgaz_population":"Nadir ve göç sırasında görülen tür",
+  "imageUrl": "images/bird/128-kucuk-sinekkapan/thumb.jpg",
+  "images": [
+    "images/bird/128-kucuk-sinekkapan/01.jpg",
+    "images/bird/128-kucuk-sinekkapan/thumb.jpg"
+  ]},
+{"rank": 129,"id": "saksagan","name_tr":"Saksağan","name_la":"Pica pica","name_en":"Magpie","criteria":"LC (Asgari Kaygı)",
+  "snippet": "Kuyruğu uzun ve sivri, giysisi ise göz alıcı derecede siyah ve beyazdır.",
+  "description":"Kuyruğu uzun ve sivri, giysisi ise göz alıcı derecede siyah ve beyazdır. Başı, sırtı ve göğsü mat siyah; omuzları ve alt tarafı beyazdır. Kanatları parlak çelik mavisidir, ancak kanatlarını açtığında uçlarının oldukça beyaz olduğu görülür. ","habitat":"Her türlü habitatta bulunabilirler. Ormanlar, bozkırlar, parklar ve çöplüklerde bolca görülürler.","spread":"Geniş yayılımları vardır; Avrupa ve Asya'da bulunurlar.","morphology":"Boyu:  40-51 cm              Kanat açıklığı: 52-60 cm  Ağırlık: 200-250 g","nutrition ":"Omnivorlardır. Başlıca besinleri böcekler, diğer kuşların yumurtaları, kuş yavruları, tohumlar, meyveler ve çöplükteki yiyecek atıklarıdır.","gamogeneses":"Üreme döneminde dişi 4-7 yumurta bırakır.  Kuluçka süresi yaklaşık    18-24 gün sürer.Yumurtadan çıktıktan yaklaşık 22-27 gün sonra yavrular yuvadan uçmaya hazır hale gelirler.",
+  "ilgaz_population":"Nadir ve yerleşik tür",
+  "imageUrl": "images/bird/129-saksagan/thumb.jpg",
+  "images": [
+    "images/bird/129-saksagan/01.jpg",
+    "images/bird/129-saksagan/02.jpg",
+    "images/bird/129-saksagan/03.jpg",
+    "images/bird/129-saksagan/04.jpg",
+    "images/bird/129-saksagan/05.jpg",
+    "images/bird/129-saksagan/thumb.jpg"
+  ]},
+{"rank": 130,"id": "kucuk-karga","name_tr":"Küçük karga","name_la":"Corvus monedula","name_en":"Jackdaw","criteria":"LC (Asgari Kaygı)",
+  "snippet": "Siyah başlıklı, grimsi renkli küçük bir kargadır.",
+  "description":"Siyah başlıklı, grimsi renkli küçük bir kargadır. Erginlerde ense ve boynun yanları koyu gri, gövdenin yanları ve göğüs arduvaz rengi, diğer tarafları siyahtır.","habitat":"Yerleşim yerlerinde, bahçelerde, kayalıklarda ve tarlalrda görülürler.","spread":"Kuzey İskandinavya hariç bütün Avrupa'da, Kuzey Sibirya hariç bütün Asya'da ve kuzeybatı Afrika'da bulunur.","morphology":"Boyu:  30-34 cm              Kanat açıklığı: 70-90 cm  Ağırlık: 200-300 g","nutrition ":"Omnivorlardır. Başlıca besinleri böcekler, diğer kuşların yumurtaları, kuş yavruları, tohumlar, meyveler ve çöplükteki yiyecek atıklarıdır.","gamogeneses":"Üreme döneminde dişi 4-6 yumurta bırakır.  Kuluçka süresi yaklaşık 17 gün sürer.Yumurtadan çıktıktan yaklaşık 30 gün sonra yavrular yuvadan uçmaya hazır hale gelirler.",
+  "ilgaz_population":"Nadir ve yerleşik tür",
+  "imageUrl": "images/bird/130-kucuk-karga/thumb.jpg",
+  "images": [
+    "images/bird/130-kucuk-karga/thumb.jpg"
+  ]},
+{"rank": 131,"id": "kuzgun","name_tr":"Kuzgun","name_la":"Corvus corax","name_en":"Raven","criteria":"LC (Asgari Kaygı)",
+  "snippet": "Her tarafı siyah ve çelik mavisi parlaklığındadır.",
+  "description":"Her tarafı siyah ve çelik mavisi parlaklığındadır. Kalın, güçlü bir gagası vardır ve boyun tüyleri kabarık durur, kuyruk kama şeklindedir.","habitat":"Yüksek yaylalarda, kayalık sahillerde, kayalık ormanlarda, fundalıklarda yaşarlar.","spread":"Yerleşik bir türdür ve Avrupa, Kuzey Afrika, Asya, Kuzey Amarika ve Avusturalya'da yayılım gösterir. Türkiye'de Marmar, İç Ege, Karadeniz, batı ve orta toroslarda yaşarlar.","morphology":"Boyu:  60-65 cm              Kanat açıklığı: 110-120 cm  Ağırlık: 1000 g","nutrition ":"Hemen herşeyi yerler; leş, küçük memeli, omurgasızlar, kuş yumurtası ve yavruları, balık vb. Kursakları olmadığı için her daim yiyecek arayışı içindedirler.","gamogeneses":"Şubat-Mart aylarında dişi 4-6 yumurta bırakır.  Kuluçka süresi yaklaşık 20 gün sürer.Yumurtadan çıktıktan yaklaşık 6-7 hafta sonra yavrular yuvadan uçmaya hazır hale gelirler.",
+  "ilgaz_population":"Nadir ve yerleşik tür",
+  "imageUrl": "images/bird/131-kuzgun/thumb.jpg",
+  "images": [
+    "images/bird/131-kuzgun/thumb.jpg"
+  ]},
+{"rank": 132,"id": "alakarga","name_tr":"Alakarga","name_la":"Garrulus glandarius","name_en":"Jay","criteria":"LC (Asgari Kaygı)",
+  "snippet": "Kanat lekeleri mavi ve beyaz, kuyruk sokumu beyaz, kuyruğu siyahtır.",
+  "description":"Kanat lekeleri mavi ve beyaz, kuyruk sokumu beyaz, kuyruğu siyahtır. Uçuşta beyaz kanat paneli, beyaz kuyruk sokumu ve siyah kuyruğu ile hemen tanınır. Kanatları kısa ve yuvarlaktır, uçuşta zayıf ve dalgalıdır, yerde zıplayarak ilerler.","habitat":"Ormanlar, bahçeler ve şehir parklarında yaşar ve ürerler.","spread":"Tüm Avrupa, Anadolu, Kuzeybatı Afrika, Hazar denizinin batısında ve güneyinde yayılış gösterir.","morphology":"Boyu:  32-35 cm              Kanat açıklığı: 54-58 cm  Ağırlık: 140-190g","nutrition ":"Hemen herşeyi yerler;  omurgasızlar, kuş yumurtası ve yavruları, tohumlar, meyveler vb.","gamogeneses":"Nisan ayında dişi 5-7 yumurta bırakır.  Kuluçka süresi yaklaşık 16 gün sürer.Yumurtadan çıktıktan yaklaşık 20 gün sonra yavrular yuvadan uçmaya hazır hale gelirler.",
+  "ilgaz_population":"Bol ve yerleşik tür",
+  "imageUrl": "images/bird/132-alakarga/thumb.jpg",
+  "images": [
+    "images/bird/132-alakarga/thumb.jpg"
+  ]},
+{"rank": 133,"id": "sigircik","name_tr":"Sığırcık","name_la":"Sturnus vulgaris","name_en":"Starling","criteria":"LC (Asgari Kaygı)",
+  "snippet": "Rengi çok koyu, gagası sivri, kafası düz, gövdesi kalın, kuyruğu kısadır.",
+  "description":"Rengi çok koyu, gagası sivri, kafası düz, gövdesi kalın, kuyruğu kısadır. Erişkini siyahımsıdır, yaz giysisinde parlak yeşil ve mordur, gagası sarı, bacakları turuncudur. Kanatları uçuşta üçgen şeklinde ve sivri uçludur; sürüler uzaktan koyu füme renginde bir böcek sürüsü gibi görülür. Gövdesinin alt tarafındaki benekler koyu yuvarlak, kuyruk altı pul desenlidir. Kanat teleklerinin kenarları parlak kızıl-kirli sarıdır.","habitat":"Seyrek ormanlar, seyrek ağaçlı açık araziler, tarım arazileri, sulak alanlar ve şehir merkezlerinde görülür.","spread":"Türkiye, Orta ve Kuzey Avrupa ve Hazar gölünün batısında yılın her döneminde görülürler.","morphology":"Boyu:  19-22 cm              Kanat açıklığı: 37-42 cm  Ağırlık: 75-90 g","nutrition ":"Solucan, kurtlar, böcekler ile zeytin ve meyveler başlıca besinleridir. ",
+  "gamogeneses":"Üreme döneminde dişi 3-5 yumurta bırakır.  Kuluçka süresi yaklaşık    11-13 gün sürer.Yumurtadan çıktıktan yaklaşık 15-17 gün sonra yavrular yuvadan uçmaya hazır hale gelirler.","ilgaz_population":"Seyrek ve yerleşik tür",
+  "imageUrl": "images/bird/133-sigircik/thumb.jpg",
+  "images": [
+    "images/bird/133-sigircik/thumb.jpg"
+  ]},
+{"rank": 134,"id": "serce","name_tr":"Serçe","name_la":"Passer domesticus","name_en":"House sparrow","criteria":"LC (Asgari Kaygı)",
+  "snippet": "Erkeğin üst tafafı çizgili kahverengi, alt tarafı düz gridir.",
+  "description":"Erkeğin üst tafafı çizgili kahverengi, alt tarafı düz gridir. Gri tepesinin kenarları kalın ve koyu pas kızılı-kırmızısı, yanakları gri, gıdısı koyu siyahtır. Dişisi soluk sarı-kahverengidir, üst tarafı açık renk çizgili, alt atrafı açık kirli sarıdır; gözünün gerisinde geniş ve açık renk bir çizgi vardır.","habitat":"Bahçeler, parklar ve tarlaların yaygın kuşudur. İnsan yaşam alanlarına uyum sağlamışlardır ve yuva yapmak için binaları, çatı aralarını, diğer kuşların terk ettikleri yuvaları kullanırlar.","spread":"Dünyanın her yerinde yaygındır.","morphology":"Boyu:  14-16 cm              Kanat açıklığı: 21-25 cm  Ağırlık: 24-32 g","nutrition ":"Doğada solucandan tohuma geniş bir yelpazeyle beslense de yerleşim alanlarında genellikle insaların ürettikleri besinlerle nutritionktedirler.",
+  "gamogeneses":"Üreme döneminde dişi 3-5 yumurta bırakır.  Kuluçka süresi yaklaşık 14 gün sürer.Yumurtadan çıktıktan yaklaşık 15 gün sonra yavrular yuvadan uçmaya hazır hale gelirler.","ilgaz_population":"Bol ve yerleşik tür",
+  "imageUrl": "images/bird/134-serce/thumb.jpg",
+  "images": [
+    "images/bird/134-serce/thumb.jpg"
+  ]},
+{"rank": 135,"id": "agac-sercesi","name_tr":"Ağaç serçesi","name_la":"Passer montanus","name_en":"Tree sparrow","criteria":"LC (Asgari Kaygı)",
+  "snippet": "Dişi ve erkek birbirine çok benzer. Başlığı serçenin aksine kahverengidir ve hiç gri bulunmaz.",
+  "description":"Dişi ve erkek birbirine çok benzer. Başlığı serçenin aksine kahverengidir ve hiç gri bulunmaz. İnce ve beyaz boyun halkası, beyaz yanakları vardır. Yanağında oldukça belirgin kare şeklinde siyah bir benek bulunur.","habitat":"Açık tarım arazilerine yakın ağaçlık ve çalılarda yaşarlar. ","spread":"Yaygın bir türdür ve Türkiye'nin de heryerinde görülür.","morphology":"Boyu:  13-14cm. Kanat açıklığı: 20-22cm  Ağırlık: 18-29 g","nutrition ":"Bitkilerin filizleri, tomurcukları ve tohumları ana besin kaynağıdır. Yazları böceklerle de beslenirler.","gamogeneses":"Nisan-Ağustos aylarında  dişi 3-7 yumurta bırakır.  Kuluçka süresi yaklaşık 11- 14 gün sürer.Yumurtadan çıktıktan yaklaşık 15-20 gün sonra yavrular yuvadan uçmaya hazır hale gelirler.",
+  "ilgaz_population":"Bol ve yerleşik tür",
+  "imageUrl": "images/bird/135-agac-sercesi/thumb.jpg",
+  "images": [
+    "images/bird/135-agac-sercesi/thumb.jpg"
+  ]},
+{"rank": 136,"id": "ispinoz","name_tr":"İspinoz","name_la":"Fringilla coelebs","name_en":"Chaffinch","criteria":"LC (Asgari Kaygı)",
+  "snippet": "Belirgin beyaz kanat çizgilerine ve kuyruk kenarlarına sahiptir.",
+  "description":"Belirgin beyaz kanat çizgilerine ve kuyruk kenarlarına sahiptir. Erkeğin tepesi ve ensesi gri-mavi, sırtı kestane kızılı, göğsü kirli pembe ve kuyruk sokumu yeşildir. Dişisi ve gencinin beyaz kanat lekesi daha küçüktür.","habitat":"Çeşitli ormanlar, korular ve fundalıklarda barınır ve ürerler.","spread":"Yıl boyu bulunduğu ve ürediği bölgeler tüm Batı Avrupa, İngiltere, Anadolu, Hazar denizinin batısı ve güneyi ve de Kuzeybatı Afrikadır.",
+  "morphology":"Boyu:  14-16cm. Kanat açıklığı: 24-29 cm  Ağırlık: 18-29 g","nutrition ":"Temel besin kaynağı tahıl ve tohumlardır. Aynı zamanda omurgasızları da yedikleri görülür.","gamogeneses":"Üreme döneminde dişi 4-5 yumurta bırakır.  Kuluçka süresi yaklaşık 11-13 gün sürer.Yumurtadan çıktıktan yaklaşık 13-14 gün sonra yavrular yuvadan uçmaya hazır hale gelirler.",
+  "ilgaz_population":"Nadir ve yerleşik tür",
+  "imageUrl": "images/bird/136-ispinoz/thumb.jpg",
+  "images": [
+    "images/bird/136-ispinoz/01.jpg",
+    "images/bird/136-ispinoz/02.jpg",
+    "images/bird/136-ispinoz/03.jpg",
+    "images/bird/136-ispinoz/thumb.jpg"
+  ]},
+{"rank": 137,"id": "kaya-kartali","name_tr":"Kaya Kartalı","name_la":"Aquila chrysaetos","name_en":"Golden eagle","criteria":"LC (Asgari Kaygı)",
+  "snippet": "Uzun bir başı; uzun, kare ve geniş bir kuyruğu, uzun kanatlarında ise 'S' şeklinde çıkıntı yapan firar hattı vardır.",
+  "description":"Uzun bir başı; uzun, kare ve geniş bir kuyruğu, uzun kanatlarında ise 'S' şeklinde çıkıntı yapan firar hattı vardır. Erişkini lekeli koyu kahverengi ve kremsi sarıdır. Boynu, kafasının üstü ve genellikle kanat ortası açık renktir, kuyruğunun dibinde de daha açık yerler vardır. Uçuş teleklerinin alt tarafları koyu grimsidi, kanadın firar hattı daha koyu ve çok hafif çizgilidir.","habitat":"Her türlü yüksek, kayalık, ormanlık dağda görülebilir.  Dağların özellikle sarp kayalıklar barındıran kesimlerini yuva yeri olarak tercih eder.  ","spread":"Yerleşik bir türdür ve Palearktik bölgeye yayılmıştır. Avrupa'nın dağlık bölgelerinden, kuzey Afrika ve güney-doğu Asya'ya kadar geniş bir yayılımı vardır. Türkiye'de de geniş ovalar ve bozkırlar dışındaki dağlık alanlarda yaygın bir türdür. Ayrıca Kuzey Amerika'da da görülür.",
+  "morphology":"Boyu: 80-93 cm. Kanat açıklığı: 190-225 cm  Ağırlık: 3000-7000g.","nutrition ":"Kaya kartalının besininin büyük kısmını memeliler oluşturur. Tavşan, yer sincabı, kızıl tilki gibi memelilerin yanı sıra kaplumbağa ve yılan gibi canlılarla da beslendikleri görülür. Zorlu geçen kış dönemlerinde leşe yöneldikleri görülmüştür.","gamogeneses":"Tek eşlidir ve yılda bir kez ürerler. Şubat- Mart aylarında dişisi 1-4 adet yumurta bırakır ve kuluçka süresi 45 gündür.  Yavrular yumurtadan çıktıktan ortalama 11 hafta sonra ilk uçuşlarını yaparlar.","ilgaz_population":"Nadir ve yerleşik tür",
+  "imageUrl": "images/bird/137-kaya-kartali/thumb.jpg",
+  "images": [
+    "images/bird/137-kaya-kartali/thumb.jpg"
+  ]},
+{"rank": 138,"id": "gri-balikcil","name_tr":"Gri balıkçıl","name_la":"Ardea cinerea","name_en":"Grey heron","criteria":"LC (Asgari Kaygı)",
+  "snippet": "Büyük, soluk renkli olan gri balıkçılların kalın ve kama şeklinde gagaları ve dik durdukları zaman genellikle geriye çektikleri kambur ve uzun boyunları vardır.",
+  "description":"Büyük, soluk renkli olan gri balıkçılların kalın ve kama şeklinde gagaları ve dik durdukları zaman genellikle geriye çektikleri kambur ve uzun boyunları vardır. Erişkinler lekesiz soluk gri, beyaz ve gri siyahtır, siyah sürmesinin kestiği beyaz başı ve başının her iki yanında küçük süs tüyleri vardır. Boynu ve göğsü beyaz, boynunun ön alt tarafı siyah benekli, böğrü siyahtır.  ","habitat":"Her türlü sığ suda, durağan yada akan bölgelerinde  tatlı su, acı su yada tuzlu suda yaşayabilir. Gölgelik ve yuva için uygun alanlar olduğu için ağaçlık alanları tercih ederler.","spread":"spread Avrupa'dan Rusyaya ve doğu Japonya'ya kadar uzanır. Türkiye'de hem yazın hem kışın görülür.","morphology":"Boyu: 84-102 cm                       Kanat açıklığı: 175-195 cm  Ağırlık: 1000-2000 g ",
+  "nutrition ":"Amfibilerle, küçük memelilerle, kuşlarla, balıklarla ve yumuşakçalarla beslenirler.","gamogeneses":"Mart ayının sonunda dişi 4-5 yumurta bırakır. Kuluçka döneminde dişi ve erkek sıra ile yumurtaların üzerine yatar, kuluçka  süresi 25-26 gündür. Yavrular yumurtadan çıktıktan 20-30 gün sonra uçmaya hazır hale gelir.","ilgaz_population":"Nadir ve yaz göçmeni",
+  "imageUrl": "images/bird/138-gri-balikcil/thumb.jpg",
+  "images": [
+    "images/bird/138-gri-balikcil/thumb.jpg"
+  ]},
+{"rank": 139,"id": "tahtali","name_tr":"Tahtalı","name_la":"Columba palumbus","name_en":"Woodpigeon","criteria":"LC (Asgari Kaygı)",
+  "snippet": "Kaya güvercininden daha iri ve kuyruğu daha uzundur. Başı mavi-gri, sırtı mat gri, kuyruk sokumu açık renktir.",
+  "description":"Kaya güvercininden daha iri ve kuyruğu daha uzundur. Başı mavi-gri, sırtı mat gri, kuyruk sokumu açık renktir. Göğsü açık pembedir ve iyi ışıkta parlak görünür. Boynunda geniş ve beyaz bir leke vardır. Uçuş sırasında beyaz kanat şeridi dikkat çekicidir.","habitat":"Dağlık alanlarda, kayın ve meşe ormanlarında yaşarlar. Ayrıca otlaklarda, iğne yapraklı ormanlarda, tarlalarda, sık çalılıklarda yaşadığı da görülmüştür.","spread":"Avrupa boyunca yayılmış bir türdür.  İskandinavya'dan doğuda Rusya'ya ve güneyde Kuzey Afrika ve Orta Doğuya  kadar dağılmıştır. Türkiye'de de tüm ormanlık ve ağaçlık alanlarda bulunur.","morphology":"Boyu: 40-42 cm                       Kanat açıklığı:70-80 cm  Ağırlık: 400-800 gr","nutrition ":"Otçul bir türdür, tohumla beslenir. Ara sıra böceklerle de beslendikleri görülür.",
+  "gamogeneses":"Tahtalı mart-eylül ayları arasında üreyebilir ve yılda genellikle iki kez kuluçkaya yatarlar. Kuluçka döneminde dişi 2 yumurta bırakır ve  kuluçka  süresi 17-18 gündür. Yavrular yumurtadan çıktıktan 29-35 gün sonra uçmaya hazır hale gelir.","ilgaz_population":"Nadir ve yerleşik tür",
+  "imageUrl": "images/bird/139-tahtali/thumb.jpg",
+  "images": [
+    "images/bird/139-tahtali/thumb.jpg"
+  ]},
+{"rank": 140,"id": "sakalli-akbaba","name_tr":"Sakallı akbaba","name_la":"Gypaetus barbatus","name_en":"Lammergeier","criteria":"NT",
+  "snippet": "Çok iri ve çok etkileyicidir. Kafası kısa, kuyruğu uzun, kama yada baklava şeklinde, kanatları çok uzundur.",
+  "description":"Çok iri ve çok etkileyicidir. Kafası kısa, kuyruğu uzun, kama yada baklava şeklinde, kanatları çok uzundur. Erişkinin gövdesinin üst tarafı kömür grisinden kahverengiye kadar değişir, uçuş telekleri daha açık renkte parlar. Siyah sürmeli kafası, uzaktan dikkat çekecek şekilde açık renk görülür. Alt tarafının rengi kirli sarı ile turuncu arasında değişir.","habitat":"Yüksek dağlarda bulunur. İnsandan uzuak, engebeli arazileri tercih eder. Yuvasının büyük kaya ovuklarına yapar.","spread":"Yerleşik bir türdür. Avrupa, Kuzey-batı Afrika, Orta Doğu ve Kafkaslarada az sayılarda lokal olarak bulunur. Türkiye'nin de dağlık alanlarında yayılış gösterir.","morphology":"Boyu: 100-125 cm                       Kanat açıklığı: 240-285 cm  Ağırlık: 5000-7000 gr",
+  "nutrition ":"Besininin tamamına yakınını leşlerden artakalan kemikler oluşturur. Küçük olan kemikleri doğrudan yutarken, büyük kemikleri ise pençeleri ile alıp havalanır ve belirli bir yükseklikten kayalıkların üzerine bırakarak parçalar.","gamogeneses":"Şubat-Mart ayları arasında dişi 1-2 yumurta bırakır. Genellikle tek yavru büyütürler. Kuluçka süresi 53-60 gündür ve yavrular 100-130 gün sonra yuvadan uçamaya hazır hale gelirler. Ancak yuvadan uçmaya başladıktan sonra uzun süre daha ( 1 yıl kadar kaldıkları gözlenmiştir) ailelerinin yanında, yakınında yaşarlar.","ilgaz_population":"Nadir ve yerleşik tür",
+  "imageUrl": "images/bird/140-sakalli-akbaba/thumb.jpg",
+  "images": [
+    "images/bird/140-sakalli-akbaba/thumb.jpg"
+  ]},
+{"rank": 141,"id": "cakir","name_tr":"Çakır","name_la":"Accipiter gentilis","name_en":"Northern goshawk","criteria":"LC (Asgari Kaygı)",
+  "snippet": "Üstü mavi-gri, altı gri şeritlidir ve gri kuyruğunda geniş şeritler bulunur.",
+  "description":"Üstü mavi-gri, altı gri şeritlidir ve gri kuyruğunda geniş şeritler bulunur. Atmacaya nazaran daha az kanat çırparak uçar, süzülürken irtifa kaybetmez, daha uzun ve sivri kanat uçları vardır, kuyruk uç kenarları yuvarlak ve kuyruk dibi daha geniştir. Başlığı ve kulak örtüleri koyu, gözünün üst tarafı ise beyazdır.","habitat":"İğne yapraklı ve geniş yapraklı ormanlık alanları  ve orman ile açık arazilerin sınır olduğu alanları kullanır.","spread":"Çok geniş bir yayılımı vardır. Genel olarak yerleşik yaşar ancak kuzeyde yaşayan bazı populasyonları mevsimsel olarak güneye göç ederler.  Kuzey Amerika, Avrupa ve Asya'ya yayılmıştır. Ülkemizde yerleşik olarak bulunurlar.","morphology":"Boyu: 49-64 cm                       Kanat açıklığı: 93-127 cm  Ağırlık: 500-1450 gr","nutrition ":"Tavşan, sincap gibi memeliler ve kuşlar temel besinleridir.",
+  "gamogeneses":"Nisan-mayıs ayları arasında dişi 1-5 yumurta bırakır. Kuluçka süresi 35-38 gündür ve yavrular 34-41 gün sonra yuvadan uçamaya hazır hale gelirler. Ancak yuvadan uçmaya başladıktan sonra 70-90 gün daha ailelerinin  yakınında yaşarlar.","ilgaz_population":"Nadir ve yaz göçmeni",
+  "imageUrl": "images/bird/141-cakir/thumb.jpg",
+  "images": [
+    "images/bird/141-cakir/thumb.jpg"
+  ]},
+{"rank": 142,"id": "kara-agackakan","name_tr":"Kara ağaçkakan","name_la":"Dryocopus martius","name_en":"Black woodpecker","criteria":"LC (Asgari Kaygı)",
+  "snippet": "Şekil olarak büyük yeşil ağaçkakana benzer, boynu ince, kafası ise büyüktür.",
+  "description":"Şekil olarak büyük yeşil ağaçkakana benzer, boynu ince, kafası ise büyüktür. Kırmızı tepesi (erkeğinde) ya da kırmzı ensesi (dişisinde) açık renkli gözleri ve gagası dışında tamamen siyahtır. ","habitat":"Büyük çam ve kayın ağaçlarını, kavakları ve nehir kenarındaki söğütleri sever. Yaşlı, ibreli ve karışık ormanlarda ürer.","spread":"Avrupa'nın pek çok yerinde yaygındır. Asyanın bazı bölgelerind ve Orta Doğu'da yayılımı vardır. Yerleşik bir türdür ve ülkemizin kuzey kısımlarında görülür.","morphology":"Boyu: 45-55 cm. Kanat açıklığı: 67-73 cm  Ağırlık: 250-370 gr","nutrition ":"Kozalaklı ormanlar içerisinde, uzun dili yardımıyla, ağaç kabuklarını altından ve çürümüş gövdelerinden çıkardığı böceklerle beslenir.",
+  "gamogeneses":"Dişi 2-8 yumurta bırakır. Kuluçkaya dişi ve erkek sıra ile yatar ve yavruyu da birlikte beslerler. Yavrular  yumurtadan çıktıktan  18-35  gün sonra yuvadan uçamaya hazır hale gelirler.","ilgaz_population":"Nadir ve yerleşik tür",
+  "imageUrl": "images/bird/142-kara-agackakan/thumb.jpg",
+  "images": [
+    "images/bird/142-kara-agackakan/thumb.jpg"
+  ]},
+{"rank": 143,"id": "sakrak","name_tr":"Şakrak","name_la":"Pyrrhula pyrrhula","name_en":"Bullfinch","criteria":"LC (Asgari Kaygı)",
+  "snippet": "Kuyruk sokumu mat beyaz, kanatları ve kuyruğu siyah oldukça iri ve tembel bir ispinozdur.",
+  "description":"Kuyruk sokumu mat beyaz, kanatları ve kuyruğu siyah oldukça iri ve tembel bir ispinozdur. Kapalı kanadı boyunca uzanan beyaz ve geniş bir çizgi vardır. Erkeğin başlığı ve gıdısı siyah, sırtı gri, alt tarafı koyu kırmızı pembedir. Dişisinin de deseni aynıdır ancak üst tarafı kahverengimsi alt tarafı da açık kahverengimsi- kirli sarıdır.","habitat":"Genellikle çam ve ladin ormanlarında yaşarlar ve park ve bahçelerde de görülebilirler.","spread":"Avrupa ve Asya'ya yayılmıştır. Avrupa populasyonlarından kuzeyde yer alanlar kışın Avrupa'nın güneyine göç ederler. Türkiye'deki populasyonları yerleşiktir.","morphology":"Boyu: 15-17 cm                       Kanat açıklığı: 22-29 cm  Ağırlık: 27-38 gr","nutrition ":"Böcekler, yemiş ve tohumlar ana yiyecekleridir. Yeni sürgünleri ve taze meyveleri çok severler.",
+  "gamogeneses":"Yuva yapımında dişi ve erkek birlikte çalışırlar. Mayıs ayında dişi 4-5 yumurta bırakır ve kuluçka süresi 14-15 gündür. Yavrular  yumurtadan çıktıktan 12-16  gün sonra yuvadan uçamaya hazır hale gelirler.","ilgaz_population":"Bol ve yerleşik tür",
+  "imageUrl": "images/bird/143-sakrak/thumb.jpg",
+  "images": [
+    "images/bird/143-sakrak/01.jpg",
+    "images/bird/143-sakrak/thumb.jpg"
+  ]},
+{"rank": 144,"id": "tarlakusu","name_tr":"Tarlakuşu","name_la":"Alauda arvensis","name_en":"Skylark","criteria":"LC (Asgari Kaygı)",
+  "snippet": "En yaygın toygarlardandır. Gagası oldukça kalın ve sivridir.",
+  "description":"En yaygın toygarlardandır. Gagası oldukça kalın ve sivridir (ancak, örneğin tarla kirazkuşunun gagasından oldukça incedir). İbiği kısa ve küt, göğsü sık çizgili, alt tarafı beyazdır. Uçuşta kanatları üçgen, firar hattı açık renktir. Tepesi ince çizgilidir, gözünün üzerinde açık renk bir şerit uzanır.","habitat":"Ağaçsız açık alanları, otlakları, fundalıkları, kıyı kumullarını ve kırları kullanırlar.","spread":"Avrupa, Asya ve Kuzey Afrika'da yayılış gösterir. Ülkemizde de yaygın olarak görülürler.","morphology":"Boyu: 15-19 cm. Kanat açıklığı: 30-36 cm  Ağırlık: 35-45 gr","nutrition ":"Ağırlıklı olarak tohumlarla beslenir, aynı zamanda böcek ve salyangoz da besinleri arasındadır.",
+  "gamogeneses":" Nisan ve Ağustos ayları arasında dişi 3-6 yumurta bırakır ve kuluçka süresi yaklaşık 11 gündür. Yavrular  yumurtadan çıktıktan 8-10 gün sonra yuvadan uçamaya hazır hale gelirler.","ilgaz_population":"Bol ve yerleşik tür",
+  "imageUrl": "images/bird/144-tarlakusu/thumb.jpg",
+  "images": [
+    "images/bird/144-tarlakusu/01.jpg",
+    "images/bird/144-tarlakusu/thumb.jpg"
+  ]},
+{"rank": 145,"id": "agac-incirkusu","name_tr":"Ağaç incirkuşu","name_la":"Anthus trivialis","name_en":"Tree pipit","criteria":"LC (Asgari Kaygı)",
+  "snippet": "Küçük ve çizgili bir incirkuşudur.",
+  "description":"Küçük ve çizgili bir incirkuşudur. Göz çizgisi belirgin, gagası iri ve kalındır, böğrü açık renk ve ince çizgili, arka tırnağı çok kısadır.","habitat":"Açık ve yarı kapalı alanlarda, genellikle seyrek ağaçlı ve çalılıklı bölgelerde bulunur.","spread":"Uzun mesafe gömenidir, tüm bireyler göçer. Avrupa, Asya ve Kuzey Afrika'da yayılış gösterir. Ülkemizde de yaygın olarak görülürler.","morphology":"Boyu: 15-17 cm                       Kanat açıklığı: 25-27 cm  Ağırlık: 20-25 gr","nutrition ":"Temelde böceklerle, sonbahar ve kış aylarında da bazen bitkilerle beslenirler.","gamogeneses":"Kuzey ve batı Avrupa'da nisan ve temmuz aylarında ürerler. Dişiler 2-6 adet yumurta bırakır ve kuluçka süresi 12-14 gündür.",
+  "ilgaz_population":"Bol ve yerleşik tür",
+  "imageUrl": "images/bird/145-agac-incirkusu/thumb.jpg",
+  "images": [
+    "images/bird/145-agac-incirkusu/thumb.jpg"
+  ]},
+{"rank": 146,"id": "okse-ardici","name_tr":"Ökse ardıcı","name_la":"Turdus viscivorus","name_en":"Mistle thursh","criteria":"LC (Asgari Kaygı)",
+  "snippet": "Büyük, uzun kuyruklu ve uzun kanatlı, açık renkli bir ardıçtır.",
+  "description":"Büyük, uzun kuyruklu ve uzun kanatlı, açık renkli bir ardıçtır. Alt tarafında belirgin, yuvarlak benekleri vardır. Kanatları açık renk çizgili, kanat altı beyazdır. Üst tarafı açık gri kahverengidir, kanat teleklerinin kenarları açık kirli sarıdır. Kuyruk sokumu biraz daha açık renk, daha canlı bej kahverengidir. Alt tarafı krem rengi- kirli sarıdır ve göğsün daha koyu olan yanları üzerinde yoğunlaşan geniş, yuvarlak ve siyah benekler vardır.","habitat":"Yüksek ormanlıklarda, ekili alanların kenarlarındaki ağaçlıklar, fundalıklar ve parklarda görülür. Kışın genellikle sık olmayan yüksek ormanları tercih ederler.",
+  "spread":"Genelde yerleşik kuşlardır ama göçer olanları da vardır. Göçmen olanlar kışı Avrupa'nın güneyi, Orta Doğu ve Güney-batı Asya'da geçirirler. Ülkemizde de Güney Doğunun bir bölümü haricinde her bölgede yerlieşik ve göçmen olanları görülürler. ",
+  "morphology":"Boyu: 27-28 cm. Kanat açıklığı: 42-48 cm  Ağırlık: 93-167 gr",
+  "nutrition ":"Tohumlar, meyveler ve omurgasızlarla beslenir.",
+  "gamogeneses":"Mart-haziran ayları arasında ürerler. Dişi 3-5 yumurta bırakır ve kuluçka süresi 12-15 gündür. Yavrular yumurtadan çıktıktan 15-20 gün sonra yuvadan uçmaya hazır hale gelir.",
+  "ilgaz_population":"Bol ve yerleşik tür",
+  "imageUrl": "images/bird/146-okse-ardici/thumb.jpg",
+  "images": [
+    "images/bird/146-okse-ardici/thumb.jpg"
+  ]},
+{"rank": 147,"id": "ak-gerdanli-otlegen","name_tr":"Ak gerdanlı ötleğen","name_la":"Sylvia communis","name_en":"Whitethroat","criteria":"LC (Asgari Kaygı)",
+  "snippet": "Küçük, uzun kuyruklu, kısa gagalı, ve beyaz gerdanlı ötleğendir.",
+  "description":"Küçük, uzun kuyruklu, kısa gagalı, ve beyaz gerdanlı ötleğendir. Bacakları açık renktir ve kanatlarında kızıl renkli bir panel vardır. Erkeğin başı sivri ve grimsi, göz halkası kesik beyaz, boğazı parlak beyaz, göğsü soluk pembe, sırtı mat kahverengidir, kuyuğu koyu renk ve yanları beyazdır, kanatlarının üzerindeki telek kenarları geniş ve pas kızılı renklidir. Dişinin kafası kahverengi, göğsü kirli sarıdır.","habitat":"Çalılık alanlarda, ormanların kenarlarında bodur bitkilerin bulunduğu alanları tercih eder.","spread":"Göçmen bir kuştur. Kuzey İskandinavya dışında tüm Avrupa'da, batı ile orta Asya'da yaz ziyaretçisidir, ürer. Kışı ise Sahara çölünün güneyinde geçirir. Türkiye'de göç esnasında her yerde görülür, yazın  bütün bölgelerde ürer.","morphology":"Boyu: 13-15 cm. Kanat açıklığı: 19-23 cm  Ağırlık: 12-18 gr",
+  "nutrition ":"Böcekcil bir hayvan olmakla birlikte yemiş ve yumuşak meyvelerle de beslenir.","gamogeneses":"Üreme dönemi mayıs ayında başlar.  Dişi 4-5 yumurta bırakır ve kuluçka süresi 12-13 gündür.  Dişi ve erkek ortaklaşa kuluçkaya yatar. Yavrular yumurtadan çıktıktan 12-14 gün sonra yuvadan uçmaya hazır hale gelir.","ilgaz_population":"Nadir ve yaz göçmeni",
+  "imageUrl": "images/bird/147-ak-gerdanli-otlegen/thumb.jpg",
+  "images": [
+    "images/bird/147-ak-gerdanli-otlegen/01.jpg",
+    "images/bird/147-ak-gerdanli-otlegen/thumb.jpg"
+  ]},
+{"rank": 148,"id": "civgin","name_tr":"Çıvgın","name_la":"Phylloscopus coolybita","name_en":"Common Chiffchaff","criteria":"LC (Asgari Kaygı)",
+  "snippet": "Başı küçük ve yuvarlak, gagası küçük, bacakları ince ve siyahımsıdır.",
+  "description":"Başı küçük ve yuvarlak, gagası küçük, bacakları ince ve siyahımsıdır. Üst tarafı soluk zeytin yeşili, alt tarafı sarımsıdır; gençlerinin alt atrafı daha sarıdır. Gözünün üzerinde açık renk bir çizgi vardır. Kendine özgü ince ve beyaz göz halkası göz altında belirgindir. ","habitat":"Ormanlık alanlarda bulunur ve göçmen olanlar pek çok farklı yaşam alanında görülebilir.","spread":"Göçmen bir kuştur.Avrupa, Asya ve kuzey Afrika'da yayılır.Ülkemizin de kuzeyinde ve batısında ürer.","morphology":"Boyu: 10-12 cm. Kanat açıklığı: 18 cm. Ağırlık: 6,5-9 gr","nutrition ":"Böcekçildir. Genelde ağaç gövdelerinde böcek arar ve havada uçan sinekleri de yakalar.",
+  "gamogeneses":"Dişi nisan sonu mayıs başında 6-7 adet yumurta yumurtlar ve kuluçla süresi yaklaşık 13 gündür. Yavrular ortalama 14 gün sonra yuvadan uçmaya hazır hale gelir.","ilgaz_population":"Bol ve yerleşik tür",
+  "imageUrl": "images/bird/148-civgin/thumb.jpg",
+  "images": [
+    "images/bird/148-civgin/01.jpg",
+    "images/bird/148-civgin/02.jpg",
+    "images/bird/148-civgin/thumb.jpg"
+  ]},
+{"rank": 149,"id": "cam-bastankarasi","name_tr":"Çam baştankarası","name_la":"Parus ater","name_en":"Coal tit","criteria":"LC (Asgari Kaygı)",
+  "snippet": "Başı parlak siyahtır ve ensesinde dikdörtgen beyazlık bulunmaktadır.",
+  "description":"Başı parlak siyahtır ve ensesinde dikdörtgen beyazlık bulunmaktadır. Ynağındaki beyazlık geniştir. Sırtı gri ve beyaz renkli iki beyaz çizgisi vardır.","habitat":"Karışık ormanlar, parklar ve bahçelerde yaşarlar. ","spread":"Yerleşik bir türdür ve geniş bir yayılımı vardır. Avrupa, Asya ve Afrika'nın kuzeyinde yayılım gösterir.","morphology":"Boyu: 17-21 cm                       Kanat açıklığı: 10-12cm  Ağırlık: 8-10 gr","nutrition ":"Böceklerle ve tohumlarla beslenir.","gamogeneses":"",
+  "ilgaz_population":"Bol ve yerleşik tür",
+  "imageUrl": "images/bird/149-cam-bastankarasi/thumb.jpg",
+  "images": [
+    "images/bird/149-cam-bastankarasi/thumb.jpg"
+  ]},
+{"rank": 150,"id": "kucuk-kartal","name_tr":"Küçük kartal","name_la":"Hieraaetus pennatus","name_en":"Booted eagle","criteria":"LC (Asgari Kaygı)",
+  "snippet": "Dikkat çekecek derecede geniş ve yuvarlak kafası, çaylağınkine benzeyen açık renk bir örtü şeridine sahip üst tarafının güçlü deseni...",
+  "description":"Dikkat çekecek derecede geniş ve yuvarlak kafası, çaylağınkine benzeyen açık renk bir örtü şeridine sahip üst tarafının güçlü deseni, açık renk omuzları ve kuyruk sokumu ile küçük bir kartaldır. İki ana formu vardır. Açık formunun alt tarafı genel olarak bej rengi, koyu formunun ise çoğunlukla koyu kahverengidir. ","habitat":"Geniş çeşitlilikte habitat kullanır. Omanlık alanlardan çöllere, tarım arazilerinden otlak alanlarına kadar her türlü alanda gözlenebilir.","spread":"Göçmendir ve Kışı güney Asya'da geçirirler. Güney Avrupa, Kuzey Afrika'da ve orta Asya'da yayılış gösterirler.","morphology":"Boyu: 45-53 cm                       Kanat açıklığı: 100-121 cm  Ağırlık: 500-1000g    ","nutrition ":"Küçük memeliler, sürüngenler ve kuşlar ile avlanır.",
+  "gamogeneses":"Genellikle  yılda bir kez ürerler ve dişisi 1-3 adet yumurta bırakır ve kuluçka süresi 35 gündür.  Yavrular yumurtadan çıktıktan ortalama 50 gün sonra  uçmaya hazır hale gelir.","ilgaz_population":"Nadir ve yaz göçmeni", "imageUrl": "images/bird/101-ari_sahini/thumb.jpg",
+  "imageUrl": "images/bird/150-kucuk-kartal/thumb.jpg",
+  "images": [
+    "images/bird/150-kucuk-kartal/01.jpg",
+    "images/bird/150-kucuk-kartal/02.jpg",
+    "images/bird/150-kucuk-kartal/thumb.jpg"
+  ]}]

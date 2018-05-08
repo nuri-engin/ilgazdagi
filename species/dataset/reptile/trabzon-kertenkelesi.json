@@ -1,0 +1,22 @@
+{
+  "rank": 604, "id": "trabzon-kertenkelesi",
+  "name_tr":"Trabzon Kertenkelesi",
+  "name_la":"Darevskia rudis",
+  "taxon":"Animalia>Chordata>Reptilia>Squamata>Lacertidae>Darevskia",
+  "name_en":"Spiny-Tailed Lizard",
+  "criteria":"LC (Asgari Kaygı)",
+  "name_lo":"",
+  "snippet": "Omurgalı hayvanlar aleminin yumurtlayarak çoğalan büyük bir sınıfı olan sürüngenler (Reptilia) sınıfına ait bir türdür.",
+  "description":"Omurgalı hayvanlar aleminin yumurtlayarak çoğalan büyük bir sınıfı olan sürüngenler (Reptilia) sınıfına ait bir türdür.Gençlerde sırtta 2-4 boyuna çizgi bulunur. Boyu 25cm kadardır, sırt pulları yuvarlak ve hafif karinalıdır. Postnasale tek, collare düz ve tibia üzerinde büyük karinalı pullar bulunur. Dorsali yeşilimsi kahverengi ve üzeri koyu lekelidir. Koyu gövde yanları üzerinde küçük yuvarlak ve beyaz lekeler bulunur. ","spread":"Marmara, Batı Karadeniz, Orta Karadeniz, Doğu Karadeniz",
+  "nutrition":"Küçük böcekler, örümcekler ve diğer küçük yumuşak vücutlu omurgasızlar",
+  "nesting":"Orman içi, Orman açıklıkları, Yol kenarları, Su kenarları, Açık yamaçlar, Vadi yamaçları, Taşlık, kayalık alanlar, Çayırlar, Tarlalar, Bağ, bahçeler, Çalılıklar",
+  "behavior":"Bulundukları ortamın rengine uygun renk ve deri değiştirme davranışı gösterirler. Tehlike anında kuyruklarını bırakabilirler ve yeniden oluşturabilirler (rejenerasyon) Kış uykusuna yatarlar.",
+  "lifetime":"ortalama 2-3 yıl",
+  "pairing":"Bahar ve yaz ayları boyunca",
+  "breeding":"Bahar ve yaz ayları boyunca",
+  "relevant":"Sürüngenler, günümüzde nesli tükenmiş olan Dinazorlara akraba türlerdir.",
+  "imageUrl": "images/reptile/604/thumb.jpg",
+  "images": [
+    "images/reptile/604/thumb.jpg"
+  ]
+}

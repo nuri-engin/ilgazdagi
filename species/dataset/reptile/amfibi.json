@@ -1,0 +1,146 @@
+
+  {
+    "rank": 608, "id": "kucuk-semender", "name_tr":"Küçük Semender",
+    "name_la":"Lissotriton vulgaris",
+    "taxon":"Animalia>Chordata>Amphibia>Urodela>Salamandridae>Lissotriton",
+    "name_en":"Smooth Newt",
+    "criteria":"LC (Asgari Kaygı)",
+    "name_lo":" Pürtüklü Semender",
+    "snippet": "Kuyruksuz kurbağalar (semenderler) takımına ait iki yaşamlı canlılardır.",
+    "description":"Kuyruksuz kurbağalar (semenderler) takımına ait iki yaşamlı canlılardır. Vücut üzerinde siğil şeklinde kabarcıklar olduğundan bu isim verilmiştir.Hayvanın sırt tarafı esmerdir ve bu renk yeşilimsi, grimsi, kahverengimsi tonlara doğru değişebilir. Zemin renk üzerinde az ya da çok bariz siyah lekeler mevcuttur.Vücut 12-16 cm kadardır.",
+    "spread":"Batı Karadeniz ve Trakya Bölgesinde ",
+    "nutrition":"Böcek larvaları, küçük yumuşakçalar, solucanlar ve benzeri canlılar",
+    "nesting":" Nemli ve bu sulara yakın orman ve taşlık alanlarda bulunurlar",
+    "behavior":"Soğuk iklimlerde larvaların (küçük yavrular) kışı suda geçirir ve başkalaşımlarını ilkbaharda yaparlar. Geceleri aktiftirler. Ele alındığında cızırtı gibi bir ses çıkarırlar.",
+    "lifetime":"10-15 yıl",
+    "pairing":"Şubat, Mart, Nisan, Mayıs, Haziran, Ekim, Kasım",
+    "breeding":"Şubat, Mart, Nisan, Mayıs, Haziran, Ekim, Kasım",
+    "relevant":"Birçok türünün nesli tükenmiş olup günümüzde 500 tür ile temsil edilir. Çoğu koruma altında olan türlerdir.",
+    "imageUrl": "images/reptile/608/thumb.jpg",
+    "images": [
+      "images/reptile/608/thumb.jpg"
+    ]
+  },
+
+  {
+    "rank": 609, "id": "seritli-semender", "name_tr":"Şeritli Semender",
+    "name_la":"Ommatotriton vittatus",
+    "taxon":"Animalia>Chordata>Amphibia>Urodela>Salamandridae>Ommatotriton ",
+    "name_en":"Banded Newt",
+    "criteria":"LC (Asgari Kaygı)",
+    "name_lo":"",
+    "snippet": "Kuyruksuz kurbağalar (semenderler) takımına ait iki yaşamlı canlılardır.Renkleri grimsi, zeytin yeşili, kahverengimsi olabilir.",
+    "description":"Kuyruksuz kurbağalar (semenderler) takımına ait iki yaşamlı canlılardır.Renkleri grimsi, zeytin yeşili, kahverengimsi olabilir. bu renklerin üzerinde daha koyu renkli benekleri bulunur. Dişilerin benekleri daha az ve belirsizdir. Boyları 8-11 cm arasında değişir.","spread":"Hatay, Gaziantep, Adana, Mersin, Anadolu'nun kuzeyi, Adapazarı ve Bursa",
+    "nutrition":"küçük omurgasızlar, böcekler ve larvalar",
+    "nesting":"Üreme zamanında bol bitkili sığ ve durgun ya da ağır akan sularda bulunurlar. Diğer zamanlarda suların yakınlarındaki ormanlık ve açık taşlık alanlarda bulunurlar","behavior":"Erkek bireyler, üreme döneminde oluşan sırt yüzgeçlerini dişilere kur yapmak için kullanır.","lifetime":"10-15 yıl",
+    "pairing":"Mart, Nisan, Mayıs",
+    "breeding":"Şubat, Mart, Nisan, Mayıs, Haziran, Ekim, Kasım",
+    "relevant":"Bu tür Anadolu Endemikleri arasında bulunmaktadır.",
+    "imageUrl": "images/reptile/609/thumb.jpeg",
+    "images": [
+      "images/reptile/609/thumb.jpeg"
+    ]
+  },
+
+  {
+    "rank": 610, "id": "gece-kurbagasi",
+    "name_tr":"Gece Kurbağası",
+    "name_la":"Bufotes viridis",
+    "taxon":"Animalia>Chordata>Amphibia>Anura>Bufonidae>Bufotes",
+    "name_en":"Green toad",
+    "criteria":"LC (Asgari Kaygı)",
+    "name_lo":"Kurbağa",
+    "snippet": "İki yaşamlılar (amfibia) sınıfına ait kuyruzsuz kurbağalardır.",
+    "description":"İki yaşamlılar (amfibia) sınıfına ait kuyruzsuz kurbağalardır. Sırt bölgesi genel olarak grimsi yeşil beneklerse kenarları siyah olan yeşil renktedir. Karın bölgesi genellikle kirli beyaz ve daha az beneklidir.",
+    "spread":"Hemen hemen tüm Türkiye",
+    "nutrition":"Böcek, sümüklüböcek ve solucanlarla beslenirler.",
+    "nesting":"Bahçelerde, açık taşlık alanlarda, su yakınlarında",
+    "behavior":"Gündüz hem tehlikelilerden korunmak hem de vücutlarındaki nemi korumak için gece aktiflik gösterirler",
+    "lifetime":"10-15 yıl",
+    "pairing":"Nisan, Mayıs, Haziran",
+    "breeding":"Mayıs, Haziran,Temmuz",
+    "relevant":"Türkiye'de kurbağalar içinde kuraklığa en dayanıklı türdür",
+    "imageUrl": "images/reptile/610/thumb.jpg",
+    "images": [
+      "images/reptile/610/thumb.jpg"
+    ]
+  },
+
+  {
+    "rank": 611, "id": "sigilli-kurbaga",
+    "name_tr":"Siğilli Kurbağa",
+    "name_la":"Bufo bufo",
+    "taxon":"Animalia>Chordata>Amphibia>Anura>Bufonidae>Bufo",
+    "name_en":"Common toad",
+    "criteria":"LC (Asgari Kaygı)",
+    "name_lo":"",
+    "snippet": "İki yaşamlılar (amfibia) sınıfına ait kuyruzsuz kurbağalardır.",
+    "description":"İki yaşamlılar (amfibia) sınıfına ait kuyruzsuz kurbağalardır. Sırt taraf genel olarak kahverengidir, bazen bu renk kırmızımsı, grimsi veya zeytin rengindeki tonlara doğru değişebilir ve üzerinde birkaç tane koyu leke de bulunabilir. Alt tarafının esas rengi kirli beyaz, grimsi veya kahverengidir. Erginleri yaklaşık 15 cm uzunluğundadır.",
+    "spread":"Trakya, Marmara, Ege, Batı Akdeniz, Doğu Akdeniz, İç Anadolu, Batı Karadeniz",
+    "nutrition":"Böcek, sümüklü böcek ve solucanlar",
+    "nesting":"Orman içi, Yol kenarları, Su kenarları, Taşlık, kayalık alanlar, Çayırlar, Tarlalar, Bağ ve bahçeler",
+    "behavior":"Gece avlanırlar. Fazla sıçrayamazlar ve karada hareketleri yavaştır.",
+    "lifetime":"10-15 yıl",
+    "pairing":"Şubat, Mart, Nisan, Mayıs, Haziran, Temmuz, Ağustos, Eylül",
+    "breeding":"Mart, Nisan, Mayıs, Haziran, Temmuz, Ağustos, Eylül",
+    "relevant":"İki eşin çiftleşmesi bir hafta kadar devam edebilir.",
+    "imageUrl": "images/reptile/611/thumb.jpg",
+    "images": [
+      "images/reptile/611/thumb.jpg",
+      "images/reptile/611/01.jpg",
+      "images/reptile/611/02.jpg",
+      "images/reptile/611/03.jpg",
+      "images/reptile/611/04.jpg"
+    ]
+  },
+
+  {
+    "rank": 612, "id": "seritli-kurbaga",
+    "name_tr":"Şeritli Kurbağa, Uludağ Kurbağası",
+    "name_la":"Rana macrocnemis ",
+    "taxon":"Animalia>Chordata>Amphibia>Anura>Ranidae>Rana",
+    "name_en":"Banded Frog",
+    "criteria":"LC (Asgari Kaygı)",
+    "name_lo":"",
+    "snippet": "İki yaşamlılar (amfibia) sınıfına ait kuyruzsuz kurbağalardır.",
+    "description":"İki yaşamlılar (amfibia) sınıfına ait kuyruzsuz kurbağalardır. Sırt bölgesinin rengi ince noktalı, tuğla kırmızısı ya da gri kahverengi yeşilimsi olur. Benekleri, koyu renkli kahverenginden yeşilimsi kahverengiye kadar değişir.Karın bölgesi erkeklerde sarımsı ya da beyaz, dişilerdeyse pembemsi olur. Erginler en çok 9 cm kadar büyüktür.",
+    "spread":"İç Anadolu, Doğu Karadeniz, Doğu Anadolu",
+    "nutrition":"Besinlerini küçük böcekler oluşturur",
+    "nesting":"Su kenarları, Çayırlar, Bozkırlar",
+    "behavior":"Erkeklerinde iç ses kesesi bulunur ve bu sayede dişilerin kendilerini bulmasını sağlarlar.",
+    "lifetime":"10-15 yıl",
+    "pairing":"Nisan, Mayıs, Haziran, Temmuz",
+    "breeding":"Nisan, Mayıs, Haziran, Temmuz",
+    "relevant":"İlk kez Kayseri-Erciyes’ten saptanmıştır.",
+    "imageUrl": "images/reptile/612/thumb.jpg",
+    "images": [
+      "images/reptile/612/thumb.jpg",
+      "images/reptile/612/01.jpg",
+      "images/reptile/612/02.jpg"
+    ]
+  },
+
+  {
+    "rank": 613,
+    "id": "cevik-kurbaga",
+    "name_tr":"Çevik Kurbağa",
+    "name_la":"Rana dalmatina ",
+    "taxon":"Animalia>Chordata>Amphibia>Anura>Ranidae>Rana",
+    "name_en":"Agile frog",
+    "criteria":"LC (Asgari Kaygı)",
+    "name_lo":"",
+    "snippet": "İki yaşamlılar (amfibia) sınıfına ait kuyruzsuz kurbağalardır.",
+    "description":"İki yaşamlılar (amfibia) sınıfına ait kuyruzsuz kurbağalardır. Sırt bölgesi sarımsı renkten kahverengiye kadar değişir. Benekler çok küçük noktalar halindedir.karın bölgesi sarım beyaz ve lekesizdir. 4-9 cm boyundadırlar.","spread":"Trakya, Marmara, Batı Karadeniz, Orta Karadeniz, Doğu Karadeniz","nutrition":"Besinlerini küçük böcekler oluşturur.",
+    "nesting":"Yaprak döken ağaçlardan oluşan orman ve koruluklarda, yaprakların altında, yüksek bitkili ıslak çayırlarda bulunurlar.",
+    "behavior":"Erkekler, ön bacaklarıyla dişileri koltuk altından sıkıca kavrayarak çiftleşmeyi sağlarlar ve ",
+    "lifetime":"10-15 yıl",
+    "pairing":"Şubat, Mart, Nisan, Mayıs, Haziran, Temmuz, Ağustos, Eylül, Ekim, Kasım",
+    "breeding":"Mart, Nisan, Mayıs, Haziran, Temmuz, Ağustos, Eylül, Ekim",
+    "relevant":"Bir defada 2 m sıçrayabilirler. Bulundukları çevreye renk uyumları çok iyi olduğundan, fark edilmeleri çok zordur.",
+    "imageUrl": "images/reptile/613/thumb.jpg",
+    "images": [
+      "images/reptile/613/thumb.jpg",
+      "images/reptile/613/01.jpg",
+      "images/reptile/613/03.jpg"
+    ]
+  }

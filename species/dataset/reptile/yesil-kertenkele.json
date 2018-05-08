@@ -1,0 +1,20 @@
+{
+  "rank": 602, "id": "yesil-kertenkele", "name_tr":"Yeşil Kertenkele",
+  "name_la":"Lacerta viridis",
+  "taxon":"Animalia>Chordata>Reptilia>Squamata>Lacertidae>Lacerta",
+  "name_en":"The European Green Lizard","criteria":"LC (Asgari Kaygı)",
+  "name_lo":"Yeşilsatan, Zümrüt Kertenkele",
+  "snippet": "Omurgalı hayvanlar aleminin yumurtlayarak çoğalan büyük bir sınıfı olan sürüngenler (Reptilia) sınıfına ait bir türdür.",
+  "description":"Omurgalı hayvanlar aleminin yumurtlayarak çoğalan büyük bir sınıfı olan sürüngenler (Reptilia) sınıfına ait bir türdür.Gençlerde sırtta 2-4 boyuna çizgi bulunur. Erginde çizgiler kaybolarak homojen yeşil renklenirler. Erkeklerde başın alt tarafı ve yanları koyu mavi renktedir. Bu renklenme dişilerde bej rengindedir.",
+  "spread":"Trakya, Marmara, Batı Karadeniz, Orta Karadeniz",
+  "nutrition":"Böcekleri, örümcekleri, solucan gibi küçük omurgasız hayvanları besin olarak alırlar",
+  "nesting":"Açık yamaçlar, Taşlık, kayalık alanlar,",
+  "behavior":"Bulundukları ortamın rengine uygun renk ve deri değiştirme davranışı gösterirler. Tehlike anında kuyruklarını bırakabilirler ve yeniden oluşturabilirler (rejenerasyon) Kış uykusuna yatarlar.","lifetime":"ortalama 2-3 yıl","pairing":"Bahar ve yaz ayları boyunca","breeding":"Bahar ve yaz ayları boyunca",
+  "relevant":"Sürüngenler, günümüzde nesli tükenmiş olan Dinazorlara akraba türlerdir.",
+  "imageUrl": "images/reptile/602/thumb.jpg",
+  "images": [
+    "images/reptile/602/thumb.jpg",
+    "images/reptile/602/01.jpg",
+    "images/reptile/602/02.jpg"
+  ]
+}

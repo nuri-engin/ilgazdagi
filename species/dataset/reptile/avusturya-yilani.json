@@ -1,0 +1,25 @@
+{
+  "rank": 606, "id": "avusturya-yilani",
+  "name_tr":"Avusturya Yılanı",
+  "name_la":"Coronella austriaca",
+  "taxon":"Animalia>Chordata>Reptilia>Squamata>Colubridae>Coronella",
+  "name_en":"Smooth Snake",
+  "criteria":"LC (Asgari Kaygı)",
+  "name_lo":"Taçlı yılan",
+  "snippet": "Omurgalı hayvanlar aleminin yumurtlayarak çoğalan büyük bir sınıfı olan sürüngenler (Reptilia) sınıfına ait uzun, ayaksız etçil sürüngenlerdir.",
+  "description":"Omurgalı hayvanlar aleminin yumurtlayarak çoğalan büyük bir sınıfı olan sürüngenler (Reptilia) sınıfına ait uzun, ayaksız etçil sürüngenlerdir. Ergin uzunluğu yaklaşık 75 cm olan bu türün sırt kısmı kırmızıya yakın renkte, üzerinde küçük, seyrek ve az belirgin lekeler bulunur.Karın taraf gri ve üzeri koyu nokta lekelidir. Baş ve boyun yaklaşık aynı genişliktedir",
+  "spread":"Trakya, Marmara, İç Anadolu, Batı Karadeniz, Orta Karadeniz, Doğu Karadeniz, Doğu Anadolu",
+  "nutrition":"En çok yedikleri besinler kertenkelelerdir. Boyutlarına göre yakalayabildikleri kemiriciler, kuşlar, küçük yılanları da yerler",
+  "nesting":"Orman içi, Orman açıklıkları, Su kenarları, Çayırlar, Çalılıklar",
+  "behavior":"Az hareketli, sakin ve nadiren ısıran bir yılan türüdür. Ancak Türkiye zehirli yılanlar listesindedir. Zorda kaldığı zamanlarda suya girebilir",
+  "lifetime":"yaklaşık 12 yıl",
+  "pairing":" Nisan, Mayıs, Haziran, Temmuz, Ağustos",
+  "breeding":"Ağustos, Eylül",
+  "relevant":"Bu hayvanlar üreme işlerini doğurarak yaparlar (ovovivipar). Ancak doğurma memelilerdeki gibi olmaz. Yavru anne karnında bir yumurta içinde gelişir (plasenta yok) ve dışarıya öyle bırakılır.",
+  "imageUrl": "images/reptile/606/thumb.jpg",
+  "images": [
+    "images/reptile/606/thumb.jpg",
+    "images/reptile/606/01.jpg",
+    "images/reptile/606/02.jpg"
+  ]
+}

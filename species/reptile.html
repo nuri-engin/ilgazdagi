@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html ng-app="reptileApp">
+  <head>
+    <meta charset="utf-8">
+    <title>Sürüngen Türleri - Ilgaz Dağı Biyoçeşitliliği</title>
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:400,600,700|Lobster|Poppins|Roboto:400,500,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Cuprum:400,700" rel="stylesheet">
+
+    <!-- Bootstrap -->
+    <link href="../css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+    <link href="css/species.css" rel="stylesheet">
+    <link href="css/reptile.animations.css" rel="stylesheet">
+
+  </head>
+  <body>
+    <!-- PRELOADER -->
+    <div class="spn_hol">
+        <div class="spinner">
+            <div class="bounce1"></div>
+            <div class="bounce2"></div>
+            <div class="bounce3"></div>
+        </div>
+    </div>
+    <!-- PRELOADER ENDS -->
+    <!-- NAVBAR -->
+    <div class="navbar">
+      <div class="item"><a href="../index.html" class="active">
+        <img src="../images/species_navbar/navbar-home_75.png" width="80px" height="80px" alt="Home">
+        <strong>Ana Sayfa</strong></a>
+      </div>
+      <div class="item"><a href="bird.html">
+        <img src="../images/species_navbar/navbar_bird_75.png" alt="Kuşlar">
+          <strong>&nbsp;Kuş Türleri</strong></a>
+      </div>
+      <div class="item"><a href="plant.html">
+        <img src="../images/species_navbar/navbar_plant_75.png" alt="Bitkiler">
+          <strong>&nbsp;Bitki Türleri</strong></a>
+      </div>
+      <div class="item"><a href="insect.html">
+        <img src="../images/species_navbar/navbar_insect_75.png" alt="Böcekler">
+          <strong>&nbsp;Böcek Türleri</strong></a>
+      </div>
+      <div class="item"><a href="fungi.html">
+        <img src="../images/species_navbar/navbar_fungi_75.png" alt="Mantarlar">
+          <strong>&nbsp;Mantar Türleri</strong></a>
+      </div>
+      <div class="item"><a href="mammal.html">
+        <img src="../images/species_navbar/navbar_mammal_75.png" alt="Memeliler">
+          <strong>&nbsp;Memeli Türleri</strong></a>
+      </div>
+      <div class="item"><a href="reptile.html" class="active">
+        <img src="../images/species_navbar/navbar_reptile_75.png" alt="Sürüngenler">
+          <strong>&nbsp;Sürüngen Türleri</strong></a>
+      </div>
+      <button>Vidyo <br> Duraklat</button>
+    </div>
+    <!-- NAVBAR ENDS-->
+    <!-- VIDEO -->
+    <div class="container content">
+      <video poster="assets/bg.png" id="bgvid" playsinline autoplay muted loop>
+        <!-- WCAG general accessibility recommendation is that media such as background video play through only once. Loop turned on for the purposes of illustration; if removed, the end of the video will fade in the same way created by pressing the "Pause" button  -->
+      <source src="assets/vidyo.mp4" type="video/webm">
+      <source src="assets/vidyo.mp4" type="video/mp4">
+      </video>
+    <!-- VIDEO ENDS-->
+    <!-- MAIN CONTENT -->
+      <div class="container infoText"  id="HOME">
+        <h1><b>Ilgaz Dağı </b>Biyoçeşitliliği </h1>
+        <span>Doğu Akdeniz Araştırma Derneği</span>
+        <hr />
+        <!-- Main Body -->
+          <div class="view-container">
+                <div ng-view class="view-frame">
+                </div>
+          </div>
+      </div>
+    <!-- MAIN CONTENT ENDS-->
+    </div>
+
+    <!-- SCRIPTS-->
+    <script src="../js/jquery.min.js"></script>
+    <script src="../js/bootstrap.min.js"></script>
+    <script src="bower_components/angular/angular.js"></script>
+    <script src="bower_components/angular-animate/angular-animate.js"></script>
+    <script src="bower_components/angular-resource/angular-resource.js"></script>
+    <script src="bower_components/angular-route/angular-route.js"></script>
+    <script src="js/app.module.js"></script>
+    <script src="js/app.config.js"></script>
+    <script src="js/animations/reptile.animations.js"></script>
+    <script src="core/core.module.js"></script>
+    <script src="core/reptile/reptile.module.js"></script>
+    <script src="core/reptile/reptile.service.js"></script>
+    <script src="view-list/reptile/reptile-list.module.js"></script>
+    <script src="view-list/reptile/reptile-list.component.js"></script>
+    <script src="view-detail/reptile/reptile-detail.module.js"></script>
+    <script src="view-detail/reptile/reptile-detail.component.js"></script>
+    <script src="js/main.js"></script>
+  </body>
+</html>

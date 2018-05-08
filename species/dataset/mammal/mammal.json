@@ -1,0 +1,142 @@
+[
+  {
+    "rank": 501,
+    "id": "kurt",
+    "name_tr":"Kurt",
+    "name_la":"Canis lupus",
+    "name_en":"Gray Wolf",
+    "name_lo":"Canavar",
+    "taxon":"Animalia>Chordata>Mammalia>Carnivora>Canidae>Canis",
+    "criteria":"LC (Asgari Kaygı)",
+    "snippet": "Etçiller (Carnivora) takımının, köpekgiller familyasından, köpeğe benzeyen yırtıcı bir hayvan.",
+    "description":"Etçiller (Carnivora) takımının, köpekgiller familyasından, köpeğe benzeyen yırtıcı bir hayvan. Genellikle ıssız bölgelerde yaşar. Ağırlığı 35-50 kg’dır. Bazı Kanada kurtlarının ağırlığı 85-90 kiloya ulaşır. İri bir kurt, 120 cm uzunluğunda, omuz hizasında boyu 90 cm’dir. Ayrıca 50 cm uzunluğuna varan kuyruğu vardır. ",
+    "spread":"Türkiye: Hemen her yerde                                           ",
+    "nutrition":"Etobur hayvanlar, büyük ve küçük memelileri yerler. Besin azlığında kuşları da avlarlar. Vitamin ihtiyacı ve sindirim etkinliği için meyve ve yaprak tüketirler",
+    "nesting":"Yer altında kazdıkları tüneller ve kaya inlerinde",
+    "behavior":"n/a",
+    "lifetime":"13 yıl ama korunan alanlarda bu süre daha uzuyor",
+    "pairing":"Mart",
+    "breeding":"Mayıs ",
+    "relevant":"Tüm köpek türleri Kurtların evcilleştirilmesi sonucu oluşmuştur.",
+    "imageUrl": "images/mammal/501/thumb.jpg",
+    "images": [
+      "images/mammal/501/thumb.jpg",
+      "images/mammal/501/02.jpg"
+    ]
+  },
+
+{
+  "rank": 502, "id": "kostebek", "name_tr":"Köstebek",
+  "name_la":"Talpa levantis",
+  "taxon":"Animalia>Chordata>Mammalia>Soricomorpha>Talpidae>Talpa",
+  "name_en":"Levantine Mole",
+  "criteria":"LC (Asgari Kaygı)",
+  "name_lo":"Köstü ya da Kör Köstü",
+  "snippet": "Yeraltında, kazdıkları tünellerde yaşar.", "description":"Yeraltında, kazdıkları tünellerde yaşar. Tamamen kürkle kaplı silindirik vücut yapıları ve küçük gözleri vardır. Ayrıca genellikle kullakları görünmeyecek şekildedir. ",
+  "spread":"Türkiye: Hemen her yerde",
+  "nutrition":"Böceklerle beslenirler.",
+  "nesting":"Yer altında kazdıkları tüneller",
+  "behavior":"Genellikle toprak altlarında yaşarlar.Yuvalarının kenarında toprak yığınları oluştururlar bu yığınlar kör farenin yaptığı yığınlardan daha azdırlar.Sabahları ve akşamları yuvadan çıkarak avlanırlar. ",
+  "lifetime":"4 yıl kadar ",
+  "pairing":"",
+  "breeding":"",
+  "relevant":"",
+  "imageUrl": "images/mammal/502/thumb.jpg",
+  "images": [
+    "images/mammal/502/thumb.jpg"
+  ]
+},
+{"rank": 503, "id": "cuce-yarasa", "name_tr":"Cüce Yarasa","name_la":"Pipistrellus pipistrellus","taxon":"Animalia>Chordata>Mammalia>Chiroptera>Vespertilionidae>Pipistrellus ","name_en":"Common Pipistrelle ","criteria":"LC (Asgari Kaygı)","name_lo":"",
+  "snippet": "Avrupa, Kuzey Afrika ve Ortadoğu'ya kadar yayılan küçük bir yarasa türü.", "description":"Avrupa, Kuzey Afrika ve Ortadoğu'ya kadar yayılan küçük bir yarasa türü.Cüce yarasa, Türkiye'nin en küçük yarasa çeşitidir. Boyu 3,5 ila 4,5 cm., kanat açıklığı 19 cm. ila 25 cm.'dir. Daha çok ormanlarda ve kırsal bölgelerde yaşarlar, ama şehirlerin içinde de görüldükleri olur. Tavanaralarında uyurlar. ","spread":"Türkiye: Hemen her yerde",
+  "nutrition":"Güve, sivrisinek gibi küçük böceklerle beslenirler ",
+  "nesting":"Tavan araları,kaya oyukları,in ve mağaralar",
+  "behavior":"Güneş battıktan hemen sonra uçmaya başlar. Uçuşu düz hatta, hızlı ve kararsızdır. 1000 km kadar uzun mesafelere göç eder. Göç, güneş battıktan yarım saat sonra başlar. Bulundukları ortama çok bağlıdırlar, aynı yere yeniden geri dönerler. ","lifetime":"16 yıl","pairing":"Sonbahar ","breeding":"haziran - temmuz ","relevant":"Türkiye'nin en küçük yarasası olan cüce yarasa sadece 5 gram ağırlığındadır. ",
+  "imageUrl": "images/mammal/503/thumb.jpg",
+  "images": [
+    "images/mammal/503/thumb.jpg"
+  ]},
+{"rank": 504, "id": "yaban-tavsani", "name_tr":"Yaban Tavşanı","name_la":"Lepus europaeus","taxon":"Animalia>Chordata>Mammalia>Lagomorpha>Leporidae>Lepus","name_en":"European Hare  ","criteria":"LC (Asgari Kaygı)","name_lo":"Tavşan",
+  "snippet": "Ağırlığı 2-7 kg. arasında değişir. 10 cm. kadar bir kuyruğu olur.", "description":"Ağırlığı 2-7 kg. arasında değişir. 10 cm. kadar bir kuyruğu olur. Türkiye’deki bayağı tavşanlar, Avrupa’dakilerden biraz daha küçüktür. Kulakları çoğu kez arka ayakları kadar, bazen daha uzundur. Kulaklarını etrafa çevirebilirler. Yılda iki kez kıl değiştirirler. Yazın kahverengi ya da kahverengimsi gri, kışın daha açık ya da beyaz olurlar. ","spread":"Türkiye’nin her bölgesinde boldur ",
+  "nutrition":"Yazın yeşil bitkiler, mantarlar, meyveler, kışın ağaç kabukları ve kuru bitkileri yerler.Genellikle bitki kökleri ve bitki yumruları ile beslenirler.Ayrıca karpuz kavun gibi meyveleri ve köklerini çok severler.Ve de taze ot ve bitkilerle beslenirler ","nesting":"Toprak oyukları ve çalıların altına yuva yaparlar","behavior":"n/a","lifetime":"10-12 yıl kadar ","pairing":"","breeding":"Yılda en az 2-3 defa,en fazla 5-6 defa yavrularlar","relevant":"",
+  "imageUrl": "images/mammal/504/thumb.jpg",
+  "images": [
+    "images/mammal/504/thumb.jpg"
+  ]},
+{"rank":505, "id": "kafkas-sincabi", "name_tr":"Kafkas Sincabı","name_la":"Sciurus anomalus","taxon":"Animalia>Chordata>Mammalia>Rodentia>Sciuridae>Sciurus","name_en":"Caucasian squirrel  ","criteria":"LC (Asgari Kaygı)","name_lo":"",
+  "snippet": "Vücudunun üst kısmı açık sarıdan kırmızımsı kahverengine ve siyaha kadar değişir.", "description":"Vücudunun üst kısmı açık sarıdan kırmızımsı kahverengine ve siyaha kadar değişir. Kuyruktaki tüyler uzundur ve kuyruklarını kıvırıp sırtlarına değdirebilirler. Boyları 18-25 cm, kuyrukları 14-20 cm dir. Ağırlığı 15-51 gr dır. Gebelik süresi 30-40 gün olmakla birlikte yavru sayısı 3 ila 7 arasında değişir.","spread":"Ülkemizin neredeyse tamamında bulunma ",
+  "nutrition":"Çam kozalaklarından çıkardığı tohumlarla birlikte,mantar, meyve, yumurta ve kuş yavrularıyla da beslenir. ","nesting":" Eski ağaçkakan yuvalarında yaşarlar. ","behavior":"Gündüzleri aktif olan bu hayvanlar yuvalarını yaşlı ağaçlardaki kovuklara ya da ağaçkakan yuvalarına yaparlar. İyi bir tırmanıcıdır, tırnaklarını kullanarak ağaçlara çok iyi tırmanır. ","lifetime":"Yaşam süresi yaklaşık 10 yıl ","pairing":"Yılda 1-2 defa çiftleşirler","breeding":"","relevant":"",
+  "imageUrl": "images/mammal/505/thumb.jpg",
+  "images": [
+    "images/mammal/505/thumb.jpg"
+  ]},
+{"rank": 506, "id": "kizilsirtli-fare", "name_tr":"Kızılsırtlı Fare","name_la":"Myodes glareolus","taxon":"Animalia>Chordata>Mammalia>Rodentia>Cricetidae>Myodes","name_en":"Bank Vole","criteria":"LC (Asgari Kaygı)","name_lo":"",
+  "snippet": "Kzılımsı kahve rengi kürklerinin üzerinde gri lekeler bulunur.", "description":"Kzılımsı kahve rengi kürklerinin üzerinde gri lekeler bulunur. Kuyrukları vucutlarının yarı uzunluğundadır.Boyları 8 ila 12 cm kadardır. Karışık ormanlık alanlarda yaşarlar.Gündüz ve gece aktiftirler. Kış uykusuna yatmazlar.","spread":"Tarkya ve Karadenizin ormanlık bölgeleri.",
+  "nutrition":"","nesting":"","behavior":"n/a","lifetime":"Ortalama 2 yıl","pairing":"","breeding":"","relevant":"",
+  "imageUrl": "images/mammal/506/thumb.jpg",
+  "images": [
+    "images/mammal/506/thumb.jpg"
+  ]},
+{"rank": 507, "id": "siyah-ev-faresi", "name_tr":"Siyah Ev Faresi","name_la":"Mus musculus ","taxon":"Animalia>Chordata>Mammalia>Rodentia>Muridae>Mus","name_en":"Hause Mause","criteria":"LC (Asgari Kaygı)","name_lo":"",
+  "snippet": "Yetişkin bir farenin boyu 8 ila 10 cm kadardır.", "description":"Yetişkin bir farenin boyu 8 ila 10 cm kadardır.Kuyruk boyu ise 5-10 cm arasında değişmektedir.Ağırlıkları 10 ila 25 gr kadardır.Kürk rengi açık kahveden kırçıllı koyu kahveye kadar değişkenlik gösterir.","spread":"Dünyada insandan sonra nüfusu en yüksek olduğu düşünülen memeli türüdür. Bütün dünyada yaygındır.",
+  "nutrition":"Böceklerden evlerimizdeki yiyeceklere kadar uzanan geniş bir beslenme aralığı vardır","nesting":"Ağaç kütükleri, kaya oyukları, toprakatki küçük oyuklar,Samanlık ve ambarlar,müstakil evler ve apartmanlar","behavior":"n/a","lifetime":"Yaklaşık 2 yıl  ","pairing":"Sıcak ülkelerde ya da ısıtılan ortamlarda ev faresinin üremesi mevsimlere bağlı değildir. ","breeding":"","relevant":"",
+  "imageUrl": "images/mammal/507/thumb.jpg",
+  "images": [
+    "images/mammal/507/thumb.jpg"
+  ]},
+{"rank": 508, "id": "ev-sicani", "name_tr":"Ev Sıçanı","name_la":"Rattus rattus","taxon":"Animalia>Chordata>Mammalia>Rodentia>Muridae>Rattus","name_en":"Black Rat","criteria":"LC (Asgari Kaygı)","name_lo":"Lağım Faresi,Sıçan,Keme",
+  "snippet": "Sivri ağızları ve kesik üst dudakları vardır.", "description":"Sivri ağızları ve kesik üst dudakları vardır. Sadece bir adet keskin dişi ve bir kemirme dişi vardır. Ayakları ve kuyrukları ya tamamen kılsızdır ya da çok az kıllıdır.16 ila 23 santim uzunluğundadırlar.kuyruğu daima vücudundan daha uzundur. ","spread":"Türkiye: Hemen her yerde",
+  "nutrition":"Böceklerden evlerimizdeki yiyeceklere kadar uzanan geniş bir beslenme aralığı vardır","nesting":"Ağaç kütükleri, kaya oyukları, toprakatki küçük oyuklar,Samanlık ve ambarlar,müstakil evler ve apartmanlar","behavior":"n/a","lifetime":"","pairing":"","breeding":"Mart, Nisan ve Eylül ","relevant":"",
+  "imageUrl": "images/mammal/508/thumb.jpg",
+  "images": [
+    "images/mammal/508/thumb.jpg"
+  ]},
+{"rank": 509, "id": "gocmen-sican", "name_tr":"Göçmen Sıçan","name_la":"Rattus norvegicus","taxon":"Animalia>Chordata>Mammalia>Rodentia>Muridae>Rattus","name_en":"Brown Rat","criteria":"LC (Asgari Kaygı)","name_lo":"Kahverengi Sıçan,İskele Sıçanı",
+  "snippet": "Göçmen sıçanın sırt bölgesi kahverengimsi gri, karın bölgesi grimsidir.", "description":"Göçmen sıçanın sırt bölgesi kahverengimsi gri, karın bölgesi grimsidir. Göçmen fareler özellikle geceleri aktiftirler ve gerek suyun üstünde gerekse de su altında olmak üzere çok iyi yüzücüdürler. Göçmen fareler iyi kazıcıdırlar derin çukurlar açarak toprakta ilerlerler.","spread":"Türkiye: Hemen her yerde",
+  "nutrition":"Göçmen Sıçanlar omnivordurlar. Böceklerle,yabani bitkilerle,tohumlarla,kağıt ","nesting":"Göçmen sıçan binalardaki oyuklarda, uzun kollara ayrılan ve dışarıya çıkışı çok olan tünellerdeki yemek depolayabilecekleri küçük bölümlerde yaşarlar. ","behavior":"Köpekler gibi göçmen sıçanlarda da sosyal bir hiyerarşileri vardır, sıçanların içinde bir birey baskındır ve baskın olan sıçanın kendine ait bir bölgesi vardır. Bireyleri arasında liderlik için sıçrama, koşuşturma, yuvarlanma gibi hareketler eşliğinde ciddi kavgalar olur ve kavga taraflardan biri geri çekilene kadar devam eder. ","lifetime":"3 Yıl","pairing":"","breeding":"üretkenlikleri yıl içinde mart ile haziran ayları arasında zirvededir ve eylül ve ekim ayları arasında azalır ","relevant":"Orman faresi de, sincap gibi sonbaharda bu yuvasının kilerine kış için tohum yiyecekler depo eder.Temizliğe düşkün olduğu için ayrı bir çöplüğü bile vardır  ",
+  "imageUrl": "images/mammal/509/thumb.jpg",
+  "images": [
+    "images/mammal/509/thumb.jpg"
+  ]},
+{"rank": 510, "id": "orman-faresi", "name_tr":"Orman Faresi","name_la":"Apodemus sylvaticus","taxon":"Animalia>Chordata>Mammalia>Rodentia>Muridae>Apodemus","name_en":"long-tailed field mouse","criteria":"LC (Asgari Kaygı)","name_lo":"",
+  "snippet": "Ev faresine benzer. Boyun arkası sarı olan kahverengi bir kürke sahiptir.", "description":"Ev faresine benzer. Boyun arkası sarı olan kahverengi bir kürke sahiptir. Genellikle yalnız yaşar.Çİftleşmek için bir araya gelirler.","spread":"Türkiye: Hemen her yerde",
+  "nutrition":"Tohumlarla beslenir.","nesting":"Yuvalarını odalı ve depo gibi yapmalarından mağara faresi, yuvalarında biriktirdikleri çeşitli materyaller yüzündende tüccar fare diyede adlandırılır.  ","behavior":"n/a","lifetime":"","pairing":"Ocak","breeding":"Mart","relevant":"",
+  "imageUrl": "images/mammal/510/thumb.jpg",
+  "images": [
+    "images/mammal/510/thumb.jpg"
+  ]},
+{"rank": 511, "id": "tilki", "name_tr":"Tilki","name_la":"Vulpes vulpes","taxon":"Animalia>Chordata>Mammalia>Carnivora>Canidae>Vulpes","name_en":"Red Fox","criteria":"LC (Asgari Kaygı)","name_lo":"",
+  "snippet": "Büyük kulakları ve uzun, bol tüylü, kabarık kuyruğu vardır.", "description":"Büyük kulakları ve uzun, bol tüylü, kabarık kuyruğu vardır. Kuyruğun bu özelliği, onu çoğu zaman olduğundan büyük gösterir. Burnu sivridir. İnce ve uzun bacaklıdır. Post tüyleri yaşadığı yere göre değişse de, büyük çoğunluğunun postu kızıl renklidir.","spread":"Kızıl tilki, çok geniş bir coğrafyaya yayılmıştır; Avrupa, Asya, Kuzey Afrika, Avustralya ve Kuzey Amerika... Kutuplar dahil.",
+  "nutrition":"Daha çok kemiricilerle beslenirler; fareler ve tavşanlar ortalama mönüdür tilki için. Yuvalarını yerde kuran kuşlar, tavuksular, böcekler, balıklar ","nesting":"Ağaç kovuklarında da yuva yapabilirler. Bazı tilkiler yuvayı sadece bebekleri olacağı/olduğu zaman kullanırlar. Diğer zamanlarda açık alanda dinlenmeyi tercih ederler. ","behavior":"Kızıl tilki senenin büyük bir bölümünü yalnız geçirir; yuvalarını kurup yavruları olana kadar yalnız yaşarlar ve yalnız avlanırlar. ","lifetime":"12 Yıl","pairing":"Aralık- Ocak-Şubat","breeding":"50 günlük bir gebelik dönemi ","relevant":"Çok zeki, hızlı ve çeviktirler. Kolay kolay hayatlarını tehlikeye atmazlar. İşitme duyuları çok güçlüdür. Utangaç ve meraklı oldukları da gözlenebilir.  ",
+  "imageUrl": "images/mammal/511/thumb.jpg",
+  "images": [
+    "images/mammal/511/thumb.jpg"
+  ]},
+{"rank": 512, "id": "boz-ayi", "name_tr":"Boz Ayı","name_la":"Ursus arctos","taxon":"Animalia>Chordata>Mammalia>Carnivora>Ursidae>Ursus","name_en":"Brown Bear","criteria":"LC (Asgari Kaygı)","name_lo":"Kocaoğlan,Karadeniz yöresinde Datvi ",
+  "snippet": "İri yapılı,kısa bacaklı hayvanlardır. Baştan kuyruk sokumuna kadar uzunlukları 1 ile 2,8 m arasında değişiklik gösterir.", "description":"İri yapılı,kısa bacaklı hayvanlardır. Baştan kuyruk sokumuna kadar uzunlukları 1 ile 2,8 m arasında değişiklik gösterir. Arka ayakları üzerinde oturduklarında boyları 2,43 m olabilir. Erkeler dişilerden daha iridir.  Kürkleri genellikle koyu kahverengidir. Fakat krem renginden hemen hemen siyaha kadar geniş bir renk yelpazesine sahip olabilir.Bu iri yapılarına rağmen iyi koşucu ve iyi yüzücüdürler.","spread":"İç Anadolu, Akdeniz ve Ege bölgesinin bazı illeri, Trakya bölgesi ve Suriye sınıran yakın alanların bir kısmı hariç birçok ilimizde bulunur. ",
+  "nutrition":"Hem etçil hem de otçul olması sebebiyle beslenme diyeti oldukça geniştir. Çeşitli meyvelerden  bala, geyiklerden alabalıklara kadar kadar zengin bir menüye sahip bOz ayının bazen hayvan leşlerini de yediği gözlenmiştir. Yerleşim yerleri yakınlarında ise çöplüklerde de görülebilirler.","nesting":"İnler ve mağaralar","behavior":"Yalnız yaşarlar.Ormanın en büyük canlısı olmasına ve çarpıcı cüssesine rağmen oldukça ürkek ve korkak canlıdır. İnsanlar ile karşı karşıya gelmemeye çalışır. ","lifetime":"Doğada yaklaşık 20 yıl kadar  ","pairing":"Genellikle Mayıs","breeding":"Ocak-Şubat","relevant":"",
+  "imageUrl": "images/mammal/512/thumb.jpg",
+  "images": [
+    "images/mammal/512/thumb.jpg"
+  ]},
+{"rank": 513, "id": "karaca", "name_tr":"Karaca","name_la":"Capreolus capreolus","taxon":"Animalia>Chordata>Mammalia>Artiodactyla>Cervidae>Capreolus ","name_en":" European Roe Deer","criteria":"LC (Asgari Kaygı)","name_lo":"",
+  "snippet": "Vücut Yüksekliği 95 ila 135 cm arasında değişen küçük bir geyik türürdür.", "description":"Vücut Yüksekliği 95 ila 135 cm arasında değişen küçük bir geyik türürdür. Erkelerde kısa ve dik boynuzlar bulunur. Kürkü kızılımsı bir renktedir,üzerinde grimsi  benkler bulunur. Mevsimsel olarak ton değişimleri gözlenebilir.","spread":" Türkiye'de sıcak bölgelerde deyrek ağaçlı yerlerde görülür  ",
+  "nutrition":"Otsu bitki ve yapraklarla beslenirler ","nesting":"Yaşama alanı daha çok ormanlık alanlardır.","behavior":"Gruplar halinde yaşarlar.","lifetime":"10 yıl","pairing":"Temmuz-Ağustos","breeding":"Mayıs-Haziran","relevant":"",
+  "imageUrl": "images/mammal/513/thumb.jpg",
+  "images": [
+    "images/mammal/513/thumb.jpg"
+  ]},
+{"rank": 514, "id": "gelincik", "name_tr":"Gelincik","name_la":"Mustela nivalis","taxon":"Animalia>Chordata>Mammalia>Carnivora>Mustelidae>Mustela ","name_en":"Least Weasel","criteria":"LC (Asgari Kaygı)","name_lo":"",
+  "snippet": "Bayağı gelincik tüm etçiller takımının en küçük üyesidir.", "description":"Bayağı gelincik tüm etçiller takımının en küçük üyesidir. Uzunluğu 11-26 cm (+2-8 cm kuyruk) ve ağırlığı 25-250 gram arası değişir.  Mevsime göre renkleri değişebilir. Yaz mevsiminde üst kısımları kahverengi ve karınları beyaz olur, ama kışın tamamen beyaz olurlar. ","spread":"Türkiyenin batısı. Bazı doğu anadolu  illeri ve  doğu karadeniz",
+  "nutrition":"En fazla küçük memeliler, özellikle kemiriciler ile beslenir. Vücut yapıları fare tünellerine girmek için çok elverişlidir. Bu kısıtlı besin seçeneğinden dolayı, bir bölgede yaşayabilmek için belli bir fare popülasyonuna ihtiyacı vardır. Ancak mevsimine göre kuşlar, kuş yumurtaları, yavru tavşanlar, yeni doğmuş kediler veya kertenkeleler ile de beslenebilirler. ","nesting":"","behavior":" Bereketli bir bölgeye yerleştiklerinde bir daha uzaklaşmaz ve oranın yerlisi olurlar. Avlandıkları bölgeye sahip çıkarlar ve bu bölgenin sınırlarını anal bezelerinde ürettikleri bir kokulu sıvı ile işaretlerler.  ","lifetime":"3-5 Yıl","pairing":"Bütün sene boyunca çiftleşebilirler, ama üreme faaliyetlerin yoğunlaştığı zaman ilkbahardır. ","breeding":"Çiftleştikten 35-40 gün sonra","relevant":"",
+  "imageUrl": "images/mammal/514/thumb.jpg",
+  "images": [
+    "images/mammal/514/thumb.jpg"
+  ]},
+{"rank": 515, "id": "yaban-domuzu", "name_tr":"Yaban Domuzu","name_la":"Sus scrofa","taxon":"Animalia>Chordata>Mammalia>Artiodactyla>Suidae>Sus ","name_en":"Wild Boar","criteria":"LC (Asgari Kaygı)","name_lo":"",
+  "snippet": "İri gövdeli,kalın ve kuvvetli bacakları ve büyük başı ile güçlü bir görünüşe sahiptirler.", "description":"İri gövdeli,kalın ve kuvvetli bacakları ve büyük başı ile güçlü bir görünüşe sahiptirler.Kırçıllı siyahtan boza kadar değişik renklere sahiptirler.  ","spread":"Türkiyede hemen hemen her yerde bulunurlar. ",
+  "nutrition":"Ceviz,kestane,fındık,tohum ve meyveler yanında bitki artıkları içerisindeki solucan ile böceklerle beslenirler.  ","nesting":"İyi bir örtüye sahip her türlü ortamda yaşayabilirler.Ancak yapraklı ve karışık ormanları tercih ederler.Sazlıklar,sık çalı,saz ile çevrili bataklık ve sık çalılıklı meralarda yaşarlar.  ","behavior":"Sürü halinde dolaşırlar ve yanında yaavruları olmadığı sürece tehlikeli değilleridr.  ","lifetime":"20-25 Yıl","pairing":"Kasımdan Ocaka ayına kadar","breeding":"Mart-Mayıs","relevant":"",
+  "imageUrl": "images/mammal/515/thumb.jpg",
+  "images": [
+    "images/mammal/515/thumb.jpg"
+  ]}
+]

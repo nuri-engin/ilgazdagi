@@ -1,0 +1,21 @@
+{
+  "rank": 106,
+  "id": "kucuk-orman-kartali",
+  "name_tr":"Küçük Orman Kartalı",
+  "name_la":"Clanga pomarina",
+  "name_en":"Lesser spotted eagle",
+  "criteria":"LC (Asgari Kaygı)",
+  "snippet": "İnce kanatlı, uzun kuyruklu, orantılı orta boy bir kartaldır.",
+  "description":"İnce kanatlı, uzun kuyruklu, orantılı orta boy bir kartaldır. Kanadının alt ve üst tarafından kanat örtü tüyleri kanat teleklerinden daha açık renkli görünür. Kanat telekleri ile alt örtü tüyleri arasında iki sıra virgül şeklinde beyaz çizgi görülür. Ayrıca küçük orman kartalının 7. kanat teleği çok kısa olduğu için uçarken 6 parmaklı görülür.",
+  "habitat":"Göç esnasında farklı tip alanları kullanırlar ancak üremek için ormanlık arazileri kullanırlar. Kış aylarını geçirdikleri Afrika'da daha çok savanları tercih ederler.",
+  "spread":"Göç eden bir türdür ve üreme döneminde Avrupa, Türkiye, Kafkas dağları ve İran bölgelerini kullanırlar. Kışı geçirmek için de İsrail üzerinden güney ve doğu Afrika'ya giderler.  ",
+  "morphology":"Boyu: 55-65 cm              Kanat açıklığı: 134-168 cm  Ağırlık: 1600g",
+  "nutrition":"Etoburdur. Temel besin maddelerini memeliler, amfibiler, böcekler, sürüngenler, kuşlar oluşturur.",
+  "gamogeneses":"Nisan-mayıs aylarında ürerler. Dişi 1-3 adet yumurta bırakır.  Kuluçka dönemi 36-41 gün sürer. Yumurtadan çıktıktan 8 hafta sonra yavrular yuvadan ayrılmaya hazır hale gelir.",
+  "ilgaz_population":"Nadir ve yaz göçmeni",
+  "taxon": "Animalia> Chordata> Aves> Accipitriformes> Accipitridae> Clanga>",
+  "imageUrl": "images/bird/106-kucuk_orman_kartali/thumb.jpg",
+  "images": [
+    "images/bird/106-kucuk_orman_kartali/thumb.jpg"
+  ]
+}

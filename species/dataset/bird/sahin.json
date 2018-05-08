@@ -1,0 +1,21 @@
+{
+  "rank": 102,
+  "id": "sahin",
+  "name_tr":"Şahin",
+  "name_la":"Buteo buteo",
+  "name_en":"Common buzzard",
+  "criteria":"LC (Asgari Kaygı)",
+  "snippet": "Atmacagiller(Accipitridae) ailesinin Buteo(şahinler) cinsine ait yırtıcı bir kuş türüdür.",
+  "description":"Atmacagiller(Accipitridae) ailesinin Buteo(şahinler) cinsine ait yırtıcı bir kuş türüdür. Geniş kanatlı, geniş ve kısa kafalı, tıknaz, orta boylu bir yırtıcıdır. Uçuş kuyruğu yelpaze şeklindedir ve yetişkinlerde terminal kuyruk bandı siyahımsıdır. Tüylerinin rengi çok koyudan çok açığa kadar farklı renk varyasyonları gösterebilir. Kanat üstleri düz renktir, kanat altları çok desenlidir. Genellikle kanatlarının firar hattı ve kanat uçları koyu renklidir.",
+  "habitat":"Geniş yaşam alanı vardır. Açık alanlar, tarım alanları, meralar, bataklıklara yakın ormanlık alanlar, karışık yapraklı ormanlar ve dağlık bölgelerde yaşarlar. Yuvalarını ağaçlara yaparlar. ",
+  "spread":" Göç eden bir türdür. İzlanda ve Kuzey İskandinavya dışında tüm Avrupa kıtasında ve Batı Asya'da geniş bir dağılım gösterir. Kuzey Avrupa populasyonun bir kısmı göç esnasında geçiş için, bir kısmı da üremek için Türkiye'yi kullanır. Ülkemizde yaygın bir türdür, kışın tarım alanlarında en çok görülen yırtıcıdır.",
+  "morphology":"Boyu: 46-58 cm. Kanat açıklığı: 110-132 cm  Ağırlık: 550-1200 g",
+  "nutrition":"Etobur bir canlıdır. Küçük memeliler, kuşlar, sürüngenler, amfibiler, böcekler gibi canlılardan oluşan geniş bir besin tercihi vardır. Açıklık alanların yakınlarında ağaca tünemiş olarak avını gözler.",
+  "gamogeneses":"Mart- Mayıs ayları arası üreme dönemleridir. Dişi 2-4 adet yumurta bırakır ve kuluçkaya yatar. Kuluçka süresi 33-38 gündür. Yumurtadan çıktıktan 50-60 gün sonra genç bireyler yuvadan uçmaya hazır hale gelir.  ",
+  "ilgaz_population":"Nadir ve yerleşik tür",
+  "taxon": "Animalia> Chordata> Aves> Accipitriformes> Accipitridae> Buteo>",
+  "imageUrl": "images/bird/102-sahin/thumb.jpg",
+  "images": [
+    "images/bird/102-sahin/thumb.jpg"
+  ]
+}
